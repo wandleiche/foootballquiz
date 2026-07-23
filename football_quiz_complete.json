@@ -980,8 +980,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yj355p1763554027.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andreas_Hanche-Olsen_38394.png"
   },
   {
     "id": 8785,
@@ -996,8 +998,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/33jwy01763553996.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Anthony_Caci_8785.png"
   },
   {
     "id": 150647,
@@ -1030,8 +1034,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bdyc0k1763554010.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Danny_da_Costa_6707.png"
   },
   {
     "id": 152,
@@ -1046,8 +1052,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l4f6561763554075.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dominik_Kohr_152.png"
   },
   {
     "id": 152726,
@@ -1062,8 +1070,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zqns361763242734.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Eric_Martel_152726.png"
   },
   {
     "id": 182050,
@@ -1078,8 +1088,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jrit871772654731.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Fabio_Gruber_182050.png"
   },
   {
     "id": 180775,
@@ -1094,8 +1106,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bwhqch1765876319.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hyun-seok_Hong_180775.png"
   },
   {
     "id": 276971,
@@ -1110,8 +1124,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sbgo8p1775205300.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kacper_Potulski_276971.png"
   },
   {
     "id": 114809,
@@ -1126,8 +1142,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fkpbew1763558803.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kaishu_Sano_114809.png"
   },
   {
     "id": 3347,
@@ -1174,8 +1192,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/st9njq1772289621.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marco_Richter_6664.png"
   },
   {
     "id": 171181,
@@ -1206,8 +1226,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iidf781763553903.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nadiem_Amiri_320.png"
   },
   {
     "id": 181758,
@@ -1238,8 +1260,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4vwas01763554161.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Paul_Nebel_150432.png"
   },
   {
     "id": 6576,
@@ -1270,8 +1294,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wdwbeh1775205775.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Phillip_Tietz_45593.png"
   },
   {
     "id": 137302,
@@ -1286,8 +1312,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/teu04x1763416900.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ransford_Königsdörffer_137302.png"
   },
   {
     "id": 6616,
@@ -1302,8 +1330,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/arbut31763553871.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Robin_Zentner_6616.png"
   },
   {
     "id": 7633,
@@ -1318,8 +1348,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x1ae841775205868.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sheraldo_Becker_7633.png"
   },
   {
     "id": 82354,
@@ -1334,8 +1366,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pz1qar1763586366.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Silas_Wamangituka_82354.png"
   },
   {
     "id": 2114,
@@ -1350,8 +1384,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w2omdl1763554296.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Silvan_Widmer_2114.png"
   },
   {
     "id": 147832,
@@ -1366,8 +1402,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8h6t9s1763554057.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sota_Kawasaki_147832.png"
   },
   {
     "id": 6620,
@@ -1436,8 +1474,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tosz7u1766146497.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Afonso_Moreira_204136.png"
   },
   {
     "id": 33524,
@@ -1470,8 +1510,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m37g9z1756316409.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alejo_Sarco_250453.png"
   },
   {
     "id": 282096,
@@ -1536,8 +1578,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2eqfyx1756316089.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Christian_Kofane_274045.png"
   },
   {
     "id": 64713,
@@ -1586,8 +1630,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ernest_Poku_167793.png"
   },
   {
     "id": 11720,
@@ -1620,8 +1666,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/n6trok1772282520.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Farid_Alfa-Ruprecht_272311.png"
   },
   {
     "id": 202532,
@@ -1760,8 +1808,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sfkv2p1769721901.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kerim_Alajbegović_272213.png"
   },
   {
     "id": 136039,
@@ -1848,8 +1898,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lq0aiq1756316748.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Martin_Terrier_8797.png"
   },
   {
     "id": 287850,
@@ -1864,8 +1916,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/28ccqi1773669901.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Montrell_Culbreath_287850.png"
   },
   {
     "id": 289573,
@@ -1896,8 +1950,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1rh7pn1756316720.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nathan_Tella_144715.png"
   },
   {
     "id": 165,
@@ -1948,8 +2004,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zfxtjv1756316702.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Patrik_Schick_1826.png"
   },
   {
     "id": 45611,
@@ -2000,8 +2058,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7e2phd1763665992.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Victor_Boniface_130811.png"
   },
   {
     "id": 9389,
@@ -2016,8 +2076,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9uexf01756326428.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alexander_Meyer_9389.png"
   },
   {
     "id": 263672,
@@ -2066,8 +2128,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q4wdbj1756326141.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daniel_Svensson_145937.png"
   },
   {
     "id": 117476,
@@ -2082,8 +2146,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rj504b1773672624.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Diant_Ramaj_117476.png"
   },
   {
     "id": 3183,
@@ -2098,8 +2164,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/grs3841756326161.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Emre_Can_3183.png"
   },
   {
     "id": 101074,
@@ -2132,8 +2200,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hxuw061756326401.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Filippo_Mané_261058.png"
   },
   {
     "id": 125151,
@@ -2166,8 +2236,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vri4zw1756326279.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gregor_Kobel_334.png"
   },
   {
     "id": 171692,
@@ -2200,8 +2272,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3cofj41756326544.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Julian_Ryerson_44030.png"
   },
   {
     "id": 250337,
@@ -2250,8 +2324,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rps4361769721996.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kouakou_Gadou_246542.png"
   },
   {
     "id": 290034,
@@ -2266,8 +2342,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6kn1261773670363.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luca_Reggiani_290034.png"
   },
   {
     "id": 9551,
@@ -2282,8 +2360,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m0if0e1756326525.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcel_Sabitzer_9551.png"
   },
   {
     "id": 279093,
@@ -2348,8 +2428,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fw07jw1756326507.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nico_Schlotterbeck_75539.png"
   },
   {
     "id": 7109,
@@ -2364,8 +2446,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3yh0co1756326693.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Patrick_Drewes_7109.png"
   },
   {
     "id": 8805,
@@ -2380,8 +2464,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z5sfyp1756326052.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ramy_Bensebaini_8805.png"
   },
   {
     "id": 279090,
@@ -2448,8 +2534,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mldw8p1756325923.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Waldemar_Anton_379.png"
   },
   {
     "id": 144283,
@@ -2464,8 +2552,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hadu641756326239.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Yan_Couto_144283.png"
   },
   {
     "id": 6985,
@@ -4614,8 +4704,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/953l3e1773610981.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Adrian_Gantenbein_146151.png"
   },
   {
     "id": 67246,
@@ -4630,8 +4722,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wmjrnk1773610959.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Anton_Donkor_67246.png"
   },
   {
     "id": 518,
@@ -4696,8 +4790,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zucfi81773611158.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dejan_Ljubicic_10656.png"
   },
   {
     "id": 263463,
@@ -4746,8 +4842,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/145tun1773611228.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Finn_Porath_10366.png"
   },
   {
     "id": 113746,
@@ -4762,8 +4860,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/53ffd21773611109.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hasan_Kuruçay_113746.png"
   },
   {
     "id": 7048,
@@ -4778,8 +4878,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/spz8ri1773610906.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Janik_Bachmann_7048.png"
   },
   {
     "id": 279849,
@@ -4810,8 +4912,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/llj7t81773611048.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kenan_Karaman_303.png"
   },
   {
     "id": 7013,
@@ -4926,8 +5030,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/omf8ra1773610889.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mertcan_Ayhan_278329.png"
   },
   {
     "id": 272835,
@@ -4976,8 +5082,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tnvi3o1773611092.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nikola_Katić_23182.png"
   },
   {
     "id": 1847,
@@ -4992,8 +5100,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5tj0m51758891747.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Robin_Gosens_1847.png"
   },
   {
     "id": 45582,
@@ -5008,8 +5118,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g1neyo1773611266.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ron_Schallenberg_45582.png"
   },
   {
     "id": 117469,
@@ -5024,8 +5136,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qdcnrd1772722110.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Satoshi_Tanaka_117469.png"
   },
   {
     "id": 170360,
@@ -5072,8 +5186,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hyefer1773610928.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Timo_Becker_10324.png"
   },
   {
     "id": 3961,
@@ -5088,8 +5204,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cplckw1773611034.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tomáš_Kalas_3961.png"
   },
   {
     "id": 260737,
@@ -5104,8 +5222,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2lmt661773610942.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Vitalie_Becker_260737.png"
   },
   {
     "id": 270957,
@@ -7956,8 +8076,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/plqvus1763666310.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Keke_Topp_176637.png"
   },
   {
     "id": 281103,
@@ -8196,8 +8318,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9fx4h1775211540.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Salim_Musah_280220.png"
   },
   {
     "id": 217678,
@@ -8212,8 +8336,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yqmqiz1763666165.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Samuel_Mbangula_217678.png"
   },
   {
     "id": 9765,
@@ -9472,1520 +9598,6 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
-  },
-  {
-    "id": 8231,
-    "name": "Adam Smith",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 135482,
-    "name": "Adrien Truffert",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qmpz4n1757018404.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Adrien_Truffert_135482.png"
-  },
-  {
-    "id": 161088,
-    "name": "Alex Scott",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 192316,
-    "name": "Alex Toth",
-    "position": "Midfield",
-    "nationality": "Hungary",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 189369,
-    "name": "Alvaro Rodriguez",
-    "position": "Offence",
-    "nationality": "Spain",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 137047,
-    "name": "Amine Adli",
-    "position": "Offence",
-    "nationality": "Morocco",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 98745,
-    "name": "Bafodé Diakité",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7t7a9v1757017868.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Bafodé_Diakité_98745.png"
-  },
-  {
-    "id": 176789,
-    "name": "Ben Doak",
-    "position": "Offence",
-    "nationality": "Scotland",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 273152,
-    "name": "Ben Winterburn",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/bsoemy1755949917.jpg",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ben_Winterburn_273152.png"
-  },
-  {
-    "id": 169191,
-    "name": "Daniel Jebbison",
-    "position": "Offence",
-    "nationality": "Canada",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 4321,
-    "name": "David Brooks",
-    "position": "Offence",
-    "nationality": "Wales",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4pn7br1757018500.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/David_Brooks_4321.png"
-  },
-  {
-    "id": 204241,
-    "name": "Eli Kroupi",
-    "position": "Offence",
-    "nationality": "France",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 33132,
-    "name": "Enes Ünal",
-    "position": "Offence",
-    "nationality": "Turkey",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wfcb6f1757018832.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Enes_Ünal_33132.png"
-  },
-  {
-    "id": 131260,
-    "name": "Evanilson",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cvegel1757018013.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Evanilson_131260.png"
-  },
-  {
-    "id": 8079,
-    "name": "Fraser Forster",
-    "position": "Goalkeeper",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z5g1ro1739275063.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Fraser_Forster_8079.png"
-  },
-  {
-    "id": 82145,
-    "name": "James Hill",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/alj7x31757018558.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/James_Hill_82145.png"
-  },
-  {
-    "id": 113335,
-    "name": "Julian Araujo",
-    "position": "Defence",
-    "nationality": "USA",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9tw0xl1725360958.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Julian_Araujo_113335.png"
-  },
-  {
-    "id": 183583,
-    "name": "Julio Soler",
-    "position": "Defence",
-    "nationality": "Argentina",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l2aysv1757017964.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Julio_Soler_183583.png"
-  },
-  {
-    "id": 7561,
-    "name": "Justin Kluivert",
-    "position": "Midfield",
-    "nationality": "Netherlands",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lj7fft1757018300.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Justin_Kluivert_7561.png"
-  },
-  {
-    "id": 3327,
-    "name": "Lewis Cook",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uf2dcw1757018455.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Lewis_Cook_3327.png"
-  },
-  {
-    "id": 6396,
-    "name": "Marcus Tavernier",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6bxpw41757018787.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Marcus_Tavernier_6396.png"
-  },
-  {
-    "id": 187546,
-    "name": "Matai Akinmboni",
-    "position": "Defence",
-    "nationality": "USA",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zizv471757170865.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Matai_Akinmboni_187546.png"
-  },
-  {
-    "id": 80765,
-    "name": "Max Aarons",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w5ww741777017119.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Max_Aarons_80765.png"
-  },
-  {
-    "id": 203356,
-    "name": "Rayan",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 34495,
-    "name": "Ryan Christie",
-    "position": "Midfield",
-    "nationality": "Scotland",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 77596,
-    "name": "Tyler Adams",
-    "position": "Midfield",
-    "nationality": "USA",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Tyler_Adams_77596.png"
-  },
-  {
-    "id": 227046,
-    "name": "Veljko Milosavljević",
-    "position": "Defence",
-    "nationality": "Serbia",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bmbkt61757170217.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Veljko_Milosavljević_227046.png"
-  },
-  {
-    "id": 131127,
-    "name": "Will Dennis",
-    "position": "Goalkeeper",
-    "nationality": "England",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cgjr7u1757019012.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Will_Dennis_131127.png"
-  },
-  {
-    "id": 121765,
-    "name": "Đorđe Petrović",
-    "position": "Goalkeeper",
-    "nationality": "Serbia",
-    "team_name": "AFC Bournemouth",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zo91cp1766827442.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Đorđe_Petrović_121765.png"
-  },
-  {
-    "id": 6154,
-    "name": "Ben White",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 99813,
-    "name": "Bukayo Saka",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xfwok41769331816.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Bukayo_Saka_99813.png"
-  },
-  {
-    "id": 24102,
-    "name": "Christian Nørgaard",
-    "position": "Midfield",
-    "nationality": "Denmark",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ia9o8w1769331494.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Christian_Nørgaard_24102.png"
-  },
-  {
-    "id": 172839,
-    "name": "Cristhian Mosquera",
-    "position": "Defence",
-    "nationality": "Spain",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mzik4g1769331540.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Cristhian_Mosquera_172839.png"
-  },
-  {
-    "id": 4832,
-    "name": "David Raya",
-    "position": "Goalkeeper",
-    "nationality": "Spain",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/21rp2q1769331784.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/David_Raya_4832.png"
-  },
-  {
-    "id": 8215,
-    "name": "Declan Rice",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/do2pew1694204464.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Declan_Rice_8215.png"
-  },
-  {
-    "id": 4032,
-    "name": "Eberechi Eze",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jcabmd1769330240.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Eberechi_Eze_4032.png"
-  },
-  {
-    "id": 188476,
-    "name": "Ethan Nwaneri",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/duej621756983689.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ethan_Nwaneri_188476.png"
-  },
-  {
-    "id": 112948,
-    "name": "Fabio Vieira",
-    "position": "Midfield",
-    "nationality": "Portugal",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cqxh0s1763417157.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Fabio_Vieira_112948.png"
-  },
-  {
-    "id": 3236,
-    "name": "Gabriel Jesus",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rwsqi51769330458.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Gabriel_Jesus_3236.png"
-  },
-  {
-    "id": 23128,
-    "name": "Gabriel Magalhães",
-    "position": "Defence",
-    "nationality": "Brazil",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/trz5x71769331076.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Gabriel_Magalhães_23128.png"
-  },
-  {
-    "id": 74831,
-    "name": "Illan Meslier",
-    "position": "Goalkeeper",
-    "nationality": "France",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qw61t91757078451.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Illan_Meslier_74831.png"
-  },
-  {
-    "id": 98816,
-    "name": "Jurrien Timber",
-    "position": "Defence",
-    "nationality": "Netherlands",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a5hw8k1769332018.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Jurrien_Timber_98816.png"
-  },
-  {
-    "id": 171,
-    "name": "Kai Havertz",
-    "position": "Offence",
-    "nationality": "Germany",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hem4r91694204364.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Kai_Havertz_171.png"
-  },
-  {
-    "id": 3189,
-    "name": "Kepa Arrizabalaga",
-    "position": "Goalkeeper",
-    "nationality": "Spain",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mad9wz1768229982.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Kepa_Arrizabalaga_3189.png"
-  },
-  {
-    "id": 7427,
-    "name": "Martin Ødegaard",
-    "position": "Midfield",
-    "nationality": "Norway",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5g6vww1769331695.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Martin_Ødegaard_7427.png"
-  },
-  {
-    "id": 61450,
-    "name": "Martinelli",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 115035,
-    "name": "Martín Zubimendi",
-    "position": "Midfield",
-    "nationality": "Spain",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lj71fn1769331598.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Martín_Zubimendi_115035.png"
-  },
-  {
-    "id": 285128,
-    "name": "Max Dowman",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jzgrge1766827300.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Max_Dowman_285128.png"
-  },
-  {
-    "id": 7935,
-    "name": "Mikel Merino",
-    "position": "Midfield",
-    "nationality": "Spain",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/07opk31769330730.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Mikel_Merino_7935.png"
-  },
-  {
-    "id": 244120,
-    "name": "Myles Lewis-Skelly",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7g2c521769330817.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Myles_Lewis-Skelly_244120.png"
-  },
-  {
-    "id": 167720,
-    "name": "Noni Madueke",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0x05ou1769330933.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Noni_Madueke_167720.png"
-  },
-  {
-    "id": 125674,
-    "name": "Piero Hincapié",
-    "position": "Defence",
-    "nationality": "Ecuador",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Piero_Hincapié_125674.png"
-  },
-  {
-    "id": 7799,
-    "name": "Reiss Nelson",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gzbhps1756990425.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Reiss_Nelson_7799.png"
-  },
-  {
-    "id": 133512,
-    "name": "Riccardo Calafiori",
-    "position": "Defence",
-    "nationality": "Italy",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/e6icgz1769330125.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Riccardo_Calafiori_133512.png"
-  },
-  {
-    "id": 171455,
-    "name": "Tommy Setford",
-    "position": "Goalkeeper",
-    "nationality": "England",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 8279,
-    "name": "Viktor Gyökeres",
-    "position": "Offence",
-    "nationality": "Sweden",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Viktor_Gyökeres_8279.png"
-  },
-  {
-    "id": 80171,
-    "name": "William Saliba",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/czasy21769331889.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/William_Saliba_80171.png"
-  },
-  {
-    "id": 260718,
-    "name": "Alysson",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 114024,
-    "name": "Amadou Onana",
-    "position": "Midfield",
-    "nationality": "Belgium",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q2bvps1725359471.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Amadou_Onana_114024.png"
-  },
-  {
-    "id": 203594,
-    "name": "Andrés Garcia",
-    "position": "Defence",
-    "nationality": "Spain",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 8346,
-    "name": "Boubacar Kamara",
-    "position": "Midfield",
-    "nationality": "France",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6ki4781756984876.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Boubacar_Kamara_8346.png"
-  },
-  {
-    "id": 31941,
-    "name": "Emiliano Buendía",
-    "position": "Offence",
-    "nationality": "Argentina",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/10qe2t1756984661.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Emiliano_Buendía_31941.png"
-  },
-  {
-    "id": 3141,
-    "name": "Emiliano Martínez",
-    "position": "Goalkeeper",
-    "nationality": "Argentina",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Emiliano_Martínez_3141.png"
-  },
-  {
-    "id": 128710,
-    "name": "Evann Guessand",
-    "position": "Offence",
-    "nationality": "Ivory Coast",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x99loi1772141649.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Evann_Guessand_128710.png"
-  },
-  {
-    "id": 6317,
-    "name": "Ezri Konsa",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 131120,
-    "name": "Ian Maatsen",
-    "position": "Defence",
-    "nationality": "Netherlands",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9cu0ow1725359392.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ian_Maatsen_131120.png"
-  },
-  {
-    "id": 81871,
-    "name": "Joe Gauci",
-    "position": "Goalkeeper",
-    "nationality": "Australia",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hkdfwc1766331283.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Joe_Gauci_81871.png"
-  },
-  {
-    "id": 212309,
-    "name": "Johan Manzambi",
-    "position": "Midfield",
-    "nationality": "Switzerland",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pg2bjt1763328991.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Johan_Manzambi_212309.png"
-  },
-  {
-    "id": 34646,
-    "name": "John McGinn",
-    "position": "Midfield",
-    "nationality": "Scotland",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/keq4991756987159.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/John_McGinn_34646.png"
-  },
-  {
-    "id": 138034,
-    "name": "João Gomes",
-    "position": "Midfield",
-    "nationality": "Brazil",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u8mcha1756975493.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/João_Gomes_138034.png"
-  },
-  {
-    "id": 217929,
-    "name": "Kosta Nedeljković",
-    "position": "Defence",
-    "nationality": "Serbia",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9j4vcf1763561261.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Kosta_Nedeljković_217929.png"
-  },
-  {
-    "id": 172899,
-    "name": "Lamare Bogarde",
-    "position": "Midfield",
-    "nationality": "Netherlands",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m7hi9k1725311106.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Lamare_Bogarde_172899.png"
-  },
-  {
-    "id": 157,
-    "name": "Leon Bailey",
-    "position": "Offence",
-    "nationality": "Jamaica",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8ky80l1764108541.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Leon_Bailey_157.png"
-  },
-  {
-    "id": 172958,
-    "name": "Lewis Dobbin",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ylj6b81761495478.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Lewis_Dobbin_172958.png"
-  },
-  {
-    "id": 3359,
-    "name": "Lucas Digne",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ywg68z1756984819.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Lucas_Digne_3359.png"
-  },
-  {
-    "id": 7675,
-    "name": "Marco Bizot",
-    "position": "Goalkeeper",
-    "nationality": "Netherlands",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/26w3dr1756984606.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Marco_Bizot_7675.png"
-  },
-  {
-    "id": 11644,
-    "name": "Matty Cash",
-    "position": "Defence",
-    "nationality": "Poland",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/on5cl81756984765.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Matty_Cash_11644.png"
-  },
-  {
-    "id": 276000,
-    "name": "Modou Keba Cisse",
-    "position": "Defence",
-    "nationality": "Senegal",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 82140,
-    "name": "Morgan Rogers",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hcpqx81756987242.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Morgan_Rogers_82140.png"
-  },
-  {
-    "id": 136711,
-    "name": "Oliwier Zych",
-    "position": "Goalkeeper",
-    "nationality": "Poland",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/muczgv1770975788.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Oliwier_Zych_136711.png"
-  },
-  {
-    "id": 4444,
-    "name": "Ollie Watkins",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w6dir11756987347.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ollie_Watkins_4444.png"
-  },
-  {
-    "id": 33109,
-    "name": "Pau Torres",
-    "position": "Defence",
-    "nationality": "Spain",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pxsy2h1756987313.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Pau_Torres_33109.png"
-  },
-  {
-    "id": 7817,
-    "name": "Ross Barkley",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bluco41725359305.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ross_Barkley_7817.png"
-  },
-  {
-    "id": 7985,
-    "name": "Tammy Abraham",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2etthn1770199634.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Tammy_Abraham_7985.png"
-  },
-  {
-    "id": 8235,
-    "name": "Tyrone Mings",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z2m4km1756987198.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Tyrone_Mings_8235.png"
-  },
-  {
-    "id": 3492,
-    "name": "Victor Nilsson-Lindelöf",
-    "position": "Defence",
-    "nationality": "Sweden",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/07mdel1756984093.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Victor_Nilsson-Lindelöf_3492.png"
   },
   {
     "id": 101111,
@@ -12878,468 +11490,6 @@
     "photoUrl": null
   },
   {
-    "id": 169297,
-    "name": "Aurele Amenda",
-    "position": "Defence",
-    "nationality": "Switzerland",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/e68zdr1762974273.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Aurele_Amenda_169297.png"
-  },
-  {
-    "id": 5347,
-    "name": "Ben Wilson",
-    "position": "Goalkeeper",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 144782,
-    "name": "Bobby Thomas",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/idu51h1762174400.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Bobby_Thomas_144782.png"
-  },
-  {
-    "id": 6389,
-    "name": "Brandon Thomas-Asante",
-    "position": "Offence",
-    "nationality": "Ghana",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/k62uhs1762174414.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Brandon_Thomas-Asante_6389.png"
-  },
-  {
-    "id": 146122,
-    "name": "Ellis Simms",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vh8jo81762174386.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ellis_Simms_146122.png"
-  },
-  {
-    "id": 6009,
-    "name": "Ephron Mason-Clark",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/eq9as51762174309.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ephron_Mason-Clark_6009.png"
-  },
-  {
-    "id": 24210,
-    "name": "Frank Onyeka",
-    "position": "Midfield",
-    "nationality": "Nigeria",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8mcku51756990515.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Frank_Onyeka_24210.png"
-  },
-  {
-    "id": 10076,
-    "name": "Haji Wright",
-    "position": "Offence",
-    "nationality": "USA",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dj2mi11781207728.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Haji_Wright_10076.png"
-  },
-  {
-    "id": 114123,
-    "name": "Jack Rudoni",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 176988,
-    "name": "Jahnoah Markelo",
-    "position": "Offence",
-    "nationality": "Suriname",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 4015,
-    "name": "Jake Bidwell",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 6308,
-    "name": "Jay Dasilva",
-    "position": "Defence",
-    "nationality": "Wales",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 130044,
-    "name": "Joel Latibeaudiere",
-    "position": "Defence",
-    "nationality": "Jamaica",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 83372,
-    "name": "Josh Eccles",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tshaee1762174195.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Josh_Eccles_83372.png"
-  },
-  {
-    "id": 214218,
-    "name": "Kai Andrews",
-    "position": "Midfield",
-    "nationality": "Wales",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 171509,
-    "name": "Kaine Kesler",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a9t9z21762174258.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Kaine_Kesler_171509.png"
-  },
-  {
-    "id": 47098,
-    "name": "Liam Kitching",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 170394,
-    "name": "Loum Tchaouna",
-    "position": "Offence",
-    "nationality": "France",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t8itlf1757174754.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Loum_Tchaouna_170394.png"
-  },
-  {
-    "id": 4235,
-    "name": "Luke Woolfenden",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 6358,
-    "name": "Matt Grimes",
-    "position": "Midfield",
-    "nationality": "England",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ld711h1762174237.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Matt_Grimes_6358.png"
-  },
-  {
-    "id": 181936,
-    "name": "Miguel Angel Brau",
-    "position": "Defence",
-    "nationality": "Spain",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/r42nk01762174153.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Miguel_Angel_Brau_181936.png"
-  },
-  {
-    "id": 55048,
-    "name": "Milan van Ewijk",
-    "position": "Defence",
-    "nationality": "Netherlands",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 172550,
-    "name": "Norman Bassette",
-    "position": "Offence",
-    "nationality": "Belgium",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 118661,
-    "name": "Oliver Dovin",
-    "position": "Goalkeeper",
-    "nationality": "Sweden",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 132718,
-    "name": "Raphael Borges Rodrigues",
-    "position": "Offence",
-    "nationality": "Australia",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/e8g30e1766401558.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Raphael_Borges_Rodrigues_132718.png"
-  },
-  {
-    "id": 113632,
-    "name": "Tatsuhiro Sakamoto",
-    "position": "Offence",
-    "nationality": "Japan",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/19fcgv1762174369.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Tatsuhiro_Sakamoto_113632.png"
-  },
-  {
-    "id": 24207,
-    "name": "Victor Torp",
-    "position": "Midfield",
-    "nationality": "Denmark",
-    "team_name": "Coventry City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/1076.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oxdczn1762174324.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Victor_Torp_24207.png"
-  },
-  {
     "id": 191396,
     "name": "Adam Wharton",
     "position": "Midfield",
@@ -13352,8 +11502,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dierqf1761492318.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Adam_Wharton_191396.png"
   },
   {
     "id": 10208,
@@ -13368,8 +11520,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4lylop1766828487.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Borna_Sosa_10208.png"
   },
   {
     "id": 124694,
@@ -13384,8 +11538,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fykhpn1772140729.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Brennan_Johnson_124694.png"
   },
   {
     "id": 270859,
@@ -13400,8 +11556,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7hx7kk1766828314.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Caleb_Kporha_270859.png"
   },
   {
     "id": 150948,
@@ -13416,8 +11574,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/euw1zp1766828464.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chadi_Riad_150948.png"
   },
   {
     "id": 74677,
@@ -13432,8 +11592,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bvf1oy1766828278.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cheick_Doucouré_74677.png"
   },
   {
     "id": 99856,
@@ -13448,8 +11610,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l1yb8m1761492382.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chris_Richards_99856.png"
   },
   {
     "id": 6716,
@@ -13464,8 +11628,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xajscx1761492482.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daichi_Kamada_6716.png"
   },
   {
     "id": 22010,
@@ -13512,8 +11678,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fexcpe1761492531.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dean_Henderson_5457.png"
   },
   {
     "id": 7800,
@@ -13528,8 +11696,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nighdu1761492585.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Eddie_Nketiah_7800.png"
   },
   {
     "id": 3638,
@@ -13544,8 +11714,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ismaïla_Sarr_3638.png"
   },
   {
     "id": 260271,
@@ -13560,8 +11732,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/puwpwb1772033630.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jaydee_Canvot_260271.png"
   },
   {
     "id": 641,
@@ -13576,8 +11750,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/32viwf1761492506.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jean-Philippe_Mateta_641.png"
   },
   {
     "id": 3737,
@@ -13592,8 +11768,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5h7eyz1772141174.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jefferson_Lerma_3737.png"
   },
   {
     "id": 179712,
@@ -13608,8 +11786,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/io3c3z1766828439.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jesurun_Rak-Sakyi_179712.png"
   },
   {
     "id": 152149,
@@ -13624,8 +11804,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ommdbm1766828242.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Justin_Devenny_152149.png"
   },
   {
     "id": 213269,
@@ -13658,8 +11840,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/094jz81767969245.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matheus_Franca_176241.png"
   },
   {
     "id": 82351,
@@ -13674,8 +11858,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6p7f5w1761492552.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Maxence_Lacroix_82351.png"
   },
   {
     "id": 7863,
@@ -13690,8 +11876,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xy9pjc1766828197.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nathaniel_Clyne_7863.png"
   },
   {
     "id": 189264,
@@ -13706,8 +11894,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wqc8cd1766145439.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Owen_Goodman_189264.png"
   },
   {
     "id": 6413,
@@ -13722,8 +11912,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t9t7xm1772140995.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Remi_Matthews_6413.png"
   },
   {
     "id": 278973,
@@ -13770,8 +11962,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ltejjx1761492421.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tyrick_Mitchell_137068.png"
   },
   {
     "id": 8420,
@@ -13834,8 +12028,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kkp6431724492127.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Óscar_Mingueza_146986.png"
   },
   {
     "id": 246476,
@@ -14412,8 +12608,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4hiz051757071301.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jonah_Kusi-Asare_217577.png"
   },
   {
     "id": 98750,
@@ -14514,8 +12712,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6bdhe51772132928.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Oscar_Bobb_179716.png"
   },
   {
     "id": 138036,
@@ -14530,8 +12730,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wswdye1757071073.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rodrigo_Muniz_138036.png"
   },
   {
     "id": 3959,
@@ -16616,8 +14818,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9y2ge41768393433.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Antoine_Semenyo_4417.png"
   },
   {
     "id": 206908,
@@ -16632,8 +14836,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Claudio_Echeverri_206908.png"
   },
   {
     "id": 107330,
@@ -16648,8 +14854,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rhm8q21757162869.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Elliot_Anderson_107330.png"
   },
   {
     "id": 38101,
@@ -16664,8 +14872,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Erling_Haaland_38101.png"
   },
   {
     "id": 1731,
@@ -16716,8 +14926,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7ckk5a1756976762.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jack_Grealish_3895.png"
   },
   {
     "id": 153874,
@@ -16750,8 +14962,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tehbsx1769183074.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jeremy_Doku_99775.png"
   },
   {
     "id": 275171,
@@ -16766,8 +14980,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jeremy_Monga_275171.png"
   },
   {
     "id": 172791,
@@ -16836,8 +15052,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vokeo81755870309.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kalvin_Phillips_4147.png"
   },
   {
     "id": 118489,
@@ -16888,8 +15106,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mateo_Kovačić_65.png"
   },
   {
     "id": 91512,
@@ -16974,8 +15194,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Omar_Marmoush_66896.png"
   },
   {
     "id": 7888,
@@ -16990,8 +15212,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lbn4sx1769182620.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Phil_Foden_7888.png"
   },
   {
     "id": 8642,
@@ -17024,8 +15248,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/emcyjy1769182115.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rayan_Cherki_133242.png"
   },
   {
     "id": 187202,
@@ -17142,8 +15368,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1celih1766826628.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Altay_Bayındır_29518.png"
   },
   {
     "id": 133584,
@@ -17158,8 +15386,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Amad_Diallo_133584.png"
   },
   {
     "id": 166366,
@@ -17174,8 +15404,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jt1o7i1757010267.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andrey_Santos_166366.png"
   },
   {
     "id": 247644,
@@ -17190,8 +15422,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/10d8d61766826718.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ayden_Heaven_247644.png"
   },
   {
     "id": 124244,
@@ -17206,8 +15440,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lm21y71766827016.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Benjamin_Šeško_124244.png"
   },
   {
     "id": 3257,
@@ -17222,8 +15458,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bruno_Fernandes_3257.png"
   },
   {
     "id": 8626,
@@ -17238,8 +15476,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/op28s81755176679.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bryan_Mbeumo_8626.png"
   },
   {
     "id": 275522,
@@ -17270,8 +15510,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fy0yt71766340962.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daniel_Gore_217491.png"
   },
   {
     "id": 210730,
@@ -17318,8 +15560,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ow1nh31766826552.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Diogo_Dalot_15905.png"
   },
   {
     "id": 250421,
@@ -17352,8 +15596,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lop9eb1761336329.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Harry_Amass_210150.png"
   },
   {
     "id": 3326,
@@ -17368,8 +15614,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q8u0ez1766826809.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Harry_Maguire_3326.png"
   },
   {
     "id": 271941,
@@ -17384,8 +15632,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zwjir21770981915.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jack_Fletcher_271941.png"
   },
   {
     "id": 99731,
@@ -17400,8 +15650,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/h32wk91766827067.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Joshua_Zirkzee_99731.png"
   },
   {
     "id": 7913,
@@ -17416,8 +15668,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j9t1rt1757080269.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Karl_Darlow_7913.png"
   },
   {
     "id": 190797,
@@ -17432,8 +15686,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8qrveo1766826836.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kobbie_Mainoo_190797.png"
   },
   {
     "id": 181933,
@@ -17464,8 +15720,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mqcogi1766826879.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lisandro_Martínez_46451.png"
   },
   {
     "id": 7898,
@@ -17480,8 +15738,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1kg6bc1766826995.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luke_Shaw_7898.png"
   },
   {
     "id": 28549,
@@ -17496,8 +15756,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/35xg041766826974.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Manuel_Ugarte_28549.png"
   },
   {
     "id": 3331,
@@ -17512,8 +15774,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/soi5zw1761512565.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcus_Rashford_3331.png"
   },
   {
     "id": 7599,
@@ -17528,8 +15792,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/grmh5n1766826924.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mason_Mount_7599.png"
   },
   {
     "id": 30842,
@@ -17544,8 +15810,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matheus_Cunha_30842.png"
   },
   {
     "id": 7549,
@@ -17560,8 +15828,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ag2gx31766826741.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matthijs_de_Ligt_7549.png"
   },
   {
     "id": 7553,
@@ -17576,8 +15846,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o58oaq1766826898.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Noussair_Mazraoui_7553.png"
   },
   {
     "id": 211559,
@@ -17610,8 +15882,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8xh9d61766826762.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Senne_Lammens_129946.png"
   },
   {
     "id": 248734,
@@ -17642,8 +15916,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x1aswn1766826189.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tom_Heaton_8035.png"
   },
   {
     "id": 290139,
@@ -17658,8 +15934,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0wemcx1780247474.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tyler_Fletcher_290139.png"
   },
   {
     "id": 188291,
@@ -17674,8 +15952,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w08gwo1766826271.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tyler_Fredricson_188291.png"
   },
   {
     "id": 3658,
@@ -17690,8 +15970,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dvyawe1756987280.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Youri_Tielemans_3658.png"
   },
   {
     "id": 230364,
@@ -18134,8 +16416,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o0mmzp1773671528.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Arnaud_Kalimuendo_130668.png"
   },
   {
     "id": 7816,
@@ -18150,8 +16434,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rnr4t41757163029.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Callum_Hudson-Odoi_7816.png"
   },
   {
     "id": 8057,
@@ -18166,8 +16452,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/03zmjz1757163261.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chris_Wood_8057.png"
   },
   {
     "id": 77641,
@@ -18182,8 +16470,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yr9p371757163162.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dan_Ndoye_77641.png"
   },
   {
     "id": 151295,
@@ -18198,8 +16488,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b5kuwi1757164573.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dilane_Bakwa_151295.png"
   },
   {
     "id": 227007,
@@ -18214,8 +16506,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pvbffr1725475491.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Eric_da_Silva_Moreira_227007.png"
   },
   {
     "id": 8307,
@@ -18230,8 +16524,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qc7kcv1757163183.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ibrahim_Sangaré_8307.png"
   },
   {
     "id": 256339,
@@ -18280,8 +16576,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bn68dm1757163117.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/James_McAtee_172956.png"
   },
   {
     "id": 1299,
@@ -18312,8 +16610,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1p983t1772031295.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luca_Netz_144361.png"
   },
   {
     "id": 3643,
@@ -18364,8 +16664,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1xexg01757166443.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Morgan_Gibbs-White_4091.png"
   },
   {
     "id": 192637,
@@ -18396,8 +16698,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qzuqwn1757163242.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Neco_Williams_133765.png"
   },
   {
     "id": 46346,
@@ -18412,8 +16716,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7ii90r1757162975.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nicolás_Domínguez_46346.png"
   },
   {
     "id": 191730,
@@ -18428,8 +16734,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wpvj5s1757165034.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nicolò_Savona_191730.png"
   },
   {
     "id": 1775,
@@ -18498,8 +16806,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/orqfvl1757163045.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Omari_Hutchinson_177477.png"
   },
   {
     "id": 5435,
@@ -18514,8 +16824,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cnbo641757163276.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ryan_Yates_5435.png"
   },
   {
     "id": 9218,
@@ -18530,8 +16842,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7jmdjm1757162891.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Taiwo_Awoniyi_9218.png"
   },
   {
     "id": 214425,
@@ -18546,8 +16860,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yk1l1c1761393067.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tyler_Bindon_214425.png"
   },
   {
     "id": 204483,
@@ -18562,8 +16878,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2jfkmc1757162824.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Zach_Abbott_204483.png"
   },
   {
     "id": 165311,
