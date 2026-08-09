@@ -9056,6 +9056,634 @@
     "photoUrl": null
   },
   {
+    "id": 170857,
+    "name": "Ameen Al Dakhil",
+    "position": "Defence",
+    "nationality": "Belgium",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fd4x6n1763586119.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ameen_Al_Dakhil_170857.png"
+  },
+  {
+    "id": 128565,
+    "name": "Angelo Stiller",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fjia5b1763586463.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Angelo_Stiller_128565.png"
+  },
+  {
+    "id": 7079,
+    "name": "Atakan Karazor",
+    "position": "Midfield",
+    "nationality": "Turkey",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ph1o781763586281.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Atakan_Karazor_7079.png"
+  },
+  {
+    "id": 185007,
+    "name": "Badredine Bouanani",
+    "position": "Offence",
+    "nationality": "Algeria",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/k1dd471763586061.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Badredine_Bouanani_185007.png"
+  },
+  {
+    "id": 189873,
+    "name": "Bilal El Khannouss",
+    "position": "Midfield",
+    "nationality": "Morocco",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 270273,
+    "name": "Chema Andrés",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ecbqj31763586030.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chema_Andrés_270273.png"
+  },
+  {
+    "id": 206,
+    "name": "Chris Führich",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5vfcdt1763586219.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chris_Führich_206.png"
+  },
+  {
+    "id": 261054,
+    "name": "Christopher Olivier",
+    "position": "Defence",
+    "nationality": "Austria",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 6483,
+    "name": "Dan-Axel Zagadou",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wj7q4u1763586528.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dan-Axel_Zagadou_6483.png"
+  },
+  {
+    "id": 6928,
+    "name": "Deniz Undav",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hcxx8s1763586492.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Deniz_Undav_6928.png"
+  },
+  {
+    "id": 206327,
+    "name": "Dennis Seimen",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/urr8431773411956.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dennis_Seimen_206327.png"
+  },
+  {
+    "id": 33242,
+    "name": "Ermedin Demirovic",
+    "position": "Offence",
+    "nationality": "Bosnia-Herzegovina",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hvuj8v1763586169.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ermedin_Demirovic_33242.png"
+  },
+  {
+    "id": 296854,
+    "name": "Ertugrul Yigit",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 6603,
+    "name": "Fabian Bredlow",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b2dgsk1763586075.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Fabian_Bredlow_6603.png"
+  },
+  {
+    "id": 221768,
+    "name": "Finn Jeltsch",
+    "position": "Defence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s1hwx41763586265.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Finn_Jeltsch_221768.png"
+  },
+  {
+    "id": 6836,
+    "name": "Grischa Prömel",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uebiki1763494572.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Grischa_Prömel_6836.png"
+  },
+  {
+    "id": 123333,
+    "name": "Jamie Leweling",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xnk4yp1763586329.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jamie_Leweling_123333.png"
+  },
+  {
+    "id": 263221,
+    "name": "Jarzinho Malanga",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 215510,
+    "name": "Jeremy",
+    "position": "Offence",
+    "nationality": "Ecuador",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 6523,
+    "name": "Josha Vagnoman",
+    "position": "Defence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/imqnl11763586510.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Josha_Vagnoman_6523.png"
+  },
+  {
+    "id": 212853,
+    "name": "Jovan Milošević",
+    "position": "Offence",
+    "nationality": "Serbia",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5i9gxs1775211364.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jovan_Milošević_212853.png"
+  },
+  {
+    "id": 7748,
+    "name": "Julian Chabot",
+    "position": "Defence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s51yt91763586641.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Julian_Chabot_7748.png"
+  },
+  {
+    "id": 191191,
+    "name": "Justin Diehl",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 186092,
+    "name": "Laurin Ulrich",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1vyv3m1773332028.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Laurin_Ulrich_186092.png"
+  },
+  {
+    "id": 216841,
+    "name": "Lazar Jovanovic",
+    "position": "Offence",
+    "nationality": "Serbia",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 111071,
+    "name": "Leonidas Stergiou",
+    "position": "Defence",
+    "nationality": "Switzerland",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/n4cmr51763586447.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Leonidas_Stergiou_111071.png"
+  },
+  {
+    "id": 135485,
+    "name": "Lorenz Assignon",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x1m4e91763586046.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lorenz_Assignon_135485.png"
+  },
+  {
+    "id": 176711,
+    "name": "Luca Jaquez",
+    "position": "Defence",
+    "nationality": "Switzerland",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tt71dl1763586249.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luca_Jaquez_176711.png"
+  },
+  {
+    "id": 9888,
+    "name": "Marius Funk",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 6549,
+    "name": "Maximilian Mittelstädt",
+    "position": "Defence",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jxttcl1763586349.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Maximilian_Mittelstädt_6549.png"
+  },
+  {
+    "id": 273413,
+    "name": "Mirza Ćatović",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 190,
+    "name": "Nikolas Nartey",
+    "position": "Midfield",
+    "nationality": "Denmark",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/meti721763586384.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nikolas_Nartey_190.png"
+  },
+  {
+    "id": 157263,
+    "name": "Ramon Hendriks",
+    "position": "Defence",
+    "nationality": "Netherlands",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qafofe1763586234.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ramon_Hendriks_157263.png"
+  },
+  {
+    "id": 67401,
+    "name": "Stefan Drljača",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l77hw31763586205.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Stefan_Drljača_67401.png"
+  },
+  {
+    "id": 145057,
+    "name": "Tiago Tomás",
+    "position": "Offence",
+    "nationality": "Portugal",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ls9myx1763586476.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tiago_Tomás_145057.png"
+  },
+  {
+    "id": 284063,
+    "name": "Tim van der Leij",
+    "position": "Offence",
+    "nationality": "Netherlands",
+    "team_name": "VfB Stuttgart",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/10.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 286281,
     "name": "Alvin Petit Dol",
     "position": "Defence",
@@ -31400,8 +32028,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/c0xapn1764336191.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alessandro_Deiola_1914.png"
   },
   {
     "id": 274076,
@@ -31484,8 +32114,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zpmc0g1764336529.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gabriele_Zappa_114052.png"
   },
   {
     "id": 114101,
@@ -31660,8 +32292,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ggjt4q1764336222.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mattia_Felici_111294.png"
   },
   {
     "id": 185019,
@@ -32586,8 +33220,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/d7uly91759408116.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ange-Yoan_Bonny_152738.png"
   },
   {
     "id": 3364,
@@ -32602,8 +33238,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/d9p3381766153512.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Benjamin_Pavard_3364.png"
   },
   {
     "id": 167689,
@@ -32686,8 +33324,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0rhwx41759408849.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Federico_Dimarco_30821.png"
   },
   {
     "id": 215433,
@@ -32702,8 +33342,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/22mew91759408142.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Francesco_Esposito_215433.png"
   },
   {
     "id": 274403,
@@ -32734,8 +33376,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hw8uxm1759408821.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hakan_Çalhanoğlu_1754.png"
   },
   {
     "id": 7795,
@@ -32750,8 +33394,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mx2agf1759408938.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Henrikh_Mkhitaryan_7795.png"
   },
   {
     "id": 190998,
@@ -32782,8 +33428,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3skyav1764242674.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ivan_Provedel_2475.png"
   },
   {
     "id": 3313,
@@ -32798,8 +33446,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dkq8d41763068509.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/John_Stones_3313.png"
   },
   {
     "id": 101415,
@@ -32814,8 +33464,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ibp6xf1759408155.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Josep_Martinez_101415.png"
   },
   {
     "id": 154733,
@@ -32848,8 +33500,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lautaro_Martínez_3220.png"
   },
   {
     "id": 115074,
@@ -32880,8 +33534,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/aykui01759408989.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcus_Thuram-Ulien_8685.png"
   },
   {
     "id": 277575,
@@ -32962,8 +33618,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b4nmhd1759408181.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Petar_Sucic_154013.png"
   },
   {
     "id": 2097,
@@ -32996,8 +33654,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/50t7vi1764336205.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sebastiano_Esposito_114054.png"
   },
   {
     "id": 271989,
@@ -33028,8 +33688,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/78uot91681056711.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Yanis_Massolin_185011.png"
   },
   {
     "id": 193,
@@ -33462,8 +34124,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wow2t61762464004.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alan_Matturro_191042.png"
   },
   {
     "id": 217843,
@@ -33494,8 +34158,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wx8p5c1758989259.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alessandro_Marcandalli_188644.png"
   },
   {
     "id": 81998,
@@ -33510,8 +34176,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/82c4591697976692.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alessandro_Vogliacco_81998.png"
   },
   {
     "id": 203350,
@@ -33542,8 +34210,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j8o2561758997373.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Brooke_Norton-Cuffy_177169.png"
   },
   {
     "id": 289489,
@@ -33622,8 +34292,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/20akh81770324107.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Elias_Havel_160899.png"
   },
   {
     "id": 286512,
@@ -33654,8 +34326,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/or26hk1777914881.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ethan_Meichtry_279548.png"
   },
   {
     "id": 76696,
@@ -33670,8 +34344,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fffemn1769373543.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Franz_Stolz_76696.png"
   },
   {
     "id": 2499,
@@ -33686,8 +34362,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xhaum31766153544.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hamed_Traoré_2499.png"
   },
   {
     "id": 264837,
@@ -33702,8 +34380,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9i54841758989360.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hugo_Cuenca_264837.png"
   },
   {
     "id": 39330,
@@ -33718,8 +34398,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7q4sks1758997735.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Johan_Vásquez_39330.png"
   },
   {
     "id": 97869,
@@ -33734,8 +34416,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/f1e1p91758989854.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Junior_Messias_97869.png"
   },
   {
     "id": 7460,
@@ -33750,8 +34434,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vku13u1758187123.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Justin_Bijlow_7460.png"
   },
   {
     "id": 44032,
@@ -33766,8 +34452,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/riue4t1758997507.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Leo_Østigård_44032.png"
   },
   {
     "id": 274222,
@@ -33782,8 +34470,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vpbq4c1758997748.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lorenzo_Venturino_274222.png"
   },
   {
     "id": 298167,
@@ -33814,8 +34504,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4s6lck1716833460.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mario_Mitaj_152697.png"
   },
   {
     "id": 276931,
@@ -33846,8 +34538,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o42gxk1758989060.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mikael_Egill_Ellertsson_172413.png"
   },
   {
     "id": 24119,
@@ -33862,8 +34556,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nmzwe81758989202.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Morten_Frendrup_24119.png"
   },
   {
     "id": 153097,
@@ -33878,8 +34574,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2iyw8c1758989513.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Patrizio_Masini_153097.png"
   },
   {
     "id": 292420,
@@ -33910,8 +34608,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/p5whxi1758997523.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sebastian_Otoa_188357.png"
   },
   {
     "id": 227020,
@@ -33942,8 +34642,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/h55zq61758997662.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Stefano_Sabelli_2443.png"
   },
   {
     "id": 178736,
@@ -35784,8 +36486,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mu8vhd1758814013.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cyril_Ngonge_99859.png"
   },
   {
     "id": 7571,
@@ -35938,8 +36642,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ysghm91763669405.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jesper_Lindstrøm_81973.png"
   },
   {
     "id": 3654,
@@ -36040,8 +36746,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mjeldw1777707141.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luca_Marianucci_214546.png"
   },
   {
     "id": 221253,
@@ -36212,8 +36920,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6mniw31762888889.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rafa_Marin_176758.png"
   },
   {
     "id": 152770,
@@ -36228,8 +36938,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jop7ho1762288170.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rasmus_Højlund_152770.png"
   },
   {
     "id": 3662,
@@ -36316,8 +37028,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tlza2y1764105953.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Walid_Cheddira_129808.png"
   },
   {
     "id": 191428,
@@ -36380,8 +37094,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v5synw1758813723.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ali_Dembele_190793.png"
   },
   {
     "id": 246508,
@@ -36396,8 +37112,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/abfsna1777706871.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alieu_Njie_246508.png"
   },
   {
     "id": 23287,
@@ -36412,8 +37130,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4t6b4k1758813395.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ardian_Ismajli_23287.png"
   },
   {
     "id": 179558,
@@ -36428,8 +37148,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9i4mcp1758813564.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cesare_Casadei_179558.png"
   },
   {
     "id": 4119,
@@ -36444,8 +37166,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fiwc2j1758813462.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Che_Adams_4119.png"
   },
   {
     "id": 246638,
@@ -36492,8 +37216,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/39grvw1758813369.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cristiano_Biraghi_1776.png"
   },
   {
     "id": 229851,
@@ -36524,8 +37250,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z3pk7r1758814292.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Duván_Zapata_2271.png"
   },
   {
     "id": 172940,
@@ -36556,8 +37284,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/i8talq1762864103.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Eray_Cömert_30823.png"
   },
   {
     "id": 298166,
@@ -36604,8 +37334,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xpdp8z1777707330.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Franco_Israel_97893.png"
   },
   {
     "id": 171586,
@@ -36620,8 +37352,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1ljtjv1759780766.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gaetano_Oristanio_171586.png"
   },
   {
     "id": 1789,
@@ -36636,8 +37370,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vyiclr1758813227.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giovanni_Simeone_1789.png"
   },
   {
     "id": 190831,
@@ -36652,8 +37388,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ihkzws1766831086.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gvidas_Gineitis_190831.png"
   },
   {
     "id": 67697,
@@ -36668,8 +37406,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bd6s9a1758813427.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ivan_Ilić_67697.png"
   },
   {
     "id": 157120,
@@ -36684,8 +37424,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/c8pm8v1722883221.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kian_Fitz-Jim_157120.png"
   },
   {
     "id": 217847,
@@ -36732,8 +37474,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8slbdf1758814099.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcus_Pedersen_38548.png"
   },
   {
     "id": 7843,
@@ -36748,8 +37492,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tmii4q1758814229.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nikola_Vlašić_7843.png"
   },
   {
     "id": 217391,
@@ -36764,8 +37510,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2hm6uu1758891667.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pietro_Comuzzo_217391.png"
   },
   {
     "id": 8768,
@@ -36780,8 +37528,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/byutls1679578645.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pietro_Pellegri_8768.png"
   },
   {
     "id": 123689,
@@ -36796,8 +37546,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6yf5p41758813163.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Saúl_Coco_123689.png"
   },
   {
     "id": 105441,
@@ -36812,8 +37564,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1jmkqz1764106519.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sebastian_Walukiewicz_105441.png"
   },
   {
     "id": 188683,
@@ -36876,8 +37630,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qub2901758813269.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Zakaria_Aboukhlal_81085.png"
   },
   {
     "id": 290877,
@@ -36908,8 +37664,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/umv6qx1698395317.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alexandru_Borbei_157189.png"
   },
   {
     "id": 77469,
@@ -36924,8 +37682,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s703fk1759691721.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Antonino_Gallo_77469.png"
   },
   {
     "id": 264208,
@@ -36956,8 +37716,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/4msqdl1786042713.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Christian_Früchtl_344.png"
   },
   {
     "id": 117369,
@@ -36972,8 +37734,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z1wj4l1759692825.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Corrie_Ndaba_117369.png"
   },
   {
     "id": 274043,
@@ -37038,8 +37802,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5w7vw31764340247.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gaby_Jean_113590.png"
   },
   {
     "id": 150530,
@@ -37054,8 +37820,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7rt5hb1759693601.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jamil_Siebert_150530.png"
   },
   {
     "id": 133202,
@@ -37070,8 +37838,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gd4beh1759693427.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jasper_Samooja_133202.png"
   },
   {
     "id": 213073,
@@ -37104,8 +37874,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a61yrn1759692575.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Konan_N_Dri_167394.png"
   },
   {
     "id": 121808,
@@ -37120,8 +37892,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dwqnom1759652107.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lameck_Banda_121808.png"
   },
   {
     "id": 8658,
@@ -37136,8 +37910,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dmyjlr1759652166.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lassana_Coulibaly_8658.png"
   },
   {
     "id": 187945,
@@ -37152,8 +37928,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x7mzrk1697183605.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marco_Delle_Monache_187945.png"
   },
   {
     "id": 285079,
@@ -37234,8 +38012,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3j60p11759692103.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mohamed_Kaba_170915.png"
   },
   {
     "id": 286314,
@@ -37266,8 +38046,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/d57apt1759693844.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nikola_Štulić_221315.png"
   },
   {
     "id": 125069,
@@ -37282,8 +38064,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tr1f0z1767536638.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Omri_Gandelman_125069.png"
   },
   {
     "id": 177262,
@@ -37332,8 +38116,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/srky461759693262.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Santiago_Pierotti_116223.png"
   },
   {
     "id": 192420,
@@ -37398,8 +38184,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6hqbx51759652180.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Wladimiro_Falcone_56649.png"
   },
   {
     "id": 57805,
@@ -37414,8 +38202,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cflpkw1764194621.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Youssef_Maleh_57805.png"
   },
   {
     "id": 152114,
@@ -38066,8 +38856,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/r51zrc1764172291.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Adam_Buksa_64087.png"
   },
   {
     "id": 284663,
@@ -38098,8 +38890,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3ze59q1764172362.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Christian_Kabasele_8111.png"
   },
   {
     "id": 1993,
@@ -38114,8 +38908,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ex0tae1764172507.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daniele_Padelli_1993.png"
   },
   {
     "id": 215588,
@@ -38146,8 +38942,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/583adc1777706743.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Enzo_Ebosse_777.png"
   },
   {
     "id": 8917,
@@ -38162,8 +38960,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/83g4wb1761216390.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giorgi_Chakvetadze_8917.png"
   },
   {
     "id": 822,
@@ -38194,8 +38994,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pajueo1764172535.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jakub_Piotrowski_64243.png"
   },
   {
     "id": 187208,
@@ -38210,8 +39012,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v5qmpl1761216296.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/James_Abankwah_187208.png"
   },
   {
     "id": 31065,
@@ -38226,8 +39030,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/r1owct1764172392.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jesper_Karlström_31065.png"
   },
   {
     "id": 99311,
@@ -38242,8 +39048,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/d1yo3s1764172653.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jordan_Zemura_99311.png"
   },
   {
     "id": 202427,
@@ -38274,8 +39082,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ecel3d1764172331.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jurgen_Ekkelenkamp_7567.png"
   },
   {
     "id": 3896,
@@ -38290,8 +39100,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/opehoe1764172303.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Keinan_Davis_3896.png"
   },
   {
     "id": 187404,
@@ -38306,8 +39118,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9glp81764172444.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lennon_Miller_187404.png"
   },
   {
     "id": 178767,
@@ -38338,8 +39152,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bejufg1764172491.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Maduka_Okoye_65480.png"
   },
   {
     "id": 136145,
@@ -38370,8 +39186,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/khd0v21758886439.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Martín_Payero_45711.png"
   },
   {
     "id": 252872,
@@ -38386,8 +39204,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1q9hz81764172520.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matteo_Palma_252872.png"
   },
   {
     "id": 9204,
@@ -38402,8 +39222,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mgfle31764278566.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mërgim_Vojvoda_9204.png"
   },
   {
     "id": 172425,
@@ -38418,8 +39240,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/133sj71764172261.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nicolo_Bertola_172425.png"
   },
   {
     "id": 150522,
@@ -38434,8 +39258,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cn6qk71764172636.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Oier_Zarraga_150522.png"
   },
   {
     "id": 8462,
@@ -38450,8 +39276,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s4fg6d1764172587.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Oumar_Solet_8462.png"
   },
   {
     "id": 151117,
@@ -38466,8 +39294,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sioz081764172459.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rui_Modesto_151117.png"
   },
   {
     "id": 215525,
@@ -38482,8 +39312,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ho51ab1778010217.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Saba_Goglichidze_215525.png"
   },
   {
     "id": 10887,
@@ -38498,8 +39330,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z4sex21769865184.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sandi_Lovric_10887.png"
   },
   {
     "id": 151299,
@@ -38530,8 +39364,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/97cfji1703241759.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Unai_Gomez_202335.png"
   },
   {
     "id": 84493,
@@ -38678,8 +39514,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/697pts1610383940.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andrea_Adorante_111976.png"
   },
   {
     "id": 188464,
@@ -38762,8 +39600,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o01e7i1710254707.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bartol_Franjić_122265.png"
   },
   {
     "id": 117798,
@@ -38862,8 +39702,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/enkhij1602961549.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Filip_Stankovic_140823.png"
   },
   {
     "id": 112919,
@@ -38878,8 +39720,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/14n5z71633201108.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Filippo_Neri_112919.png"
   },
   {
     "id": 77078,
@@ -38966,8 +39810,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2qvbyn1780328386.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/John_Yeboah_98549.png"
   },
   {
     "id": 32115,
@@ -39000,8 +39846,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4tgqog1770496688.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kornel_Lisman_254708.png"
   },
   {
     "id": 193620,
@@ -39032,8 +39880,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uaoiny1767362399.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lion_Lauberbach_10519.png"
   },
   {
     "id": 291141,
@@ -39150,8 +40000,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/bzyspm1741954435.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matteo_Grandi_42026.png"
   },
   {
     "id": 76823,
@@ -39214,8 +40066,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/95ib9y1767362287.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Redouane_Halhal_172822.png"
   },
   {
     "id": 187435,
@@ -39298,8 +40152,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nqu7ch1690752330.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Simone_Panada_156554.png"
   },
   {
     "id": 99811,
