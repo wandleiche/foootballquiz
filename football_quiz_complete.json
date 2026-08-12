@@ -19578,8 +19578,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/thumb/psdmrg1786475291.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Julian_Eyestone_274963.png"
   },
   {
     "id": 213518,
