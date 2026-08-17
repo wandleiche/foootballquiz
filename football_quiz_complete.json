@@ -31504,6 +31504,22 @@
     "photo_path": "player_images/Adrián_de_la_Fuente_98741.png"
   },
   {
+    "id": 299261,
+    "name": "Alberto Calatrava",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Levante UD",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/88.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 19,
     "name": "Aïssa Mandi",
     "position": "Defence",
@@ -31604,6 +31620,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mr9t9b1762292602.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Hugo_Sotelo_168650.png"
+  },
+  {
+    "id": 299263,
+    "name": "Igor Galdin",
+    "position": null,
+    "nationality": "Ukraine",
+    "team_name": "Levante UD",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/88.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 156746,
@@ -31732,9 +31764,41 @@
     "photo_path": "player_images/Kervin_Arriaga_177772.png"
   },
   {
+    "id": 299260,
+    "name": "Manel Usedo",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Levante UD",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/88.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 118715,
     "name": "Manuel Sánchez",
     "position": "Defence",
+    "nationality": "Spain",
+    "team_name": "Levante UD",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/88.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 299259,
+    "name": "Marc Santos",
+    "position": null,
     "nationality": "Spain",
     "team_name": "Levante UD",
     "league_name": "Primera Division",
@@ -35318,6 +35382,22 @@
     "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/p8na9v1784897499.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Iñigo_Vicente_102151.png"
+  },
+  {
+    "id": 299254,
+    "name": "Jorge Castellanos",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Real Racing Club de Santander",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/5335.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 3874,
