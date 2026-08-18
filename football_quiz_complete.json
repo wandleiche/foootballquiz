@@ -30512,6 +30512,22 @@
     "photo_path": "player_images/Tete_Morente_33843.png"
   },
   {
+    "id": 299271,
+    "name": "Umaru Konare",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Elche CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/285.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 151557,
     "name": "Víctor Chust",
     "position": "Defence",
@@ -30546,6 +30562,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bhgrxm1762372175.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Yago_Santiago_206810.png"
+  },
+  {
+    "id": 299272,
+    "name": "Álvaro Padilla",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Elche CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/285.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 3455,
