@@ -33042,22 +33042,6 @@
     "photo_path": "player_images/Arnau_Comas_145500.png"
   },
   {
-    "id": 298636,
-    "name": "Bright Ede",
-    "position": "Defence",
-    "nationality": "Poland",
-    "team_name": "RC Deportivo La Coruña",
-    "league_name": "Primera Division",
-    "team_logo_url": "https://crests.football-data.org/560.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 176782,
     "name": "Charlie Patino",
     "position": "Midfield",
@@ -33128,6 +33112,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/c8u8w61735418615.jpg",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Diego_Villares_226170.png"
+  },
+  {
+    "id": 298636,
+    "name": "Ede Bright",
+    "position": "Defence",
+    "nationality": "Poland",
+    "team_name": "RC Deportivo La Coruña",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/560.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 226091,
