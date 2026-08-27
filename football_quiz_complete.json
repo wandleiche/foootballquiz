@@ -23738,6 +23738,22 @@
     "photo_path": "player_images/Harrison_Armstrong_264281.png"
   },
   {
+    "id": 300078,
+    "name": "Harvey Foster",
+    "position": null,
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 136284,
     "name": "Hayden Hackney",
     "position": "Midfield",
