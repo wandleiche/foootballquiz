@@ -22328,6 +22328,24 @@
     "photoUrl": null
   },
   {
+    "id": 300099,
+    "name": "Reggie Watson",
+    "position": null,
+    "nationality": "England",
+    "team_name": "Chelsea FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/61.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/i37n8k1787727490.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Reggie_Watson_300099.png"
+  },
+  {
     "id": 135555,
     "name": "Robert Sánchez",
     "position": "Goalkeeper",
@@ -24140,6 +24158,22 @@
     "photo_path": "player_images/Bernd_Leno_3174.png"
   },
   {
+    "id": 300100,
+    "name": "Bradley Slade",
+    "position": null,
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 146154,
     "name": "Calvin Bassey",
     "position": "Defence",
@@ -24366,6 +24400,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9h4351775374435.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Luke_Harris_187167.png"
+  },
+  {
+    "id": 300102,
+    "name": "Macauley Zepa",
+    "position": null,
+    "nationality": "France",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 179716,
@@ -30846,6 +30896,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8v3s2w1762531932.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Ante_Budimir_2237.png"
+  },
+  {
+    "id": 300101,
+    "name": "Asier Bonel",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "CA Osasuna",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/79.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 249577,
