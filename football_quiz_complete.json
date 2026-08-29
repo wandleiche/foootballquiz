@@ -15898,6 +15898,22 @@
     "photo_path": "player_images/Achraf_Hakimi_53.png"
   },
   {
+    "id": 300106,
+    "name": "Alessandro Longoni",
+    "position": null,
+    "nationality": "Italy",
+    "team_name": "Paris Saint-Germain FC",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/524.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 172762,
     "name": "Bradley Barcola",
     "position": "Offence",
