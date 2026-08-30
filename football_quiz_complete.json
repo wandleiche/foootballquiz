@@ -11348,6 +11348,22 @@
     "photoUrl": null
   },
   {
+    "id": 300214,
+    "name": "Jules Bouffandeau",
+    "position": null,
+    "nationality": "France",
+    "team_name": "Angers SCO",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/532.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 191002,
     "name": "Lilian Rao-Lisoa",
     "position": "Defence",
@@ -17926,6 +17942,22 @@
     "photo_path": "player_images/Noah_Jauny_263957.png"
   },
   {
+    "id": 300210,
+    "name": "Noé Poillion",
+    "position": null,
+    "nationality": "France",
+    "team_name": "Stade Brestois 29",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/512.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 218249,
     "name": "Pathé Mboup",
     "position": "Offence",
@@ -18590,6 +18622,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/n7b1xn1765968347.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Aron_Dönnum_192688.png"
+  },
+  {
+    "id": 300209,
+    "name": "Aymen Amaaouch",
+    "position": null,
+    "nationality": "France",
+    "team_name": "Toulouse FC",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/511.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 299684,
