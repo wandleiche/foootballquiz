@@ -932,6 +932,24 @@
     "photo_path": "player_images/Michel_Aebischer_16265.png"
   },
   {
+    "id": 9430,
+    "name": "Ohis Uduokhai",
+    "position": "Defence",
+    "nationality": "Germany",
+    "team_name": "1. FC Union Berlin",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/28.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kn804y1769170047.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ohis_Uduokhai_9430.png"
+  },
+  {
     "id": 8027,
     "name": "Oliver Burke",
     "position": "Offence",
@@ -1756,24 +1774,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/h7u26r1756315418.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Ernest_Poku_167793.png"
-  },
-  {
-    "id": 11720,
-    "name": "Exequiel Palacios",
-    "position": "Midfield",
-    "nationality": "Argentina",
-    "team_name": "Bayer 04 Leverkusen",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/3.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Exequiel_Palacios_11720.png"
   },
   {
     "id": 272311,
@@ -3254,24 +3254,6 @@
     "photo_path": "player_images/Ansgar_Knauff_150860.png"
   },
   {
-    "id": 145893,
-    "name": "Arthur Theate",
-    "position": "Defence",
-    "nationality": "Belgium",
-    "team_name": "Eintracht Frankfurt",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/19.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tr7ftn1762287457.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Arthur_Theate_145893.png"
-  },
-  {
     "id": 261438,
     "name": "Ayoube Amaimouni-Echghouyab",
     "position": "Offence",
@@ -3554,24 +3536,6 @@
     "photo_path": "player_images/Mario_Götze_140.png"
   },
   {
-    "id": 9438,
-    "name": "Michael Zetterer",
-    "position": "Goalkeeper",
-    "nationality": "Germany",
-    "team_name": "Eintracht Frankfurt",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/19.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Michael_Zetterer_9438.png"
-  },
-  {
     "id": 3664,
     "name": "Michy Batshuayi",
     "position": "Offence",
@@ -3624,6 +3588,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hl5uis1762287328.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Nnamdi_Collins_171714.png"
+  },
+  {
+    "id": 123287,
+    "name": "Noah Atubolu",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "Eintracht Frankfurt",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/19.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oocqhe1763328729.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Noah_Atubolu_123287.png"
   },
   {
     "id": 202588,
@@ -4344,6 +4326,24 @@
     "photo_path": "player_images/Yannik_Keitel_97120.png"
   },
   {
+    "id": 243858,
+    "name": "Young-woo Seol",
+    "position": "Defence",
+    "nationality": "South Korea",
+    "team_name": "FC Augsburg",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/16.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v6c4ev1779016056.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Young-woo_Seol_243858.png"
+  },
+  {
     "id": 171132,
     "name": "Yusuf Kabadayi",
     "position": "Offence",
@@ -4448,22 +4448,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/k40qsh1780567968.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Bara_Ndiaye_290450.png"
-  },
-  {
-    "id": 191403,
-    "name": "Bryan Zaragoza",
-    "position": "Offence",
-    "nationality": "Spain",
-    "team_name": "FC Bayern München",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/5.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 279063,
@@ -5292,7 +5276,7 @@
   {
     "id": 272835,
     "name": "Mika Wallentowitz",
-    "position": "Midfield",
+    "position": "Offence",
     "nationality": "Germany",
     "team_name": "FC Schalke 04",
     "league_name": "Bundesliga",
@@ -6228,24 +6212,6 @@
     "photo_path": "player_images/El_Chadaille_Bitshiabu_170415.png"
   },
   {
-    "id": 30629,
-    "name": "Eljif Elmas",
-    "position": "Midfield",
-    "nationality": "North Macedonia",
-    "team_name": "RB Leipzig",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/721.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/38hezl1762288414.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Eljif_Elmas_30629.png"
-  },
-  {
     "id": 175951,
     "name": "Ezechiel Banzuzi",
     "position": "Midfield",
@@ -6284,7 +6250,7 @@
   {
     "id": 282348,
     "name": "Joyeux Masanka Bungi",
-    "position": "Midfield",
+    "position": "Defence",
     "nationality": "Belgium",
     "team_name": "RB Leipzig",
     "league_name": "Bundesliga",
@@ -6952,24 +6918,6 @@
     "photo_path": "player_images/Mio_Backhaus_179984.png"
   },
   {
-    "id": 123287,
-    "name": "Noah Atubolu",
-    "position": "Goalkeeper",
-    "nationality": "Germany",
-    "team_name": "SC Freiburg",
-    "league_name": "Bundesliga",
-    "team_logo_url": "https://crests.football-data.org/17.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oocqhe1763328729.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Noah_Atubolu_123287.png"
-  },
-  {
     "id": 120962,
     "name": "Patrick Osterhage",
     "position": "Midfield",
@@ -7218,7 +7166,7 @@
   {
     "id": 206530,
     "name": "Jano ter Horst",
-    "position": "Midfield",
+    "position": "Defence",
     "nationality": "Germany",
     "team_name": "SC Paderborn 07",
     "league_name": "Bundesliga",
@@ -7374,6 +7322,24 @@
     "photo_path": "player_images/Markus_Schubert_9956.png"
   },
   {
+    "id": 75545,
+    "name": "Marvin Pieringer",
+    "position": "Offence",
+    "nationality": "Germany",
+    "team_name": "SC Paderborn 07",
+    "league_name": "Bundesliga",
+    "team_logo_url": "https://crests.football-data.org/29.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iptkxl1763154795.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marvin_Pieringer_75545.png"
+  },
+  {
     "id": 211743,
     "name": "Mattes Hansen",
     "position": "Defence",
@@ -7478,7 +7444,7 @@
   {
     "id": 72437,
     "name": "Oliver Batista-Meier",
-    "position": "Midfield",
+    "position": "Offence",
     "nationality": "Germany",
     "team_name": "SC Paderborn 07",
     "league_name": "Bundesliga",
@@ -9348,8 +9314,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/thumb/dgrg781788084444.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Yannick_Eduardo_245825.png"
   },
   {
     "id": 170857,
@@ -10592,6 +10560,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/54v6h91766238031.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Ansu_Fati_128040.png"
+  },
+  {
+    "id": 300289,
+    "name": "Aymen Assab",
+    "position": null,
+    "nationality": "France",
+    "team_name": "AS Monaco FC",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/548.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 188481,
@@ -13316,24 +13300,6 @@
     "photo_path": "player_images/Arnaud_Bodart_9222.png"
   },
   {
-    "id": 221819,
-    "name": "Ayyoub Bouaddi",
-    "position": "Midfield",
-    "nationality": "France",
-    "team_name": "Lille OSC",
-    "league_name": "Ligue 1",
-    "team_logo_url": "https://crests.football-data.org/521.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ayyoub_Bouaddi_221819.png"
-  },
-  {
     "id": 178127,
     "name": "Basar Onal",
     "position": "Offence",
@@ -13860,6 +13826,22 @@
     "photo_path": "player_images/Axel_Witsel_3656.png"
   },
   {
+    "id": 300273,
+    "name": "Djelan Morana",
+    "position": null,
+    "nationality": "France",
+    "team_name": "OGC Nice",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/522.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 273766,
     "name": "Djibril Coulibaly",
     "position": "Midfield",
@@ -14124,24 +14106,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v3aiug1766319519.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Mohamed_Abdelmonem_245563.png"
-  },
-  {
-    "id": 149129,
-    "name": "Mohamed Ali Cho",
-    "position": "Offence",
-    "nationality": "France",
-    "team_name": "OGC Nice",
-    "league_name": "Ligue 1",
-    "team_logo_url": "https://crests.football-data.org/522.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fy5wo31766319678.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Mohamed_Ali_Cho_149129.png"
   },
   {
     "id": 192153,
@@ -18692,24 +18656,6 @@
     "photo_path": "player_images/David_Odogu_202533.png"
   },
   {
-    "id": 264401,
-    "name": "Dayann Methalie",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "Toulouse FC",
-    "league_name": "Ligue 1",
-    "team_logo_url": "https://crests.football-data.org/511.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Dayann_Methalie_264401.png"
-  },
-  {
     "id": 283251,
     "name": "Enzo Faty",
     "position": "Offence",
@@ -19466,6 +19412,24 @@
     "photo_path": "player_images/Max_Aarons_80765.png"
   },
   {
+    "id": 41381,
+    "name": "Michele Di Gregorio",
+    "position": "Goalkeeper",
+    "nationality": "Italy",
+    "team_name": "AFC Bournemouth",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/bournemouth.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Michele_Di_Gregorio_41381.png"
+  },
+  {
     "id": 203356,
     "name": "Rayan",
     "position": "Offence",
@@ -20068,6 +20032,22 @@
     "photo_path": "player_images/William_Saliba_80171.png"
   },
   {
+    "id": 8158,
+    "name": "Aaron Wan-Bissaka",
+    "position": "Defence",
+    "nationality": "Congo DR",
+    "team_name": "Aston Villa FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/58.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 260718,
     "name": "Alysson",
     "position": "Offence",
@@ -20120,6 +20100,22 @@
     "photo_path": "player_images/Boubacar_Kamara_8346.png"
   },
   {
+    "id": 274024,
+    "name": "Bradley Burrowes",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Aston Villa FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/58.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 280446,
     "name": "Brian Madjo",
     "position": "Offence",
@@ -20154,24 +20150,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/10qe2t1756984661.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Emiliano_Buendía_31941.png"
-  },
-  {
-    "id": 3141,
-    "name": "Emiliano Martínez",
-    "position": "Goalkeeper",
-    "nationality": "Argentina",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Emiliano_Martínez_3141.png"
   },
   {
     "id": 6317,
@@ -20350,6 +20328,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8ky80l1764108541.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Leon_Bailey_157.png"
+  },
+  {
+    "id": 3181,
+    "name": "Leon Goretzka",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "Aston Villa FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/58.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hnokj01756409111.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Leon_Goretzka_3181.png"
   },
   {
     "id": 172958,
@@ -20710,6 +20706,22 @@
     "photo_path": "player_images/Dango_Ouattara_177305.png"
   },
   {
+    "id": 193633,
+    "name": "El Hadji Malick Diouf",
+    "position": "Defence",
+    "nationality": "Senegal",
+    "team_name": "Brentford FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/402.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 4419,
     "name": "Ellery Balcombe",
     "position": "Goalkeeper",
@@ -20726,24 +20738,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hrg6as1694115022.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Ellery_Balcombe_4419.png"
-  },
-  {
-    "id": 4334,
-    "name": "Ethan Pinnock",
-    "position": "Defence",
-    "nationality": "Jamaica",
-    "team_name": "Brentford FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/402.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/36c65g1765972433.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ethan_Pinnock_4334.png"
   },
   {
     "id": 151119,
@@ -21488,6 +21482,24 @@
     "photo_path": "player_images/James_Beadle_191362.png"
   },
   {
+    "id": 147891,
+    "name": "Jaouen Hadjam",
+    "position": "Defence",
+    "nationality": "Algeria",
+    "team_name": "Brighton & Hove Albion FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/397.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rsozw71681388411.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jaouen_Hadjam_147891.png"
+  },
+  {
     "id": 4040,
     "name": "Jason Steele",
     "position": "Goalkeeper",
@@ -21876,24 +21888,6 @@
     "photo_path": "player_images/Alejandro_Garnacho_181901.png"
   },
   {
-    "id": 813,
-    "name": "Axel Disasi",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "Chelsea FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/61.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a3ytt11772141907.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Axel_Disasi_813.png"
-  },
-  {
     "id": 170426,
     "name": "Benoît Badiashile",
     "position": "Defence",
@@ -21998,6 +21992,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v56o471766402381.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Emanuel_Emegha_150599.png"
+  },
+  {
+    "id": 3141,
+    "name": "Emiliano Martínez",
+    "position": "Goalkeeper",
+    "nationality": "Argentina",
+    "team_name": "Chelsea FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/61.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Emiliano_Martínez_3141.png"
   },
   {
     "id": 102603,
@@ -22178,24 +22190,6 @@
     "photo_path": "player_images/Levi_Colwill_170440.png"
   },
   {
-    "id": 151095,
-    "name": "Liam Delap",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Chelsea FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/61.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Liam_Delap_151095.png"
-  },
-  {
     "id": 152498,
     "name": "Malo Gusto",
     "position": "Defence",
@@ -22212,24 +22206,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wzyklc1757003476.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Malo_Gusto_152498.png"
-  },
-  {
-    "id": 190866,
-    "name": "Mamadou Sarr",
-    "position": "Defence",
-    "nationality": "Senegal",
-    "team_name": "Chelsea FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/61.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Mamadou_Sarr_190866.png"
   },
   {
     "id": 207109,
@@ -22376,6 +22352,24 @@
     "photo_path": "player_images/Pedro_Neto_2074.png"
   },
   {
+    "id": 205684,
+    "name": "Ray Paez",
+    "position": "Midfield",
+    "nationality": "Ecuador",
+    "team_name": "Chelsea FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/61.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tf06hr1766053963.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ray_Paez_205684.png"
+  },
+  {
     "id": 56628,
     "name": "Reece James",
     "position": "Defence",
@@ -22390,24 +22384,6 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
-  },
-  {
-    "id": 300099,
-    "name": "Reggie Watson",
-    "position": null,
-    "nationality": "England",
-    "team_name": "Chelsea FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/61.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/i37n8k1787727490.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Reggie_Watson_300099.png"
   },
   {
     "id": 135555,
@@ -22640,6 +22616,24 @@
     "photo_path": "player_images/Carl_Rushworth_171498.png"
   },
   {
+    "id": 4418,
+    "name": "Daniel Bentley",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "team_name": "Coventry City FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/1076.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xt66781756975715.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daniel_Bentley_4418.png"
+  },
+  {
     "id": 146122,
     "name": "Ellis Simms",
     "position": "Offence",
@@ -22660,7 +22654,7 @@
   {
     "id": 6009,
     "name": "Ephron Mason-Clark",
-    "position": "Midfield",
+    "position": "Offence",
     "nationality": "England",
     "team_name": "Coventry City FC",
     "league_name": "Premier League",
@@ -22674,6 +22668,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/eq9as51762174309.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Ephron_Mason-Clark_6009.png"
+  },
+  {
+    "id": 4334,
+    "name": "Ethan Pinnock",
+    "position": "Defence",
+    "nationality": "Jamaica",
+    "team_name": "Coventry City FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/1076.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/36c65g1765972433.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ethan_Pinnock_4334.png"
   },
   {
     "id": 24210,
@@ -23046,6 +23058,22 @@
     "photo_path": "player_images/Sidiki_Cherif_213712.png"
   },
   {
+    "id": 286320,
+    "name": "Stephen Mfuni",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Coventry City FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/1076.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 9218,
     "name": "Taiwo Awoniyi",
     "position": "Offence",
@@ -23134,6 +23162,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rldq7y1767102670.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Anan_Khalaili_213425.png"
+  },
+  {
+    "id": 813,
+    "name": "Axel Disasi",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "Crystal Palace FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/354.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a3ytt11772141907.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Axel_Disasi_813.png"
   },
   {
     "id": 10208,
@@ -23820,22 +23866,6 @@
     "photo_path": "player_images/Harrison_Armstrong_264281.png"
   },
   {
-    "id": 300078,
-    "name": "Harvey Foster",
-    "position": null,
-    "nationality": "England",
-    "team_name": "Everton FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/62.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 136284,
     "name": "Hayden Hackney",
     "position": "Midfield",
@@ -24150,6 +24180,22 @@
     "photoUrl": null
   },
   {
+    "id": 300279,
+    "name": "Alex Borto",
+    "position": "Goalkeeper",
+    "nationality": "United States",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 3392,
     "name": "Alex Iwobi",
     "position": "Offence",
@@ -24220,22 +24266,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5kckaq1757069916.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Bernd_Leno_3174.png"
-  },
-  {
-    "id": 300100,
-    "name": "Bradley Slade",
-    "position": null,
-    "nationality": "England",
-    "team_name": "Fulham FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/63.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 146154,
@@ -24464,22 +24494,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9h4351775374435.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Luke_Harris_187167.png"
-  },
-  {
-    "id": 300102,
-    "name": "Macauley Zepa",
-    "position": null,
-    "nationality": "France",
-    "team_name": "Fulham FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/63.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 179716,
@@ -25052,6 +25066,24 @@
     "photo_path": "player_images/Matty_Jacob_150364.png"
   },
   {
+    "id": 149129,
+    "name": "Mohamed Ali Cho",
+    "position": "Offence",
+    "nationality": "France",
+    "team_name": "Hull City AFC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/322.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fy5wo31766319678.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mohamed_Ali_Cho_149129.png"
+  },
+  {
     "id": 213072,
     "name": "Mohamed Belloumi",
     "position": "Offence",
@@ -25512,6 +25544,24 @@
     "photo_path": "player_images/Emersonn_176628.png"
   },
   {
+    "id": 11720,
+    "name": "Exequiel Palacios",
+    "position": "Midfield",
+    "nationality": "Argentina",
+    "team_name": "Ipswich Town FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/349.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Exequiel_Palacios_11720.png"
+  },
+  {
     "id": 37560,
     "name": "Florentino",
     "position": "Midfield",
@@ -25688,22 +25738,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pauk871761909064.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Kasey_McAteer_176777.png"
-  },
-  {
-    "id": 186557,
-    "name": "Kayne van Oevelen",
-    "position": "Goalkeeper",
-    "nationality": "Netherlands",
-    "team_name": "Ipswich Town FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/349.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 9814,
@@ -26268,6 +26302,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wi4qc91763666341.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Maximilian_Wöber_7562.png"
+  },
+  {
+    "id": 9438,
+    "name": "Michael Zetterer",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "Leeds United FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/341.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5ucd981762977059.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Michael_Zetterer_9438.png"
   },
   {
     "id": 3475,
@@ -26946,6 +26998,24 @@
     "photo_path": "player_images/Antoine_Semenyo_4417.png"
   },
   {
+    "id": 221819,
+    "name": "Ayyoub Bouaddi",
+    "position": "Midfield",
+    "nationality": "France",
+    "team_name": "Manchester City FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/65.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ayyoub_Bouaddi_221819.png"
+  },
+  {
     "id": 206908,
     "name": "Claudio Echeverri",
     "position": "Midfield",
@@ -27270,22 +27340,6 @@
     "photo_path": "player_images/Max_Alleyne_244856.png"
   },
   {
-    "id": 171986,
-    "name": "Nico Gonzalez",
-    "position": "Midfield",
-    "nationality": "Spain",
-    "team_name": "Manchester City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/65.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 206743,
     "name": "Nico O'Reilly",
     "position": "Defence",
@@ -27302,24 +27356,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hoxsam1769182257.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Nico_O_Reilly_206743.png"
-  },
-  {
-    "id": 66896,
-    "name": "Omar Marmoush",
-    "position": "Offence",
-    "nationality": "Egypt",
-    "team_name": "Manchester City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/65.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Omar_Marmoush_66896.png"
   },
   {
     "id": 7888,
@@ -27428,22 +27464,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g3psnr1769183713.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Rúben_Dias_10183.png"
-  },
-  {
-    "id": 146352,
-    "name": "Sávio",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Manchester City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/65.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 7696,
@@ -27976,7 +27996,7 @@
   {
     "id": 211559,
     "name": "Patrick Dorgu",
-    "position": "Defence",
+    "position": "Offence",
     "nationality": "Denmark",
     "team_name": "Manchester United FC",
     "league_name": "Premier League",
@@ -28562,6 +28582,22 @@
     "photo_path": "player_images/Nick_Woltemade_133547.png"
   },
   {
+    "id": 171986,
+    "name": "Nico Gonzalez",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "Newcastle United FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/67.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 251265,
     "name": "Sean Steur",
     "position": "Midfield",
@@ -28844,6 +28880,24 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
+  },
+  {
+    "id": 151095,
+    "name": "Liam Delap",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Nottingham Forest FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/351.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dxp7ym1757002801.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Liam_Delap_151095.png"
   },
   {
     "id": 144361,
@@ -29346,6 +29400,24 @@
     "photo_path": "player_images/Daniel_Ballard_121109.png"
   },
   {
+    "id": 264401,
+    "name": "Dayann Methalie",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "Sunderland AFC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/71.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5fbhj51765967100.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dayann_Methalie_264401.png"
+  },
+  {
     "id": 99664,
     "name": "Enzo Le Fée",
     "position": "Midfield",
@@ -29422,6 +29494,22 @@
     "name": "Jocelin Bi",
     "position": "Offence",
     "nationality": "Ivory Coast",
+    "team_name": "Sunderland AFC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/71.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 286011,
+    "name": "Jules Ahoka",
+    "position": "Midfield",
+    "nationality": "DR Congo",
     "team_name": "Sunderland AFC",
     "league_name": "Premier League",
     "team_logo_url": "https://crests.football-data.org/71.png",
@@ -29778,7 +29866,7 @@
   {
     "id": 177040,
     "name": "Archie Gray",
-    "position": "Midfield",
+    "position": "Defence",
     "nationality": "England",
     "team_name": "Tottenham Hotspur FC",
     "league_name": "Premier League",
@@ -30220,6 +30308,24 @@
     "photo_path": "player_images/Mohammed_Kudus_77399.png"
   },
   {
+    "id": 66896,
+    "name": "Omar Marmoush",
+    "position": "Offence",
+    "nationality": "Egypt",
+    "team_name": "Tottenham Hotspur FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/73.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Omar_Marmoush_66896.png"
+  },
+  {
     "id": 170391,
     "name": "Pape Sarr",
     "position": "Midfield",
@@ -30309,6 +30415,22 @@
     "id": 249465,
     "name": "Souza",
     "position": "Defence",
+    "nationality": "Brazil",
+    "team_name": "Tottenham Hotspur FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/73.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 146352,
+    "name": "Sávio",
+    "position": "Offence",
     "nationality": "Brazil",
     "team_name": "Tottenham Hotspur FC",
     "league_name": "Premier League",
@@ -30962,22 +31084,6 @@
     "photo_path": "player_images/Ante_Budimir_2237.png"
   },
   {
-    "id": 300101,
-    "name": "Asier Bonel",
-    "position": null,
-    "nationality": "Spain",
-    "team_name": "CA Osasuna",
-    "league_name": "Primera Division",
-    "team_logo_url": "https://crests.football-data.org/79.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 249577,
     "name": "Asier Osambela",
     "position": "Midfield",
@@ -31290,22 +31396,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yem3jm1762531833.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Sergio_Herrera_31968.png"
-  },
-  {
-    "id": 300032,
-    "name": "Unai Santos",
-    "position": null,
-    "nationality": "Spain",
-    "team_name": "CA Osasuna",
-    "league_name": "Primera Division",
-    "team_logo_url": "https://crests.football-data.org/79.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 8559,
@@ -32842,6 +32932,24 @@
     "photo_path": "player_images/Dani_Olmo_23132.png"
   },
   {
+    "id": 3548,
+    "name": "Dominik Livaković",
+    "position": "Goalkeeper",
+    "nationality": "Croatia",
+    "team_name": "FC Barcelona",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/81.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dominik_Livaković_3548.png"
+  },
+  {
     "id": 101345,
     "name": "Eric García",
     "position": "Defence",
@@ -32946,10 +33054,10 @@
     "photoUrl": null
   },
   {
-    "id": 227023,
-    "name": "Héctor Fort",
-    "position": "Defence",
-    "nationality": "Spain",
+    "id": 274542,
+    "name": "Hamza Abdelkarim",
+    "position": "Offence",
+    "nationality": "Egypt",
     "team_name": "FC Barcelona",
     "league_name": "Primera Division",
     "team_logo_url": "https://crests.football-data.org/81.png",
@@ -32959,9 +33067,9 @@
     "tmUrl": null,
     "foot": null,
     "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png",
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/htz7531780139779.png",
     "photoSource": "thesportsdb",
-    "photo_path": "player_images/Héctor_Fort_227023.png"
+    "photo_path": "player_images/Hamza_Abdelkarim_274542.png"
   },
   {
     "id": 298634,
@@ -33934,6 +34042,24 @@
     "photo_path": "player_images/Hugo_Sotelo_168650.png"
   },
   {
+    "id": 279739,
+    "name": "Ifeanyi Ndukwe",
+    "position": "Defence",
+    "nationality": "Austria",
+    "team_name": "Levante UD",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/88.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ifeanyi_Ndukwe_279739.png"
+  },
+  {
     "id": 156746,
     "name": "Iván Romero",
     "position": "Offence",
@@ -34694,6 +34820,22 @@
     "photoUrl": null
   },
   {
+    "id": 32830,
+    "name": "Pablo Martínez",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "Málaga CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/84.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 246498,
     "name": "Puga",
     "position": "Defence",
@@ -34884,6 +35026,24 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
+  },
+  {
+    "id": 150536,
+    "name": "Couhaib Driouech",
+    "position": "Offence",
+    "nationality": "Morocco",
+    "team_name": "RC Celta de Vigo",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/558.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cjlexr1764594758.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Couhaib_Driouech_150536.png"
   },
   {
     "id": 83406,
@@ -35078,6 +35238,22 @@
     "photoUrl": null
   },
   {
+    "id": 300306,
+    "name": "Kike Ribes",
+    "position": "Defence",
+    "nationality": "Spain",
+    "team_name": "RC Celta de Vigo",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/558.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 279927,
     "name": "Manuel Fernández",
     "position": "Defence",
@@ -35236,6 +35412,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rly9ti1762372000.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Álvaro_Núñez_211835.png"
+  },
+  {
+    "id": 4221,
+    "name": "Adama Traoré",
+    "position": "Offence",
+    "nationality": "Spain",
+    "team_name": "RC Deportivo La Coruña",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/560.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 185093,
@@ -35736,6 +35928,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/21c96a1762860098.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Álvaro_Fernández_79533.png"
+  },
+  {
+    "id": 191403,
+    "name": "Bryan Zaragoza",
+    "position": "Offence",
+    "nationality": "Spain",
+    "team_name": "RCD Espanyol de Barcelona",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/80.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 170833,
@@ -36290,6 +36498,22 @@
     "name": "Georgiy Tsitaishvili",
     "position": "Offence",
     "nationality": "Georgia",
+    "team_name": "Rayo Vallecano de Madrid",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/87.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 300277,
+    "name": "Gnangoro Bouare",
+    "position": "Midfield",
+    "nationality": "Spain",
     "team_name": "Rayo Vallecano de Madrid",
     "league_name": "Primera Division",
     "team_logo_url": "https://crests.football-data.org/87.png",
@@ -37360,6 +37584,24 @@
     "photo_path": "player_images/Ibrahima_Konaté_9542.png"
   },
   {
+    "id": 289908,
+    "name": "Jorge Cestero",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "Real Madrid CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/86.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x5emur1768499059.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_Cestero_289908.png"
+  },
+  {
     "id": 125010,
     "name": "Jude Bellingham",
     "position": "Midfield",
@@ -37786,6 +38028,24 @@
     "photo_path": "player_images/Maguette_Gueye_183154.png"
   },
   {
+    "id": 166329,
+    "name": "Matteo Prati",
+    "position": "Midfield",
+    "nationality": "Italy",
+    "team_name": "Real Racing Club de Santander",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/5335.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xuxc1k1764336469.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matteo_Prati_166329.png"
+  },
+  {
     "id": 98747,
     "name": "Pablo Ramon",
     "position": "Defence",
@@ -38030,6 +38290,24 @@
     "photo_path": "player_images/Gonçalo_Guedes_3259.png"
   },
   {
+    "id": 227023,
+    "name": "Héctor Fort",
+    "position": "Defence",
+    "nationality": "Spain",
+    "team_name": "Real Sociedad de Fútbol",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/92.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x1ag1j1762371932.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Héctor_Fort_227023.png"
+  },
+  {
     "id": 29,
     "name": "Igor Zubeldía",
     "position": "Defence",
@@ -38198,6 +38476,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pmp5rt1762709318.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Luka_Sučić_82516.png"
+  },
+  {
+    "id": 190866,
+    "name": "Mamadou Sarr",
+    "position": "Defence",
+    "nationality": "Senegal",
+    "team_name": "Real Sociedad de Fútbol",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/92.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/a1ha5q1766053704.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mamadou_Sarr_190866.png"
   },
   {
     "id": 272956,
@@ -38530,6 +38826,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8o2ezj1762860532.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Gabriel_Suazo_21385.png"
+  },
+  {
+    "id": 144628,
+    "name": "Giorgi Kochorashvili",
+    "position": "Midfield",
+    "nationality": "Georgia",
+    "team_name": "Sevilla FC",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/559.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ahwgg11718735692.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giorgi_Kochorashvili_144628.png"
   },
   {
     "id": 213043,
@@ -38886,6 +39200,24 @@
     "photoUrl": null
   },
   {
+    "id": 151744,
+    "name": "Arnau Martinez",
+    "position": "Defence",
+    "nationality": "Spain",
+    "team_name": "Valencia CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/95.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/01gfcq1762457247.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Arnau_Martinez_151744.png"
+  },
+  {
     "id": 9870,
     "name": "Arnaut Danjuma",
     "position": "Offence",
@@ -39131,6 +39463,22 @@
     "id": 97367,
     "name": "Justin de Haas",
     "position": "Defence",
+    "nationality": "Netherlands",
+    "team_name": "Valencia CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/95.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 186557,
+    "name": "Kayne van Oevelen",
+    "position": "Goalkeeper",
     "nationality": "Netherlands",
     "team_name": "Valencia CF",
     "league_name": "Primera Division",
@@ -39506,6 +39854,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/29ex1e1762888858.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Luiz_Lúcio_Reis_Júnior_150899.png"
+  },
+  {
+    "id": 171216,
+    "name": "Nathan-Dylan Saliba",
+    "position": "Midfield",
+    "nationality": "Canada",
+    "team_name": "Villarreal CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/94.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ju6son1768082239.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nathan-Dylan_Saliba_171216.png"
   },
   {
     "id": 8412,
@@ -40160,24 +40526,6 @@
     "photo_path": "player_images/Samuel_Chukwueze_33124.png"
   },
   {
-    "id": 115245,
-    "name": "Samuele Ricci",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "AC Milan",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/98.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Samuele_Ricci_115245.png"
-  },
-  {
     "id": 39635,
     "name": "Santiago Giménez",
     "position": "Offence",
@@ -40368,6 +40716,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1piq141697923897.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Andrea_Petagna_1854.png"
+  },
+  {
+    "id": 99859,
+    "name": "Cyril Ngonge",
+    "position": "Offence",
+    "nationality": "Belgium",
+    "team_name": "AC Monza",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/5911.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mu8vhd1758814013.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cyril_Ngonge_99859.png"
   },
   {
     "id": 3040,
@@ -40626,6 +40992,24 @@
     "photo_path": "player_images/Matteo_Pessina_2836.png"
   },
   {
+    "id": 42760,
+    "name": "Michael Folorunsho",
+    "position": "Midfield",
+    "nationality": "Italy",
+    "team_name": "AC Monza",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/5911.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yysf3d1764336240.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Michael_Folorunsho_42760.png"
+  },
+  {
     "id": 153012,
     "name": "Nicolas Galazzi",
     "position": "Midfield",
@@ -40782,6 +41166,22 @@
     "photo_path": "player_images/Valentin_Antov_20842.png"
   },
   {
+    "id": 283944,
+    "name": "Yvan Maye",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "AC Monza",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/5911.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 3851,
     "name": "Albert Guðmundsson",
     "position": "Offence",
@@ -40834,22 +41234,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zabbun1764172229.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Arthur_Atta_190552.png"
-  },
-  {
-    "id": 300041,
-    "name": "Brando Mazzeo",
-    "position": null,
-    "nationality": "Italy",
-    "team_name": "ACF Fiorentina",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/99.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 192307,
@@ -40958,22 +41342,6 @@
     "photo_path": "player_images/Fabiano_Parisi_129801.png"
   },
   {
-    "id": 300040,
-    "name": "Federico Croci",
-    "position": null,
-    "nationality": "Italy",
-    "team_name": "ACF Fiorentina",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/99.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 250304,
     "name": "Franco Mastantuono",
     "position": "Offence",
@@ -40990,24 +41358,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pgq83k1762604333.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Franco_Mastantuono_250304.png"
-  },
-  {
-    "id": 171123,
-    "name": "Giovanni Fabbian",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "ACF Fiorentina",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/99.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/brvi431776938038.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Giovanni_Fabbian_171123.png"
   },
   {
     "id": 82126,
@@ -41396,6 +41746,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t2xdih1777708654.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Donyell_Malen_7457.png"
+  },
+  {
+    "id": 290391,
+    "name": "Emanuele Lulli",
+    "position": "Defence",
+    "nationality": "Italy",
+    "team_name": "AS Roma",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/100.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 526,
@@ -41800,6 +42166,24 @@
     "photo_path": "player_images/Davide_Zappacosta_7807.png"
   },
   {
+    "id": 30629,
+    "name": "Eljif Elmas",
+    "position": "Midfield",
+    "nationality": "North Macedonia",
+    "team_name": "Atalanta BC",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/102.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/38hezl1762288414.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Eljif_Elmas_30629.png"
+  },
+  {
     "id": 1830,
     "name": "Francesco Rossi",
     "position": "Goalkeeper",
@@ -41816,6 +42200,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/plx6ss1695157462.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Francesco_Rossi_1830.png"
+  },
+  {
+    "id": 1747,
+    "name": "Franck Kessié",
+    "position": "Midfield",
+    "nationality": "Ivory Coast",
+    "team_name": "Atalanta BC",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/102.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wcmpma1771663848.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Franck_Kessié_1747.png"
   },
   {
     "id": 114117,
@@ -42258,6 +42660,24 @@
     "photo_path": "player_images/Artem_Dovbyk_24217.png"
   },
   {
+    "id": 145893,
+    "name": "Arthur Theate",
+    "position": "Defence",
+    "nationality": "Belgium",
+    "team_name": "Bologna FC 1909",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/103.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tr7ftn1762287457.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Arthur_Theate_145893.png"
+  },
+  {
     "id": 210842,
     "name": "Eivind Helland",
     "position": "Defence",
@@ -42414,22 +42834,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vshaqr1731101000.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Lorenzo_De_Silvestri_2292.png"
-  },
-  {
-    "id": 300031,
-    "name": "Marco Libra",
-    "position": null,
-    "nationality": "Venezuela",
-    "team_name": "Bologna FC 1909",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/103.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 152702,
@@ -42716,6 +43120,22 @@
     "photo_path": "player_images/Adam_Obert_170374.png"
   },
   {
+    "id": 300288,
+    "name": "Ademide Akarakiri",
+    "position": null,
+    "nationality": "England",
+    "team_name": "Cagliari Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/104.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 259979,
     "name": "Agustín Albarracín",
     "position": "Offence",
@@ -42996,24 +43416,6 @@
     "photo_path": "player_images/Kingstone_Mutandwa_246153.png"
   },
   {
-    "id": 166329,
-    "name": "Matteo Prati",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "Cagliari Calcio",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/104.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xuxc1k1764336469.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Matteo_Prati_166329.png"
-  },
-  {
     "id": 111294,
     "name": "Mattia Felici",
     "position": "Offence",
@@ -43146,24 +43548,6 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
-  },
-  {
-    "id": 114054,
-    "name": "Sebastiano Esposito",
-    "position": "Offence",
-    "nationality": "Italy",
-    "team_name": "Cagliari Calcio",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/104.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/50t7vi1764336205.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Sebastiano_Esposito_114054.png"
   },
   {
     "id": 289719,
@@ -43740,6 +44124,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/drujvq1718821566.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Noel_Törnqvist_146639.png"
+  },
+  {
+    "id": 115245,
+    "name": "Samuele Ricci",
+    "position": "Midfield",
+    "nationality": "Italy",
+    "team_name": "Como 1907",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/7397.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/syjck91758893445.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Samuele_Ricci_115245.png"
   },
   {
     "id": 151271,
@@ -44358,6 +44760,24 @@
     "photo_path": "player_images/Ben_Lhassine_Kone_2296.png"
   },
   {
+    "id": 129635,
+    "name": "Daniel Birligea",
+    "position": "Offence",
+    "nationality": "Romania",
+    "team_name": "Frosinone Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/470.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ylayb11718633744.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Daniel_Birligea_129635.png"
+  },
+  {
     "id": 177072,
     "name": "Eldin Lolic",
     "position": "Goalkeeper",
@@ -44372,6 +44792,24 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
+  },
+  {
+    "id": 177393,
+    "name": "Enzo Tchato",
+    "position": "Defence",
+    "nationality": "Cameroon",
+    "team_name": "Frosinone Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/470.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/g7hu2t1674742125.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Enzo_Tchato_177393.png"
   },
   {
     "id": 245324,
@@ -44828,6 +45266,22 @@
     "photo_path": "player_images/Seydou_Fini_192114.png"
   },
   {
+    "id": 120722,
+    "name": "Tomáš Bobček",
+    "position": "Offence",
+    "nationality": "Slovakia",
+    "team_name": "Frosinone Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/470.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 167734,
     "name": "Wisdom Amey",
     "position": "Defence",
@@ -44850,22 +45304,6 @@
     "name": "Aaron Martín",
     "position": "Defence",
     "nationality": "Spain",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 299686,
-    "name": "Adam Žulevič",
-    "position": null,
-    "nationality": "Slovakia",
     "team_name": "Genoa CFC",
     "league_name": "Serie A",
     "team_logo_url": "https://crests.football-data.org/107.png",
@@ -45280,6 +45718,24 @@
     "photo_path": "player_images/Mikael_Egill_Ellertsson_172413.png"
   },
   {
+    "id": 67743,
+    "name": "Milutin Osmajić",
+    "position": "Offence",
+    "nationality": "Montenegro",
+    "team_name": "Genoa CFC",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/107.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q5cpko1761495673.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Milutin_Osmajić_67743.png"
+  },
+  {
     "id": 24119,
     "name": "Morten Frendrup",
     "position": "Midfield",
@@ -45670,6 +46126,24 @@
     "photo_path": "player_images/Jérémie_Boga_4121.png"
   },
   {
+    "id": 92854,
+    "name": "Kamil Grabara",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "team_name": "Juventus FC",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/109.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vls14a1763669328.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kamil_Grabara_92854.png"
+  },
+  {
     "id": 191712,
     "name": "Kenan Yıldız",
     "position": "Offence",
@@ -45774,24 +46248,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oo0l5m1759222361.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Mattia_Perin_1959.png"
-  },
-  {
-    "id": 41381,
-    "name": "Michele Di Gregorio",
-    "position": "Goalkeeper",
-    "nationality": "Italy",
-    "team_name": "Juventus FC",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/109.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fgvi9t1759222392.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Michele_Di_Gregorio_41381.png"
   },
   {
     "id": 45680,
@@ -46142,6 +46598,24 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
+  },
+  {
+    "id": 171123,
+    "name": "Giovanni Fabbian",
+    "position": "Midfield",
+    "nationality": "Italy",
+    "team_name": "Parma Calcio 1913",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/112.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/brvi431776938038.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giovanni_Fabbian_171123.png"
   },
   {
     "id": 97894,
@@ -46716,6 +47190,24 @@
     "photo_path": "player_images/Gustav_Isaksen_128007.png"
   },
   {
+    "id": 134835,
+    "name": "Josip Šutalo",
+    "position": "Defence",
+    "nationality": "Croatia",
+    "team_name": "SS Lazio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/110.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Josip_Šutalo_134835.png"
+  },
+  {
     "id": 97537,
     "name": "Kenneth Taylor",
     "position": "Midfield",
@@ -47152,24 +47644,6 @@
     "photoUrl": null
   },
   {
-    "id": 99859,
-    "name": "Cyril Ngonge",
-    "position": "Offence",
-    "nationality": "Belgium",
-    "team_name": "SSC Napoli",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/113.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mu8vhd1758814013.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Cyril_Ngonge_99859.png"
-  },
-  {
     "id": 7571,
     "name": "David Neres",
     "position": "Offence",
@@ -47366,24 +47840,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cpnmfs1762288328.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Matteo_Politano_2193.png"
-  },
-  {
-    "id": 42760,
-    "name": "Michael Folorunsho",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "SSC Napoli",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/113.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yysf3d1764336240.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Michael_Folorunsho_42760.png"
   },
   {
     "id": 74378,
@@ -47930,24 +48386,6 @@
     "photo_path": "player_images/Gvidas_Gineitis_190831.png"
   },
   {
-    "id": 67697,
-    "name": "Ivan Ilić",
-    "position": "Midfield",
-    "nationality": "Serbia",
-    "team_name": "Torino FC",
-    "league_name": "Serie A",
-    "team_logo_url": "https://crests.football-data.org/586.png",
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "tmUrl": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bd6s9a1758813427.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ivan_Ilić_67697.png"
-  },
-  {
     "id": 157120,
     "name": "Kian Fitz-Jim",
     "position": "Midfield",
@@ -48280,10 +48718,10 @@
     "photoUrl": null
   },
   {
-    "id": 299866,
-    "name": "Hjalte Lærke",
-    "position": null,
-    "nationality": "Denmark",
+    "id": 67697,
+    "name": "Ivan Ilić",
+    "position": "Midfield",
+    "nationality": "Serbia",
     "team_name": "US Lecce",
     "league_name": "Serie A",
     "team_logo_url": "https://crests.football-data.org/5890.png",
@@ -48292,8 +48730,10 @@
     "marketValue": null,
     "tmUrl": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bd6s9a1758813427.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ivan_Ilić_67697.png"
   },
   {
     "id": 150530,
@@ -48974,6 +49414,24 @@
     "photo_path": "player_images/Fali_Candé_117370.png"
   },
   {
+    "id": 128331,
+    "name": "Fedde Leysen",
+    "position": "Defence",
+    "nationality": "Belgium",
+    "team_name": "US Sassuolo Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/471.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xcjpvn1767102685.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Fedde_Leysen_128331.png"
+  },
+  {
     "id": 175837,
     "name": "Filippo Missori",
     "position": "Defence",
@@ -49286,6 +49744,24 @@
     "photo_path": "player_images/Sebastian_Walukiewicz_105441.png"
   },
   {
+    "id": 114054,
+    "name": "Sebastiano Esposito",
+    "position": "Offence",
+    "nationality": "Italy",
+    "team_name": "US Sassuolo Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/471.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/50t7vi1764336205.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sebastiano_Esposito_114054.png"
+  },
+  {
     "id": 264821,
     "name": "Simone Cinquegrano",
     "position": "Midfield",
@@ -49420,6 +49896,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hfjxfr1764172621.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Alessandro_Zanoli_2996.png"
+  },
+  {
+    "id": 84089,
+    "name": "Bartosz Mrozek",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "team_name": "Udinese Calcio",
+    "league_name": "Serie A",
+    "team_logo_url": "https://crests.football-data.org/115.png",
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "tmUrl": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b5jfi51770497710.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bartosz_Mrozek_84089.png"
   },
   {
     "id": 284663,
