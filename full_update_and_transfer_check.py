@@ -3,14 +3,12 @@
 """
 Football quiz database updater.
 
-Fetches squads from football-data.org, finds player photos (TheSportsDB + Wikipedia),
-detects transfers, and saves a flat JSON array for the iOS app.
+Squads come from football-data.org. Photos and player details come from
+Transfermarkt, with TheSportsDB and Wikipedia as fallbacks.
 
-Photo search priority:
-  Tier 1: TheSportsDB – Sport + DOB + Nationality (highest confidence)
-  Tier 2: TheSportsDB – Sport + DOB
-  Tier 3: TheSportsDB – DOB only (sport tag may be missing)
-  Tier 4: Wikipedia API (fallback for missing players)
+The report includes two diagnostics that matter when squads look stale:
+  - which season football-data.org is actually serving per league
+  - players whose Transfermarkt club disagrees with the API squad
 """
 
 import re
@@ -23,6 +21,12 @@ from urllib.parse import quote
 from collections import defaultdict
 import sys
 
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    print("[ERROR] beautifulsoup4 not installed. Run: pip install beautifulsoup4")
+    sys.exit(1)
+
 # ========================================
 # CONFIGURATION
 # ========================================
@@ -31,8 +35,21 @@ FOOTBALL_DATA_API_KEY = os.environ.get("FOOTBALL_DATA_API_KEY", "")
 THESPORTSDB_BASE_URL = "https://www.thesportsdb.com/api/v1/json/3"
 FOOTBALL_DATA_BASE_URL = "https://api.football-data.org/v4"
 WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
+TRANSFERMARKT_BASE = "https://www.transfermarkt.de"
 
 FOOTBALL_DATA_HEADERS = {"X-Auth-Token": FOOTBALL_DATA_API_KEY}
+
+# Transfermarkt serves a reduced page without browser-like headers
+TM_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Referer": "https://www.transfermarkt.de/",
+}
 
 LEAGUES_TO_PROCESS = {
     "Bundesliga": 2002,
@@ -45,14 +62,20 @@ LEAGUES_TO_PROCESS = {
 DB_FILE = "football_quiz_complete.json"
 IMAGE_DIR = "player_images"
 
+# Words too generic to prove two club names refer to the same club
+CLUB_STOPWORDS = {
+    "fussball", "fußball", "club", "calcio", "football", "sport", "sportverein",
+    "verein", "athletic", "atletico", "united", "city", "real", "deportivo",
+}
+
 # ========================================
-# DATABASE I/O (FLAT ARRAY FORMAT)
+# DATABASE I/O
 # ========================================
 
 def load_db(file_path):
     """Load existing flat player list. Returns dict keyed by player_id string."""
     if not os.path.exists(file_path):
-        print("[INFO] No existing database found, starting fresh.")
+        print("[INFO] No existing database, starting fresh.")
         return {}
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -64,9 +87,9 @@ def load_db(file_path):
         if isinstance(data, list):
             return {str(p['id']): p for p in data if 'id' in p}
 
-        # Legacy nested format → migrate
+        # Legacy nested format -> migrate
         if isinstance(data, dict) and 'leagues' in data:
-            print("[INFO] Migrating legacy nested format to flat array...")
+            print("[INFO] Migrating legacy nested format...")
             players = {}
             for league_name, league_data in data['leagues'].items():
                 for team in league_data.get('teams', []):
@@ -77,7 +100,6 @@ def load_db(file_path):
                             player.setdefault('league_name', league_name)
                             players[pid] = player
             return players
-
         return {}
     except (json.JSONDecodeError, KeyError) as e:
         print(f"[ERROR] Cannot parse database: {e}")
@@ -85,7 +107,6 @@ def load_db(file_path):
 
 
 def save_db(players_dict, file_path):
-    """Save flat player array sorted by league / team / name."""
     players_list = sorted(
         players_dict.values(),
         key=lambda p: (p.get('league_name', ''), p.get('team_name', ''), p.get('name', ''))
@@ -97,6 +118,25 @@ def save_db(players_dict, file_path):
 # ========================================
 # FOOTBALL-DATA.ORG
 # ========================================
+
+def get_competition_season(league_id):
+    """
+    Return a human-readable description of the season the API is serving.
+    A stale season here explains relegated teams still showing up.
+    """
+    try:
+        r = requests.get(f"{FOOTBALL_DATA_BASE_URL}/competitions/{league_id}",
+                         headers=FOOTBALL_DATA_HEADERS, timeout=10)
+        if r.status_code != 200:
+            return f"unknown (HTTP {r.status_code})"
+        season = r.json().get('currentSeason') or {}
+        start = (season.get('startDate') or '?')[:10]
+        end = (season.get('endDate') or '?')[:10]
+        matchday = season.get('currentMatchday')
+        return f"{start} .. {end} (Spieltag {matchday})"
+    except Exception as e:
+        return f"unknown ({e})"
+
 
 def get_league_teams(league_id):
     url = f"{FOOTBALL_DATA_BASE_URL}/competitions/{league_id}/teams"
@@ -130,42 +170,161 @@ def get_team_squad(team_id):
         return None
 
 # ========================================
-# IMAGE URL UTILITIES
+# TRANSFERMARKT
+# ========================================
+
+def search_tm_url(player_name, team_name):
+    """Search Transfermarkt for a player and return their profile URL."""
+    url = f"{TRANSFERMARKT_BASE}/schnellsuche/ergebnis/schnellsuche?query={quote(player_name)}"
+    try:
+        r = requests.get(url, headers=TM_HEADERS, timeout=10)
+        if r.status_code != 200:
+            return None
+        soup = BeautifulSoup(r.text, 'html.parser')
+
+        # Prefer the result whose club matches the API squad
+        for row in soup.select('table.items tbody tr'):
+            name_cell = row.select_one('td.hauptlink a')
+            if not name_cell:
+                continue
+            href = name_cell.get('href', '')
+            if '/profil/spieler/' not in href:
+                continue
+            club_cell = row.select_one('td.zentriert a[href*="/verein/"]')
+            club_text = club_cell.get_text(strip=True) if club_cell else ''
+            if clubs_match(team_name, club_text):
+                return TRANSFERMARKT_BASE + href
+
+        first = soup.select_one(
+            'table.items tbody tr td.hauptlink a[href*="/profil/spieler/"]')
+        if first:
+            return TRANSFERMARKT_BASE + first.get('href', '')
+    except Exception:
+        pass
+    return None
+
+
+def significant_club_words(name):
+    """Distinctive lowercase words from a club name, for loose comparison."""
+    if not name:
+        return set()
+    cleaned = re.sub(r'[^\w\s]', ' ', name.lower())
+    return {w for w in cleaned.split()
+            if len(w) >= 4 and not w.isdigit() and w not in CLUB_STOPWORDS}
+
+
+def clubs_match(name_a, name_b):
+    """
+    True if two club names plausibly refer to the same club.
+    Loose on purpose: sources spell clubs differently
+    ("1.FSV Mainz 05" vs "1. FSV Mainz 05").
+    """
+    a, b = significant_club_words(name_a), significant_club_words(name_b)
+    if not a or not b:
+        return True  # not enough signal to claim a mismatch
+    return bool(a & b)
+
+
+def parse_info_table(soup):
+    """
+    Transfermarkt's profile table is a flat run of label/value spans:
+      span.info-table__content--regular = label, next --bold span = value.
+    """
+    out = {}
+    spans = soup.select('div.info-table span.info-table__content')
+    i = 0
+    while i < len(spans) - 1:
+        if 'regular' in ' '.join(spans[i].get('class') or []):
+            nxt = spans[i + 1]
+            if 'bold' in ' '.join(nxt.get('class') or []):
+                label = spans[i].get_text(' ', strip=True).rstrip(':').strip()
+                out[label] = nxt.get_text(' ', strip=True)
+                i += 2
+                continue
+        i += 1
+    return out
+
+
+def scrape_transfermarkt(tm_url):
+    """
+    Scrape photo, market value, foot, age and current club.
+    Returns a dict (possibly without 'photo_url') or None if the page failed.
+    """
+    if not tm_url:
+        return None
+    try:
+        r = requests.get(tm_url, headers=TM_HEADERS, timeout=15)
+        if r.status_code != 200:
+            return None
+
+        soup = BeautifulSoup(r.text, 'html.parser')
+        result = {}
+
+        # --- PHOTO ---
+        img = (soup.select_one('img.data-header__profile-image')
+               or soup.select_one('div.data-header__profile img')
+               or soup.find('img', src=re.compile(
+                   r'transfermarkt\.(com|de|technology)/portrait')))
+        if img:
+            src = img.get('src') or img.get('data-src') or ''
+            src = re.sub(r'/portrait/(small|medium|header)/', '/portrait/big/', src)
+            if src and 'default.jpg' not in src and 'silhouette' not in src:
+                result['photo_url'] = src
+
+        # --- MARKET VALUE ---
+        # The number is a bare text node; the unit sits in span.waehrung.
+        mv_el = soup.select_one('a.data-header__market-value-wrapper')
+        if mv_el:
+            for p in mv_el.select('p'):   # drop "Letzte Änderung: ..."
+                p.decompose()
+            m = re.search(r'([\d.,]+)\s*(Mio\.|Tsd\.)?\s*€',
+                          mv_el.get_text(' ', strip=True))
+            if m:
+                result['market_value'] = (f"{m.group(1)} {m.group(2)} €"
+                                          if m.group(2) else f"{m.group(1)} €")
+
+        # --- FOOT / AGE / CLUB ---
+        info = parse_info_table(soup)
+
+        foot_raw = (info.get('Fuß') or '').lower()
+        if 'rechts' in foot_raw:
+            result['foot'] = 'right'
+        elif 'links' in foot_raw:
+            result['foot'] = 'left'
+        elif 'beid' in foot_raw:          # "beidfüßig"
+            result['foot'] = 'both'
+
+        age_m = re.search(r'\((\d{1,2})\)', info.get('Geb./Alter', ''))
+        if age_m:
+            result['age'] = int(age_m.group(1))
+
+        club = info.get('Aktueller Verein')
+        if club:
+            result['current_club'] = club
+
+        return result
+
+    except Exception as e:
+        print(f"      [TM] Scrape error: {e}")
+        return None
+
+# ========================================
+# THESPORTSDB FALLBACK
 # ========================================
 
 def upgrade_url_resolution(url):
-    """Try to get a higher-resolution version of known image URL patterns."""
     if not url:
         return url
-    # TheSportsDB: remove /preview/ or /small/ subdirectory if present
     url = url.replace('/preview/', '/').replace('/small/', '/')
-    # Wikipedia thumbnails: bump to 600px
     url = re.sub(r'/(\d+)px-([^/]+)$', r'/600px-\2', url)
     return url
 
 
-def best_tsdb_url(player_entry):
-    """Return highest-quality URL from a TheSportsDB player entry."""
-    for field in ('strCutout', 'strThumb'):
-        raw = player_entry.get(field)
-        if raw:
-            return upgrade_url_resolution(raw)
-    return None
-
-# ========================================
-# PHOTO SEARCH: THESPORTSDB
-# ========================================
-
 def search_thesportsdb(player_name, dob, nationality):
-    """
-    3-tier DOB-based matching on TheSportsDB.
-    Returns {'url': ..., 'match': ..., 'source': 'thesportsdb'} or None.
-    """
     try:
         r = requests.get(
             f"{THESPORTSDB_BASE_URL}/searchplayers.php?p={quote(player_name)}",
-            timeout=10
-        )
+            timeout=10)
         if r.status_code != 200:
             return None
         players = r.json().get('player') or []
@@ -176,43 +335,37 @@ def search_thesportsdb(player_name, dob, nationality):
 
     nat_lower = nationality.lower() if nationality else None
 
+    def best_url(p):
+        for field in ('strCutout', 'strThumb'):
+            if p.get(field):
+                return upgrade_url_resolution(p[field])
+        return None
+
     def score(p):
-        """Return (tier, url) where lower tier = better confidence."""
-        sport = p.get('strSport', '').lower()
+        u = best_url(p)
         p_dob = p.get('dateBorn')
-        p_nat = p.get('strNationality', '').lower()
-        u = best_tsdb_url(p)
-
         if not u or not dob or not p_dob or p_dob != dob:
-            return None  # DOB match is required for all tiers
-
-        is_soccer = sport == 'soccer'
-        nat_match = nat_lower and nat_lower in p_nat
-
+            return None   # a matching date of birth is required
+        is_soccer = p.get('strSport', '').lower() == 'soccer'
+        nat_match = nat_lower and nat_lower in p.get('strNationality', '').lower()
         if is_soccer and nat_match:
-            return (1, u, 'TIER1_SPORT_DOB_NAT')
+            return (1, u, 'TSDB_TIER1')
         if is_soccer:
-            return (2, u, 'TIER2_SPORT_DOB')
-        return (3, u, 'TIER3_DOB_ONLY')
+            return (2, u, 'TSDB_TIER2')
+        return (3, u, 'TSDB_TIER3')
 
     results = [s for p in players for s in [score(p)] if s]
     if not results:
         return None
-
     best = min(results, key=lambda x: x[0])
     return {'url': best[1], 'match': best[2], 'source': 'thesportsdb'}
 
 # ========================================
-# PHOTO SEARCH: WIKIPEDIA (FALLBACK)
+# WIKIPEDIA FALLBACK
 # ========================================
 
-def search_wikipedia(player_name, nationality=None):
-    """
-    Searches Wikipedia for a footballer photo.
-    Returns {'url': ..., 'match': 'TIER4_WIKIPEDIA', 'source': 'wikipedia'} or None.
-    """
+def search_wikipedia(player_name):
     try:
-        # Step 1: article search
         search_r = requests.get(WIKIPEDIA_API_URL, params={
             'action': 'query', 'list': 'search',
             'srsearch': f"{player_name} footballer",
@@ -224,54 +377,79 @@ def search_wikipedia(player_name, nationality=None):
         if not results:
             return None
 
-        page_title = results[0]['title']
-
-        # Step 2: get page thumbnail
         img_r = requests.get(WIKIPEDIA_API_URL, params={
-            'action': 'query', 'titles': page_title,
+            'action': 'query', 'titles': results[0]['title'],
             'prop': 'pageimages', 'format': 'json',
             'pithumbsize': 600, 'pilicense': 'any',
         }, timeout=10)
         if img_r.status_code != 200:
             return None
 
-        pages = img_r.json().get('query', {}).get('pages', {})
-        for page in pages.values():
+        for page in img_r.json().get('query', {}).get('pages', {}).values():
             source = page.get('thumbnail', {}).get('source')
             if source:
-                return {
-                    'url': upgrade_url_resolution(source),
-                    'match': 'TIER4_WIKIPEDIA',
-                    'source': 'wikipedia'
-                }
+                return {'url': upgrade_url_resolution(source),
+                        'match': 'WIKIPEDIA', 'source': 'wikipedia'}
     except Exception:
         pass
     return None
 
 # ========================================
-# PHOTO ORCHESTRATION
+# PHOTO DOWNLOAD
 # ========================================
-
-def find_player_photo(player_name, dob, nationality):
-    """Try TheSportsDB, then Wikipedia. Returns photo dict or None."""
-    result = search_thesportsdb(player_name, dob, nationality)
-    if result:
-        return result
-    # Small pause before Wikipedia to avoid hammering APIs back-to-back
-    time.sleep(0.3)
-    return search_wikipedia(player_name, nationality)
-
 
 def download_photo(url, save_path):
     try:
-        r = requests.get(url, timeout=20)
-        if r.status_code == 200:
+        headers = TM_HEADERS if 'transfermarkt' in url else {}
+        r = requests.get(url, headers=headers, timeout=20)
+        if r.status_code == 200 and len(r.content) > 1000:
             with open(save_path, 'wb') as f:
                 f.write(r.content)
             return True
         return False
     except Exception:
         return False
+
+# ========================================
+# FALLBACK HELPER
+# ========================================
+
+def try_fallbacks(flat, player_name, dob, nationality, old, player_id,
+                  stats, missing_photos, league_name, team_name):
+    """Try TheSportsDB then Wikipedia. Keeps an existing photo if there is one."""
+    if old.get('photoUrl') and old.get('hasPhoto'):
+        flat['hasPhoto'] = True
+        flat['photoUrl'] = old['photoUrl']
+        flat['photoSource'] = old.get('photoSource')
+        flat['photo_path'] = old.get('photo_path')
+        stats['existing_photos'] += 1
+        return flat
+
+    result = search_thesportsdb(player_name, dob, nationality)
+    if not result:
+        time.sleep(0.3)
+        result = search_wikipedia(player_name)
+
+    if result:
+        safe = re.sub(r'[^\w\-]', '_', player_name)
+        file_path = os.path.join(IMAGE_DIR, f"{safe}_{player_id}.png")
+        if download_photo(result['url'], file_path):
+            flat['hasPhoto'] = True
+            flat['photoUrl'] = result['url']
+            flat['photoSource'] = result['source']
+            flat['photo_path'] = file_path
+            stats['new_photos'] += 1
+            stats['fallback_photos'] += 1
+            print(f"      -> OK fallback: {result['match']}")
+            return flat
+        missing_photos[league_name].append(f"{player_name} ({team_name}) - download error")
+    else:
+        missing_photos[league_name].append(f"{player_name} ({team_name})")
+        print(f"      -> no photo found")
+
+    flat['hasPhoto'] = False
+    flat['photoUrl'] = None
+    return flat
 
 # ========================================
 # MAIN UPDATE LOGIC
@@ -285,16 +463,19 @@ def compare_and_update():
     stats = defaultdict(int)
     missing_photos = defaultdict(list)
     transfers = defaultdict(lambda: {'in': [], 'out': []})
+    club_mismatches = []
+    seasons = {}
 
     print(f"\n[INFO] Processing {len(LEAGUES_TO_PROCESS)} leagues...")
 
     for league_name, league_id in LEAGUES_TO_PROCESS.items():
+        seasons[league_name] = get_competition_season(league_id)
         print(f"\n{'='*6} {league_name} {'='*6}")
+        print(f"  API-Saison: {seasons[league_name]}")
 
         teams = get_league_teams(league_id)
-
-        # Detect players who left this league (were here before, not now)
-        old_league_ids = {pid for pid, p in old_db.items() if p.get('league_name') == league_name}
+        old_league_ids = {pid for pid, p in old_db.items()
+                          if p.get('league_name') == league_name}
         new_league_ids = set()
 
         for team_info in teams:
@@ -323,10 +504,18 @@ def compare_and_update():
                 old = old_db.get(player_id, {})
 
                 if is_new:
-                    transfers[league_name]['in'].append(f"{player_name} → {team_name}")
+                    transfers[league_name]['in'].append(f"{player_name} -> {team_name}")
                     stats['transfers_in'] += 1
 
-                # Build flat player record, preserving enriched fields (marketValue etc.)
+                # Transfermarkt URL: cached in the DB, searched only when missing
+                tm_url = old.get('tmUrl')
+                if not tm_url:
+                    print(f"    ? {player_name}: searching Transfermarkt...")
+                    tm_url = search_tm_url(player_name, team_name)
+                    if tm_url:
+                        print(f"      -> {tm_url}")
+                    time.sleep(1)
+
                 flat = {
                     'id': player['id'],
                     'name': player_name,
@@ -335,123 +524,139 @@ def compare_and_update():
                     'team_name': team_name,
                     'league_name': league_name,
                     'team_logo_url': crest,
-                    # These fields come from external enrichment (e.g. Transfermarkt)
-                    # and are preserved across runs rather than re-fetched.
+                    'tmUrl': tm_url,
                     'age': old.get('age'),
                     'jerseyNumber': player.get('shirtNumber') or old.get('jerseyNumber'),
                     'marketValue': old.get('marketValue'),
-                    'tmUrl': old.get('tmUrl'),
                     'foot': old.get('foot'),
                 }
 
-                # --- PHOTO LOGIC ---
-                # If a valid photo URL already exists in the DB, keep it.
-                # Re-search only for new players or those with hasPhoto=False.
-                existing_url = old.get('photoUrl')
-                if existing_url and old.get('hasPhoto'):
-                    flat['hasPhoto'] = True
-                    flat['photoUrl'] = existing_url
-                    flat['photoSource'] = old.get('photoSource', 'unknown')
-                    flat['photo_path'] = old.get('photo_path')
-                    stats['existing_photos'] += 1
+                old_url = old.get('photoUrl')
+                had_photo = bool(old_url) and bool(old.get('hasPhoto'))
 
-                    label = "NEW (photo preserved)" if is_new else "photo OK"
-                    print(f"    ✓ {player_name}: {label}")
-                    new_db[player_id] = flat
-                    continue
+                if tm_url:
+                    print(f"    * {player_name}: Transfermarkt...")
+                    tm = scrape_transfermarkt(tm_url)
 
-                # Need to search
-                if is_new:
-                    print(f"    + {player_name}: NEW – searching photo...")
-                else:
-                    print(f"    ✗ {player_name}: no photo – searching...")
+                    if tm:
+                        # Refresh details on every run, they change over time
+                        if tm.get('market_value'):
+                            flat['marketValue'] = tm['market_value']
+                        if tm.get('foot'):
+                            flat['foot'] = tm['foot']
+                        if tm.get('age'):
+                            flat['age'] = tm['age']
 
-                photo = find_player_photo(player_name, dob, nationality)
+                        # Squad staleness check: does TM agree on the club?
+                        tm_club = tm.get('current_club')
+                        if tm_club and not clubs_match(team_name, tm_club):
+                            club_mismatches.append(
+                                f"{player_name}: API={team_name} / TM={tm_club}")
+                            stats['club_mismatches'] += 1
+                            print(f"      -> WARN club mismatch: TM says {tm_club}")
 
-                if photo:
-                    safe = re.sub(r'[^\w\-]', '_', player_name)
-                    file_path = os.path.join(IMAGE_DIR, f"{safe}_{player_id}.png")
-
-                    if download_photo(photo['url'], file_path):
-                        flat['hasPhoto'] = True
-                        flat['photoUrl'] = photo['url']
-                        flat['photoSource'] = photo['source']
-                        flat['photo_path'] = file_path
-                        stats['new_photos'] += 1
-
-                        tier = photo['match']
-                        print(f"      → ✅ {tier}")
-
-                        if tier in ('TIER1_SPORT_DOB_NAT', 'TIER2_SPORT_DOB'):
-                            stats['high_confidence'] += 1
-                        elif tier == 'TIER4_WIKIPEDIA':
-                            stats['wikipedia'] += 1
+                        new_url = tm.get('photo_url')
+                        if new_url and new_url != old_url:
+                            safe = re.sub(r'[^\w\-]', '_', player_name)
+                            file_path = os.path.join(IMAGE_DIR, f"{safe}_{player_id}.jpg")
+                            if download_photo(new_url, file_path):
+                                flat['hasPhoto'] = True
+                                flat['photoUrl'] = new_url
+                                flat['photoSource'] = 'transfermarkt'
+                                flat['photo_path'] = file_path
+                                stats['new_photos'] += 1
+                                stats['tm_photos'] += 1
+                                print(f"      -> OK photo updated")
+                            else:
+                                flat['hasPhoto'] = had_photo
+                                flat['photoUrl'] = old_url
+                                flat['photoSource'] = old.get('photoSource')
+                                flat['photo_path'] = old.get('photo_path')
+                                print(f"      -> download failed, keeping old photo")
                         else:
-                            stats['low_confidence'] += 1
+                            flat['hasPhoto'] = had_photo
+                            flat['photoUrl'] = old_url
+                            flat['photoSource'] = old.get('photoSource')
+                            flat['photo_path'] = old.get('photo_path')
+                            if had_photo:
+                                stats['existing_photos'] += 1
+                                print(f"      -> details refreshed, photo unchanged")
+                            else:
+                                flat = try_fallbacks(
+                                    flat, player_name, dob, nationality, old,
+                                    player_id, stats, missing_photos,
+                                    league_name, team_name)
                     else:
-                        flat['hasPhoto'] = False
-                        flat['photoUrl'] = None
-                        missing_photos[league_name].append(f"{player_name} ({team_name}) – download error")
-                        print(f"      → ❌ download failed")
+                        print(f"      -> TM page failed, trying fallbacks...")
+                        flat = try_fallbacks(flat, player_name, dob, nationality, old,
+                                             player_id, stats, missing_photos,
+                                             league_name, team_name)
                 else:
-                    flat['hasPhoto'] = False
-                    flat['photoUrl'] = None
-                    missing_photos[league_name].append(f"{player_name} ({team_name})")
-                    print(f"      → ❌ not found")
+                    print(f"    ! {player_name}: no TM URL, fallbacks...")
+                    flat = try_fallbacks(flat, player_name, dob, nationality, old,
+                                         player_id, stats, missing_photos,
+                                         league_name, team_name)
 
                 new_db[player_id] = flat
-                time.sleep(1.5)
+                time.sleep(2)   # be polite to Transfermarkt
 
-            print(f"  [OK] {len(squad)} players processed for {team_name}")
-            time.sleep(5)
+            print(f"  [OK] {len(squad)} players processed")
+            time.sleep(6)
 
-        # Departures: in old league but not in any current team
+        # Players who were in this league before but are not in any current squad
         for pid in old_league_ids - new_league_ids:
             left = old_db.get(pid, {})
             transfers[league_name]['out'].append(
-                f"{left.get('name', pid)} ← {left.get('team_name', '?')}"
-            )
+                f"{left.get('name', pid)} <- {left.get('team_name', '?')}")
             stats['transfers_out'] += 1
 
     save_db(new_db, DB_FILE)
-    generate_report(stats, missing_photos, transfers)
+    generate_report(stats, missing_photos, transfers, club_mismatches, seasons)
 
 # ========================================
 # REPORT
 # ========================================
 
-def generate_report(stats, missing, transfers):
+def generate_report(stats, missing, transfers, club_mismatches, seasons):
     total = stats['total_players']
-    new_photos = stats['new_photos']
-    existing = stats['existing_photos']
-
     print("\n" + "=" * 70)
-    print("ABSCHLUSSBERICHT")
+    print(f"ABSCHLUSSBERICHT  ({datetime.now().strftime('%Y-%m-%d %H:%M')})")
     print("=" * 70)
 
+    print("\nAPI-Saison pro Liga (erklaert abgestiegene Teams):")
+    for league, season in seasons.items():
+        print(f"  {league:20} {season}")
+
     if not total:
-        print("WARN: Keine Spieler verarbeitet.")
+        print("\nWARN: Keine Spieler verarbeitet.")
         return
 
-    print(f"Spieler gesamt:          {total}")
-    print(f"Fotos vorhanden (alt):   {existing}")
-    print(f"Fotos neu gefunden:      {new_photos}")
-    print(f"  Hohe Sicherheit:       {stats['high_confidence']}")
-    print(f"  Wikipedia Fallback:    {stats['wikipedia']}")
-    print(f"  Niedrige Sicherheit:   {stats['low_confidence']}")
-
-    print(f"\nNeuzugänge:              {stats['transfers_in']}")
-    print(f"Abgänge:                 {stats['transfers_out']}")
+    print(f"\nSpieler gesamt:           {total}")
+    print(f"Fotos vorhanden (alt):    {stats['existing_photos']}")
+    print(f"Fotos neu/aktualisiert:   {stats['new_photos']}")
+    print(f"  davon Transfermarkt:    {stats['tm_photos']}")
+    print(f"  davon Fallback:         {stats['fallback_photos']}")
+    print(f"\nNeuzugaenge:              {stats['transfers_in']}")
+    print(f"Abgaenge:                 {stats['transfers_out']}")
 
     for league, tx in transfers.items():
         if tx['in'] or tx['out']:
             print(f"\n  {league}:")
             if tx['in']:
-                names = ', '.join(n.split('→')[0].strip() for n in tx['in'][:5])
+                names = ', '.join(n.split('->')[0].strip() for n in tx['in'][:5])
                 print(f"    + {len(tx['in'])} neu: {names}...")
             if tx['out']:
-                names = ', '.join(n.split('←')[0].strip() for n in tx['out'][:5])
+                names = ', '.join(n.split('<-')[0].strip() for n in tx['out'][:5])
                 print(f"    - {len(tx['out'])} weg: {names}...")
+
+    if club_mismatches:
+        print(f"\nVEREINS-ABWEICHUNGEN: {len(club_mismatches)}")
+        print("  (football-data.org listet den Spieler noch im Kader,")
+        print("   Transfermarkt nennt einen anderen Verein -> API-Kader veraltet)")
+        for m in club_mismatches[:30]:
+            print(f"    - {m}")
+        if len(club_mismatches) > 30:
+            print(f"    ... und {len(club_mismatches) - 30} weitere")
 
     total_missing = sum(len(v) for v in missing.values())
     if total_missing:
@@ -473,20 +678,15 @@ if __name__ == "__main__":
     CI_RUN = os.environ.get("CI") == "true"
 
     if not FOOTBALL_DATA_API_KEY:
-        if CI_RUN:
-            print("[ERROR] FOOTBALL_DATA_API_KEY secret not set in GitHub repository.")
-            sys.exit(1)
-        else:
-            print("[ERROR] FOOTBALL_DATA_API_KEY not set. Export it as environment variable:")
-            print("  export FOOTBALL_DATA_API_KEY=your_key_here")
-            sys.exit(1)
+        print("[ERROR] FOOTBALL_DATA_API_KEY not set.")
+        sys.exit(1)
 
     print("=" * 70)
-    print("FUSSBALL DATENBANK UPDATE")
+    print("FUSSBALL DATENBANK UPDATE (mit Transfermarkt)")
     print("=" * 70)
 
     if CI_RUN:
-        print("CI mode – running automatically...")
+        print("CI mode - running automatically...")
         compare_and_update()
     else:
         ans = input("Start full update? (ja/nein): ")
