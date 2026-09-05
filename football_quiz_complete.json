@@ -18080,22 +18080,6 @@
     "photo_path": "player_images/Martin_Ødegaard_7427.png"
   },
   {
-    "id": 61450,
-    "name": "Martinelli",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Arsenal FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/57.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 115035,
     "name": "Martín Zubimendi",
     "position": "Midfield",
@@ -18382,7 +18366,7 @@
   {
     "id": 289528,
     "name": "George Hemmings",
-    "position": "Midfield",
+    "position": "Offence",
     "nationality": "England",
     "team_name": "Aston Villa FC",
     "league_name": "Premier League",
@@ -18502,24 +18486,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m7hi9k1725311106.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Lamare_Bogarde_172899.png"
-  },
-  {
-    "id": 157,
-    "name": "Leon Bailey",
-    "position": "Offence",
-    "nationality": "Jamaica",
-    "team_name": "Aston Villa FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/58.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8ky80l1764108541.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Leon_Bailey_157.png"
   },
   {
     "id": 3181,
@@ -19370,6 +19336,24 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5fxu221758815127.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Evan_Ferguson_130809.png"
+  },
+  {
+    "id": 29319,
+    "name": "Femi Azeez",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Brighton & Hove Albion FC",
+    "league_name": "Premier League",
+    "team_logo_url": "https://crests.football-data.org/397.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hkmzs91761768824.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Femi_Azeez_29319.png"
   },
   {
     "id": 9869,
@@ -21118,24 +21102,6 @@
     "photo_path": "player_images/Jesurun_Rak-Sakyi_179712.png"
   },
   {
-    "id": 152149,
-    "name": "Justin Devenny",
-    "position": "Midfield",
-    "nationality": "Northern Ireland",
-    "team_name": "Crystal Palace FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/354.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ommdbm1766828242.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Justin_Devenny_152149.png"
-  },
-  {
     "id": 213269,
     "name": "Jørgen Strand Larsen",
     "position": "Offence",
@@ -21206,22 +21172,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t9t7xm1772140995.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Remi_Matthews_6413.png"
-  },
-  {
-    "id": 190550,
-    "name": "Romain Esse",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Crystal Palace FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/354.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
   },
   {
     "id": 9034,
@@ -22578,24 +22528,6 @@
     "foot": null,
     "hasPhoto": false,
     "photoUrl": null
-  },
-  {
-    "id": 150364,
-    "name": "Matty Jacob",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Hull City AFC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/322.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3ca8x81757876340.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Matty_Jacob_150364.png"
   },
   {
     "id": 149129,
@@ -23964,8 +23896,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/no9g2s1788591090.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Harvey_Davies_165154.png"
   },
   {
     "id": 152454,
@@ -24142,8 +24076,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/sm2mer1788591332.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Trey_Nyoni_230517.png"
   },
   {
     "id": 7869,
@@ -24286,24 +24222,6 @@
     "photo_path": "player_images/Ayyoub_Bouaddi_221819.png"
   },
   {
-    "id": 206908,
-    "name": "Claudio Echeverri",
-    "position": "Midfield",
-    "nationality": "Argentina",
-    "team_name": "Manchester City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/65.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jbdnk91756315963.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Claudio_Echeverri_206908.png"
-  },
-  {
     "id": 107330,
     "name": "Elliot Anderson",
     "position": "Midfield",
@@ -24428,24 +24346,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tehbsx1769183074.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Jeremy_Doku_99775.png"
-  },
-  {
-    "id": 275171,
-    "name": "Jeremy Monga",
-    "position": "Offence",
-    "nationality": "England",
-    "team_name": "Manchester City FC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/65.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6sdxxj1761861667.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Jeremy_Monga_275171.png"
   },
   {
     "id": 172791,
@@ -26562,24 +26462,6 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b1rpog1757073112.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Romaine_Mundle_172275.png"
-  },
-  {
-    "id": 166249,
-    "name": "Simon Adingra",
-    "position": "Offence",
-    "nationality": "Ivory Coast",
-    "team_name": "Sunderland AFC",
-    "league_name": "Premier League",
-    "team_logo_url": "https://crests.football-data.org/71.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rxw49v1762198657.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Simon_Adingra_166249.png"
   },
   {
     "id": 4292,
@@ -29576,8 +29458,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/yt83if1788527726.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jesse_Bisiwu_298634.png"
   },
   {
     "id": 152506,
