@@ -10696,6 +10696,22 @@
     "photoUrl": null
   },
   {
+    "id": 300714,
+    "name": "Enisio Carneiro",
+    "position": null,
+    "nationality": "France",
+    "team_name": "ES Troyes AC",
+    "league_name": "Ligue 1",
+    "team_logo_url": "https://crests.football-data.org/531.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
     "id": 74515,
     "name": "Hillel Konaté",
     "position": "Goalkeeper",
@@ -19298,8 +19314,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/xunm0h1788690147.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Costinha_185116.png"
   },
   {
     "id": 178951,
@@ -35532,6 +35550,22 @@
     "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/znpxrg1762865990.png",
     "photoSource": "thesportsdb",
     "photo_path": "player_images/Pepelu_33270.png"
+  },
+  {
+    "id": 300718,
+    "name": "Rodrigo Gamón",
+    "position": null,
+    "nationality": "Spain",
+    "team_name": "Valencia CF",
+    "league_name": "Primera Division",
+    "team_logo_url": "https://crests.football-data.org/95.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
   },
   {
     "id": 194040,
