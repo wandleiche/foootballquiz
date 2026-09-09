@@ -21692,8 +21692,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/8k1uk01788882057.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alex_Borto_300279.png"
   },
   {
     "id": 3392,
