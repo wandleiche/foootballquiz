@@ -3,15 +3,23 @@
 """
 Football quiz database updater.
 
-Squads come from football-data.org. Photos and player details come from
-Transfermarkt, with TheSportsDB and Wikipedia as fallbacks.
+Squads come from football-data.org.
 
-The report includes two diagnostics that matter when squads look stale:
+Market values and portraits come from the published transfermarkt-datasets
+file (CC0) rather than from scraping Transfermarkt, because Transfermarkt
+blocks CI runner IP ranges. Live scraping is still attempted when the script
+runs somewhere that can reach it, and TheSportsDB plus Wikipedia fill the
+remaining photo gaps.
+
+The report includes diagnostics that matter when data looks stale:
   - which season football-data.org is actually serving per league
+  - whether live Transfermarkt was reachable
+  - dataset hit counts, so a source going dark is visible
   - players whose Transfermarkt club disagrees with the API squad
 """
 
 import re
+import io
 import requests
 import json
 import time
@@ -36,6 +44,13 @@ THESPORTSDB_BASE_URL = "https://www.thesportsdb.com/api/v1/json/3"
 FOOTBALL_DATA_BASE_URL = "https://api.football-data.org/v4"
 WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
 TRANSFERMARKT_BASE = "https://www.transfermarkt.de"
+
+# Published Transfermarkt dataset (dcaribou/transfermarkt-datasets, CC0).
+# This is the primary source for market values and portrait URLs: it is a
+# ready-made file meant for reuse, so nothing here talks to Transfermarkt
+# itself - which matters because Transfermarkt blocks CI runner IP ranges.
+TM_DATASET_URL = ("https://pub-e682421888d945d684bcae8890b0ec20.r2.dev"
+                  "/data/players.csv.gz")
 
 FOOTBALL_DATA_HEADERS = {"X-Auth-Token": FOOTBALL_DATA_API_KEY}
 
@@ -106,14 +121,19 @@ def load_db(file_path):
         sys.exit(1)
 
 
-def save_db(players_dict, file_path):
+def save_db(players_dict, file_path, quiet=False):
     players_list = sorted(
         players_dict.values(),
         key=lambda p: (p.get('league_name', ''), p.get('team_name', ''), p.get('name', ''))
     )
-    with open(file_path, 'w', encoding='utf-8') as f:
+    # Write to a temp file first, then replace: a crash mid-write would
+    # otherwise leave a truncated JSON that the app cannot decode.
+    tmp_path = file_path + '.tmp'
+    with open(tmp_path, 'w', encoding='utf-8') as f:
         json.dump(players_list, f, indent=2, ensure_ascii=False)
-    print(f"\n[INFO] Saved {len(players_list)} players to {file_path}")
+    os.replace(tmp_path, file_path)
+    if not quiet:
+        print(f"\n[INFO] Saved {len(players_list)} players to {file_path}")
 
 # ========================================
 # FOOTBALL-DATA.ORG
@@ -172,6 +192,106 @@ def get_team_squad(team_id):
 # ========================================
 # TRANSFERMARKT
 # ========================================
+
+def format_market_value(euros):
+    """
+    Turn 18000000 into "18,00 Mio. €" - the German format the Swift model
+    already parses, so no app change is needed.
+    """
+    try:
+        v = float(euros)
+    except (TypeError, ValueError):
+        return None
+    if v <= 0:
+        return None
+    if v >= 1_000_000:
+        return f"{v / 1_000_000:.2f}".replace('.', ',') + " Mio. €"
+    return f"{v / 1_000:.0f} Tsd. €"
+
+
+def load_tm_dataset():
+    """
+    Download the published Transfermarkt dataset and build lookup tables.
+
+    Returns (by_tm_id, by_name). by_name only contains names that are unique
+    in the dataset, so an ambiguous name never produces a wrong match.
+    """
+    import gzip, csv, collections
+    try:
+        print("[INFO] Lade Transfermarkt-Datensatz...")
+        r = requests.get(TM_DATASET_URL, timeout=120)
+        if r.status_code != 200:
+            print(f"[WARN] Datensatz nicht verfuegbar (HTTP {r.status_code}).")
+            return {}, {}
+        with gzip.open(io.BytesIO(r.content), 'rt', encoding='utf-8') as f:
+            rows = list(csv.DictReader(f))
+    except Exception as e:
+        print(f"[WARN] Datensatz konnte nicht geladen werden: {e}")
+        return {}, {}
+
+    by_id = {row['player_id']: row for row in rows if row.get('player_id')}
+    counts = collections.Counter(normalize_name(r['name']) for r in rows)
+    by_name = {normalize_name(r['name']): r
+               for r in rows if counts[normalize_name(r['name'])] == 1}
+    # name + date of birth stays unique even where the name alone repeats
+    by_name_dob = {(normalize_name(r['name']), (r.get('date_of_birth') or '')[:10]): r
+                   for r in rows if (r.get('date_of_birth') or '').strip()}
+
+    print(f"[INFO] Datensatz: {len(rows)} Spieler "
+          f"({len(by_name)} eindeutige Namen).")
+    return by_id, by_name, by_name_dob
+
+
+def normalize_name(name):
+    return re.sub(r'[^a-z]', '', (name or '').lower())
+
+
+def lookup_tm_dataset(player_name, tm_url, dob, by_id, by_name, by_name_dob):
+    """
+    Match in order of certainty:
+      1. Transfermarkt id taken from tmUrl
+      2. name + date of birth
+      3. name, but only when it is unique in the dataset
+    """
+    m = re.search(r'/spieler/(\d+)', tm_url or '')
+    if m:
+        hit = by_id.get(m.group(1))
+        if hit:
+            return hit, 'ID'
+
+    if dob:
+        hit = by_name_dob.get((normalize_name(player_name), dob[:10]))
+        if hit:
+            return hit, 'DOB'
+
+    hit = by_name.get(normalize_name(player_name))
+    return (hit, 'NAME') if hit else (None, None)
+
+
+def transfermarkt_reachable():
+    """
+    One probe before the main loop.
+
+    Transfermarkt blocks datacenter IP ranges, so on a GitHub Actions runner
+    every request fails. Without this check the script still walks all ~2600
+    players, sleeping between each pointless attempt: about 100 wasted minutes
+    per night, plus 2600 blocked requests aimed at someone else's server.
+    """
+    probe = f"{TRANSFERMARKT_BASE}/manuel-neuer/profil/spieler/17259"
+    try:
+        r = requests.get(probe, headers=TM_HEADERS, timeout=15)
+        if r.status_code != 200:
+            print(f"[WARN] Transfermarkt nicht erreichbar (HTTP {r.status_code}).")
+            return False
+        if 'data-header' not in r.text:
+            print("[WARN] Transfermarkt liefert unerwartete Seite (Bot-Schutz?).")
+            return False
+        print("[INFO] Transfermarkt erreichbar.")
+        return True
+    except Exception as e:
+        print(f"[WARN] Transfermarkt nicht erreichbar: {e}")
+        return False
+
 
 def search_tm_url(player_name, team_name):
     """Search Transfermarkt for a player and return their profile URL."""
@@ -313,9 +433,13 @@ def scrape_transfermarkt(tm_url):
 # ========================================
 
 def upgrade_url_resolution(url):
+    """Rewrite known image URLs to their larger variant."""
     if not url:
         return url
+    # Transfermarkt portraits: header/small/medium are 139x181, big is 300x390
+    url = re.sub(r'/portrait/(header|small|medium)/', '/portrait/big/', url)
     url = url.replace('/preview/', '/').replace('/small/', '/')
+    # Wikipedia thumbnails
     url = re.sub(r'/(\d+)px-([^/]+)$', r'/600px-\2', url)
     return url
 
@@ -466,6 +590,18 @@ def compare_and_update():
     club_mismatches = []
     seasons = {}
 
+    # Checked once. When Transfermarkt is blocked (CI runners are), all TM work
+    # is skipped and existing marketValue/tmUrl/foot/age are carried over from
+    # the previous run instead of being lost.
+    # Primary enrichment source: works from any IP, so this is what actually
+    # keeps market values and portraits populated in CI.
+    ds_by_id, ds_by_name, ds_by_name_dob = load_tm_dataset()
+
+    tm_ok = transfermarkt_reachable()
+    if not tm_ok:
+        print("[INFO] Live-Transfermarkt uebersprungen (gesperrt). "
+              "Marktwerte/Fotos kommen aus dem Datensatz.")
+
     print(f"\n[INFO] Processing {len(LEAGUES_TO_PROCESS)} leagues...")
 
     for league_name, league_id in LEAGUES_TO_PROCESS.items():
@@ -509,7 +645,7 @@ def compare_and_update():
 
                 # Transfermarkt URL: cached in the DB, searched only when missing
                 tm_url = old.get('tmUrl')
-                if not tm_url:
+                if not tm_url and tm_ok:
                     print(f"    ? {player_name}: searching Transfermarkt...")
                     tm_url = search_tm_url(player_name, team_name)
                     if tm_url:
@@ -518,11 +654,19 @@ def compare_and_update():
 
                 flat = {
                     'id': player['id'],
-                    'name': player_name,
-                    'position': player.get('position') or old.get('position'),
+                    'name': player_name or old.get('name') or 'Unbekannt',
+                    # Never emit null here: the Swift model treats these as
+                    # non-optional strings, so a null would make the record
+                    # undecodable in the app.
+                    'position': (player.get('position')
+                                 or old.get('position') or 'Unbekannt'),
                     'nationality': nationality or old.get('nationality'),
-                    'team_name': team_name,
+                    'team_name': team_name or 'Unbekannt',
                     'league_name': league_name,
+                    # Stored so the dataset join has a second exact key besides
+                    # the Transfermarkt id. Name alone is ambiguous for players
+                    # like "Vitinha" or "Thiago".
+                    'dateOfBirth': dob or old.get('dateOfBirth'),
                     'team_logo_url': crest,
                     'tmUrl': tm_url,
                     'age': old.get('age'),
@@ -531,10 +675,56 @@ def compare_and_update():
                     'foot': old.get('foot'),
                 }
 
-                old_url = old.get('photoUrl')
-                had_photo = bool(old_url) and bool(old.get('hasPhoto'))
+                # --- DATASET ENRICHMENT (before any live scraping) ---
+                ds_row, how = lookup_tm_dataset(
+                    player_name, tm_url, dob,
+                    ds_by_id, ds_by_name, ds_by_name_dob)
+                if ds_row:
+                    stats[f'ds_match_{how.lower()}'] += 1
 
-                if tm_url:
+                    mv = format_market_value(ds_row.get('market_value_in_eur'))
+                    if mv:
+                        flat['marketValue'] = mv
+                        stats['ds_market_values'] += 1
+
+                    if ds_row.get('foot'):
+                        flat['foot'] = ds_row['foot'].strip().lower() or None
+
+                    dob_ds = (ds_row.get('date_of_birth') or '')[:10]
+                    if dob_ds:
+                        try:
+                            born = datetime.strptime(dob_ds, '%Y-%m-%d')
+                            today = datetime.now()
+                            flat['age'] = (today.year - born.year
+                                           - ((today.month, today.day)
+                                              < (born.month, born.day)))
+                        except ValueError:
+                            pass
+
+                    # Keep the profile link so future runs join on the id
+                    if not flat.get('tmUrl') and ds_row.get('url'):
+                        flat['tmUrl'] = ds_row['url']
+                        tm_url = ds_row['url']
+
+                    # Portrait: the dataset ships /portrait/header/ at 139x181,
+                    # too small for the quiz, so upgrade it to /portrait/big/.
+                    ds_img = (ds_row.get('image_url') or '').strip()
+                    if ds_img:
+                        big = upgrade_url_resolution(ds_img)
+                        if big != old.get('photoUrl'):
+                            flat['hasPhoto'] = True
+                            flat['photoUrl'] = big
+                            flat['photoSource'] = 'transfermarkt-dataset'
+                            stats['ds_photos'] += 1
+                        else:
+                            flat['hasPhoto'] = True
+                            flat['photoUrl'] = big
+                            flat['photoSource'] = old.get('photoSource') or 'transfermarkt-dataset'
+
+                old_url = flat.get('photoUrl') or old.get('photoUrl')
+                had_photo = bool(old_url) and bool(flat.get('hasPhoto') or old.get('hasPhoto'))
+
+                if tm_url and tm_ok:
                     print(f"    * {player_name}: Transfermarkt...")
                     tm = scrape_transfermarkt(tm_url)
 
@@ -592,16 +782,31 @@ def compare_and_update():
                                              player_id, stats, missing_photos,
                                              league_name, team_name)
                 else:
-                    print(f"    ! {player_name}: no TM URL, fallbacks...")
+                    reason = "TM gesperrt" if tm_url else "keine TM-URL"
+                    if not had_photo:
+                        print(f"    ! {player_name}: {reason}, Fallbacks...")
                     flat = try_fallbacks(flat, player_name, dob, nationality, old,
                                          player_id, stats, missing_photos,
                                          league_name, team_name)
 
                 new_db[player_id] = flat
-                time.sleep(2)   # be polite to Transfermarkt
 
-            print(f"  [OK] {len(squad)} players processed")
-            time.sleep(6)
+                # Only pause when this player actually caused outbound requests.
+                # Players that already have a photo and are skipping Transfermarkt
+                # hit no external service at all, so sleeping on them just burns
+                # runtime (about 34 minutes across a full run).
+                if (tm_url and tm_ok) or not had_photo:
+                    time.sleep(1)
+
+            # Checkpoint after every team. The run takes hours, so a crash or
+            # timeout must not throw away everything done so far.
+            # Merged with old_db so a partial file never shrinks the database
+            # the app downloads; the final save uses new_db alone, which is
+            # what actually drops departed players.
+            save_db({**old_db, **new_db}, DB_FILE, quiet=True)
+            print(f"  [OK] {len(squad)} players processed "
+                  f"({len(new_db)} total, checkpoint saved)")
+            time.sleep(4)
 
         # Players who were in this league before but are not in any current squad
         for pid in old_league_ids - new_league_ids:
@@ -611,17 +816,25 @@ def compare_and_update():
             stats['transfers_out'] += 1
 
     save_db(new_db, DB_FILE)
-    generate_report(stats, missing_photos, transfers, club_mismatches, seasons)
+    generate_report(stats, missing_photos, transfers, club_mismatches, seasons, tm_ok)
 
 # ========================================
 # REPORT
 # ========================================
 
-def generate_report(stats, missing, transfers, club_mismatches, seasons):
+def generate_report(stats, missing, transfers, club_mismatches, seasons, tm_ok=True):
     total = stats['total_players']
     print("\n" + "=" * 70)
     print(f"ABSCHLUSSBERICHT  ({datetime.now().strftime('%Y-%m-%d %H:%M')})")
     print("=" * 70)
+
+    print(f"\nTransfermarkt-Datensatz (CC0):")
+    print(f"  Treffer via TM-ID:      {stats['ds_match_id']}")
+    print(f"  Treffer via Name+Geb.:  {stats['ds_match_dob']}")
+    print(f"  Treffer via Name:       {stats['ds_match_name']}")
+    print(f"  Marktwerte gesetzt:     {stats['ds_market_values']}")
+    print(f"  Portraits gesetzt:      {stats['ds_photos']}")
+    print(f"\nLive-Transfermarkt: {'erreichbar' if tm_ok else 'gesperrt (uebersprungen)'}")
 
     print("\nAPI-Saison pro Liga (erklaert abgestiegene Teams):")
     for league, season in seasons.items():
