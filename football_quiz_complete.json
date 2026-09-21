@@ -10171,9 +10171,10 @@
     "jerseyNumber": null,
     "marketValue": "800 Tsd. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/trsl6n1765920356.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lasso_Coulibaly_170396.png"
   },
   {
     "id": 255520,
@@ -10354,9 +10355,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8wau1o1765982734.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rémy_Labeau_Lascary_204240.png"
   },
   {
     "id": 254867,
@@ -10892,7 +10894,7 @@
     "dateOfBirth": "1996-09-21",
     "team_logo_url": "https://crests.football-data.org/548.png",
     "tmUrl": "https://www.transfermarkt.de/thilo-kehrer/profil/spieler/228948",
-    "age": 29,
+    "age": 30,
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "both",
@@ -13833,8 +13835,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3v1p3u1766319540.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ali_El_Abdi_99394.png"
   },
   {
     "id": 168667,
@@ -13850,9 +13854,10 @@
     "jerseyNumber": null,
     "marketValue": "10,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2otk4v1766319808.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Antoine_Mendy_168667.png"
   },
   {
     "id": 3656,
@@ -13868,9 +13873,10 @@
     "jerseyNumber": null,
     "marketValue": "1,20 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/13uvke1762457461.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Axel_Witsel_3656.png"
   },
   {
     "id": 288893,
@@ -13957,9 +13963,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/1vqx6u1779054331.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hamza_Koutoune_282317.png"
   },
   {
     "id": 123508,
@@ -13975,9 +13982,10 @@
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pkjb4y1766319645.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hicham_Boudaoui_123508.png"
   },
   {
     "id": 98601,
@@ -14011,9 +14019,10 @@
     "jerseyNumber": null,
     "marketValue": "250 Tsd. €",
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/n23ztk1731083945.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Issiaga_Camara_245461.png"
   },
   {
     "id": 1023,
@@ -14029,9 +14038,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lmb4f41766319695.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jonathan_Clauss_1023.png"
   },
   {
     "id": 566,
@@ -14047,9 +14057,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mvm19z1766087991.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Laurent_Abergel_566.png"
   },
   {
     "id": 245563,
@@ -14065,9 +14076,10 @@
     "jerseyNumber": null,
     "marketValue": "2,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v3aiug1766319519.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mohamed_Abdelmonem_245563.png"
   },
   {
     "id": 180827,
@@ -14100,8 +14112,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/pz6zo51766319628.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Moise_Bombito_192153.png"
   },
   {
     "id": 8355,
@@ -14170,9 +14184,10 @@
     "jerseyNumber": null,
     "marketValue": "2,60 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dcb1f81764099911.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Niels_Nkounkou_133292.png"
   },
   {
     "id": 123206,
@@ -14206,8 +14221,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/uuqh371762287642.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sepe_Elye_Wahi_156808.png"
   },
   {
     "id": 76723,
@@ -14223,9 +14240,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tgvdby1766319728.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sofiane_Diop_76723.png"
   },
   {
     "id": 147975,
@@ -14296,9 +14314,10 @@
     "jerseyNumber": null,
     "marketValue": "7,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/k0ku531766319844.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Youssouf_Ndayishimiye_172057.png"
   },
   {
     "id": 249675,
@@ -22915,6 +22934,903 @@
     "photo_path": "player_images/Óscar_Mingueza_146986.png"
   },
   {
+    "id": 7792,
+    "name": "Ainsley Maitland-Niles",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1997-08-29",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/ainsley-maitland-niles/profil/spieler/285845",
+    "age": 29,
+    "jerseyNumber": null,
+    "marketValue": "10,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w0q0b11788879182.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ainsley_Maitland-Niles_7792.png"
+  },
+  {
+    "id": 124694,
+    "name": "Brennan Johnson",
+    "position": "Offence",
+    "nationality": "Wales",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-05-23",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/brennan-johnson/profil/spieler/470607",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "30,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u9bi5v1788879132.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Brennan_Johnson_124694.png"
+  },
+  {
+    "id": 140269,
+    "name": "Carlos Alcaraz",
+    "position": "Midfield",
+    "nationality": "Argentina",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-11-30",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/carlos-alcaraz/profil/spieler/748319",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "15,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 24102,
+    "name": "Christian Nørgaard",
+    "position": "Midfield",
+    "nationality": "Denmark",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1994-03-10",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/christian-norgaard/profil/spieler/148367",
+    "age": 32,
+    "jerseyNumber": null,
+    "marketValue": "5,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/npzn5a1788879250.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Christian_Nørgaard_24102.png"
+  },
+  {
+    "id": 264281,
+    "name": "Harrison Armstrong",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2007-01-19",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/harrison-armstrong/profil/spieler/1107733",
+    "age": 19,
+    "jerseyNumber": null,
+    "marketValue": "12,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dl7p2e1788878812.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Harrison_Armstrong_264281.png"
+  },
+  {
+    "id": 136284,
+    "name": "Hayden Hackney",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-06-26",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cc6vft1788879067.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hayden_Hackney_136284.png"
+  },
+  {
+    "id": 3895,
+    "name": "Jack Grealish",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1995-09-10",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jack-grealish/profil/spieler/203460",
+    "age": 31,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ynkw6r1788879052.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jack_Grealish_3895.png"
+  },
+  {
+    "id": 131569,
+    "name": "Jake O'Brien",
+    "position": "Defence",
+    "nationality": "Ireland",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-05-15",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jake-obrien/profil/spieler/711544",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "18,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jj4fxm1788879266.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jake_O_Brien_131569.png"
+  },
+  {
+    "id": 101076,
+    "name": "James Garner",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-03-13",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/james-garner/profil/spieler/505219",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "45,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u8g5z41788878993.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/James_Garner_101076.png"
+  },
+  {
+    "id": 3316,
+    "name": "James Tarkowski",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1992-11-19",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/james-tarkowski/profil/spieler/173504",
+    "age": 33,
+    "jerseyNumber": null,
+    "marketValue": "5,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j8fybx1788879404.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/James_Tarkowski_3316.png"
+  },
+  {
+    "id": 114120,
+    "name": "Jarrad Branthwaite",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-06-27",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jarrad-branthwaite/profil/spieler/661053",
+    "age": 24,
+    "jerseyNumber": null,
+    "marketValue": "40,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vwqz791788878899.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jarrad_Branthwaite_114120.png"
+  },
+  {
+    "id": 3309,
+    "name": "Jordan Pickford",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1994-03-07",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jordan-pickford/profil/spieler/130164",
+    "age": 32,
+    "jerseyNumber": null,
+    "marketValue": "13,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iotb821788879304.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jordan_Pickford_3309.png"
+  },
+  {
+    "id": 140194,
+    "name": "Kiernan Dewsbury Hall",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1998-09-06",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/kiernan-dewsbury-hall/profil/spieler/475188",
+    "age": 28,
+    "jerseyNumber": null,
+    "marketValue": "35,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xq7ans1788878925.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kiernan_Dewsbury_Hall_140194.png"
+  },
+  {
+    "id": 82135,
+    "name": "Mark Travers",
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-05-18",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/mark-travers/profil/spieler/357658",
+    "age": 27,
+    "jerseyNumber": null,
+    "marketValue": "3,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gcorqn1788879315.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mark_Travers_82135.png"
+  },
+  {
+    "id": 156552,
+    "name": "Merlin Röhl",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-07-05",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/merlin-rohl/profil/spieler/608832",
+    "age": 24,
+    "jerseyNumber": null,
+    "marketValue": "16,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bvioe91788879331.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Merlin_Röhl_156552.png"
+  },
+  {
+    "id": 7829,
+    "name": "Michael Keane",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1993-01-11",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/michael-keane/profil/spieler/118534",
+    "age": 33,
+    "jerseyNumber": null,
+    "marketValue": "3,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o4b6o71788879147.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Michael_Keane_7829.png"
+  },
+  {
+    "id": 171995,
+    "name": "Thierno Barry",
+    "position": "Offence",
+    "nationality": "France",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-01-12",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/thierno-barry/profil/spieler/937941",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "30,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 6180,
+    "name": "Thomas King",
+    "position": "Goalkeeper",
+    "nationality": "Wales",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1995-03-09",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 218525,
+    "name": "Tyler Dibling",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2006-02-17",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/tyler-dibling/profil/spieler/866655",
+    "age": 20,
+    "jerseyNumber": null,
+    "marketValue": "17,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 250436,
+    "name": "Tyrique George",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2006-02-04",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/tyrique-george/profil/spieler/936874",
+    "age": 20,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ci6xol1788879012.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tyrique_George_250436.png"
+  },
+  {
+    "id": 16165,
+    "name": "Vitalii Mykolenko",
+    "position": "Defence",
+    "nationality": "Ukraine",
+    "team_name": "Everton FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-05-29",
+    "team_logo_url": "https://crests.football-data.org/62.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 300279,
+    "name": "Alex Borto",
+    "position": "Goalkeeper",
+    "nationality": "United States",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-11-06",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8k1uk01788882057.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alex_Borto_300279.png"
+  },
+  {
+    "id": 3392,
+    "name": "Alex Iwobi",
+    "position": "Offence",
+    "nationality": "Nigeria",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1996-05-03",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/alex-iwobi/profil/spieler/242631",
+    "age": 30,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 3927,
+    "name": "Antonee Robinson",
+    "position": "Defence",
+    "nationality": "USA",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1997-08-08",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/antonee-robinson/profil/spieler/349701",
+    "age": 29,
+    "jerseyNumber": null,
+    "marketValue": "22,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/r35d9l1788881836.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Antonee_Robinson_3927.png"
+  },
+  {
+    "id": 8366,
+    "name": "Benjamin Lecomte",
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1991-04-26",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/benjamin-lecomte/profil/spieler/127181",
+    "age": 35,
+    "jerseyNumber": null,
+    "marketValue": "800 Tsd. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rs1wzv1788881637.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Benjamin_Lecomte_8366.png"
+  },
+  {
+    "id": 3174,
+    "name": "Bernd Leno",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1992-03-04",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/bernd-leno/profil/spieler/72476",
+    "age": 34,
+    "jerseyNumber": null,
+    "marketValue": "6,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dyt3821788881661.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bernd_Leno_3174.png"
+  },
+  {
+    "id": 146154,
+    "name": "Calvin Bassey",
+    "position": "Defence",
+    "nationality": "Nigeria",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-12-31",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/calvin-bassey/profil/spieler/461883",
+    "age": 26,
+    "jerseyNumber": null,
+    "marketValue": "28,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xx7ot41788880742.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Calvin_Bassey_146154.png"
+  },
+  {
+    "id": 290848,
+    "name": "César Palacios",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2004-11-11",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/cesar-palacios/profil/spieler/948272",
+    "age": 21,
+    "jerseyNumber": null,
+    "marketValue": "7,50 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/60z3hv1788881726.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/César_Palacios_290848.png"
+  },
+  {
+    "id": 123212,
+    "name": "David Affengruber",
+    "position": "Defence",
+    "nationality": "Austria",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-03-19",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/david-affengruber/profil/spieler/452483",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5p7x1f1788880410.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/David_Affengruber_123212.png"
+  },
+  {
+    "id": 85570,
+    "name": "Emile Smith Rowe",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-07-28",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/emile-smith-rowe/profil/spieler/392765",
+    "age": 26,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/03yz4p1788881949.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Emile_Smith_Rowe_85570.png"
+  },
+  {
+    "id": 217658,
+    "name": "Gonzalo García",
+    "position": "Offence",
+    "nationality": "Spain",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2004-03-24",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/gonzalo-garcia/profil/spieler/935230",
+    "age": 22,
+    "jerseyNumber": null,
+    "marketValue": "30,00 Mio. €",
+    "foot": "both",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 3995,
+    "name": "Harrison Reed",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1995-01-27",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/harrison-reed/profil/spieler/226973",
+    "age": 31,
+    "jerseyNumber": null,
+    "marketValue": "2,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xyd7691788881770.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Harrison_Reed_3995.png"
+  },
+  {
+    "id": 180563,
+    "name": "Hugo Larsson",
+    "position": "Midfield",
+    "nationality": "Sweden",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2004-06-27",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/hugo-larsson/profil/spieler/931838",
+    "age": 22,
+    "jerseyNumber": null,
+    "marketValue": "28,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7oehnr1788881606.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hugo_Larsson_180563.png"
+  },
+  {
+    "id": 2253,
+    "name": "Joachim Andersen",
+    "position": "Defence",
+    "nationality": "Denmark",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1996-05-31",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/joachim-andersen/profil/spieler/260827",
+    "age": 30,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9fgtal1788880661.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Joachim_Andersen_2253.png"
+  },
+  {
+    "id": 217577,
+    "name": "Jonah Kusi-Asare",
+    "position": "Offence",
+    "nationality": "Sweden",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2007-07-04",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jonah-kusi-asare/profil/spieler/1069512",
+    "age": 19,
+    "jerseyNumber": null,
+    "marketValue": "3,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t0ux881788881582.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jonah_Kusi-Asare_217577.png"
+  },
+  {
+    "id": 98750,
+    "name": "Jorge Cuenca",
+    "position": "Defence",
+    "nationality": "Spain",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-11-17",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jorge-cuenca/profil/spieler/494880",
+    "age": 26,
+    "jerseyNumber": null,
+    "marketValue": "8,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nr4wim1788881421.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_Cuenca_98750.png"
+  },
+  {
+    "id": 246418,
+    "name": "Joshua King",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2007-01-03",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/joshua-king/profil/spieler/91059",
+    "age": 34,
+    "jerseyNumber": null,
+    "marketValue": "1,20 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 8460,
+    "name": "Kenny Tete",
+    "position": "Defence",
+    "nationality": "Netherlands",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1995-10-09",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/kenny-tete/profil/spieler/206746",
+    "age": 30,
+    "jerseyNumber": null,
+    "marketValue": "8,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nvpvna1788881983.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kenny_Tete_8460.png"
+  },
+  {
+    "id": 179122,
+    "name": "Kevin Santos",
+    "position": "Offence",
+    "nationality": "Brazil",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-01-04",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 217596,
+    "name": "Luc De Fougerolles",
+    "position": "Defence",
+    "nationality": "Canada",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2005-10-12",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/luc-de-fougerolles/profil/spieler/921995",
+    "age": 20,
+    "jerseyNumber": null,
+    "marketValue": "1,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/phdusb1767621327.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luc_De_Fougerolles_217596.png"
+  },
+  {
+    "id": 291727,
+    "name": "Manuel Angel",
+    "position": "Midfield",
+    "nationality": "Spain",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2004-03-15",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/c13kuo1788880705.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Manuel_Angel_291727.png"
+  },
+  {
+    "id": 179716,
+    "name": "Oscar Bobb",
+    "position": "Offence",
+    "nationality": "Norway",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-07-12",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/oscar-bobb/profil/spieler/661207",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "28,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 138036,
+    "name": "Rodrigo Muniz",
+    "position": "Offence",
+    "nationality": "Brazil",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-05-04",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/rodrigo-muniz/profil/spieler/735571",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "20,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/et540m1788881693.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rodrigo_Muniz_138036.png"
+  },
+  {
+    "id": 3959,
+    "name": "Ryan Sessegnon",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-05-18",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/ryan-sessegnon/profil/spieler/392775",
+    "age": 26,
+    "jerseyNumber": null,
+    "marketValue": "22,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gcc47d1788881861.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ryan_Sessegnon_3959.png"
+  },
+  {
+    "id": 8973,
+    "name": "Sander Berge",
+    "position": "Midfield",
+    "nationality": "Norway",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1998-02-14",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/sander-berge/profil/spieler/333014",
+    "age": 28,
+    "jerseyNumber": null,
+    "marketValue": "25,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/euk9uw1788880781.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sander_Berge_8973.png"
+  },
+  {
+    "id": 192108,
+    "name": "Shea Charles",
+    "position": "Midfield",
+    "nationality": "Northern Ireland",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-11-05",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/shea-charles/profil/spieler/747951",
+    "age": 22,
+    "jerseyNumber": null,
+    "marketValue": "15,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 1836,
+    "name": "Timothy Castagne",
+    "position": "Defence",
+    "nationality": "Belgium",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1995-12-05",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/timothy-castagne/profil/spieler/262226",
+    "age": 30,
+    "jerseyNumber": null,
+    "marketValue": "8,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 3965,
+    "name": "Tom Cairney",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Fulham FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1991-01-20",
+    "team_logo_url": "https://crests.football-data.org/63.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/tom-cairney/profil/spieler/123275",
+    "age": 35,
+    "jerseyNumber": null,
+    "marketValue": "500 Tsd. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wujexd1788881291.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Tom_Cairney_3965.png"
+  },
+  {
     "id": 30298,
     "name": "Abdülkadir Ömür",
     "position": "Midfield",
@@ -24539,6 +25455,492 @@
     "photoUrl": "https://img.a.transfermarkt.technology/portrait/big/679423-1751529111.jpg?lm=1",
     "photoSource": "transfermarkt-dataset",
     "photo_path": "player_images/Tarik_Muharemović_189153.png"
+  },
+  {
+    "id": 6486,
+    "name": "Alexander Isak",
+    "position": "Offence",
+    "nationality": "Sweden",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-09-21",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/alexander-isak/profil/spieler/349066",
+    "age": 27,
+    "jerseyNumber": null,
+    "marketValue": "85,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/x5czue1788551058.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alexander_Isak_6486.png"
+  },
+  {
+    "id": 45681,
+    "name": "Alexis Mac Allister",
+    "position": "Midfield",
+    "nationality": "Argentina",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1998-12-24",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/alexis-mac-allister/profil/spieler/534033",
+    "age": 27,
+    "jerseyNumber": null,
+    "marketValue": "70,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 1795,
+    "name": "Alisson Becker",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1992-10-02",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 172762,
+    "name": "Bradley Barcola",
+    "position": "Offence",
+    "nationality": "France",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-09-02",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/bradley-barcola/profil/spieler/708265",
+    "age": 24,
+    "jerseyNumber": null,
+    "marketValue": "70,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 7459,
+    "name": "Cody Gakpo",
+    "position": "Offence",
+    "nationality": "Netherlands",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-05-07",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/cody-gakpo/profil/spieler/434675",
+    "age": 27,
+    "jerseyNumber": null,
+    "marketValue": "60,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lnikpg1788551025.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Cody_Gakpo_7459.png"
+  },
+  {
+    "id": 175865,
+    "name": "Conor Bradley",
+    "position": "Defence",
+    "nationality": "Northern Ireland",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-07-09",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/conor-bradley/profil/spieler/624258",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "25,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 16347,
+    "name": "Dominik Szoboszlai",
+    "position": "Midfield",
+    "nationality": "Hungary",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-10-25",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/dominik-szoboszlai/profil/spieler/451276",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "100,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 1780,
+    "name": "Federico Chiesa",
+    "position": "Offence",
+    "nationality": "Italy",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1997-10-25",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/federico-chiesa/profil/spieler/341092",
+    "age": 28,
+    "jerseyNumber": null,
+    "marketValue": "13,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 19334,
+    "name": "Florian Wirtz",
+    "position": "Midfield",
+    "nationality": "Germany",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-05-03",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/florian-wirtz/profil/spieler/598577",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "100,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 11629,
+    "name": "Freddie Woodman",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1997-03-04",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/freddie-woodman/profil/spieler/226049",
+    "age": 29,
+    "jerseyNumber": null,
+    "marketValue": "3,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yxvjpo1768228542.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Freddie_Woodman_11629.png"
+  },
+  {
+    "id": 84506,
+    "name": "Giorgi Mamardashvili",
+    "position": "Goalkeeper",
+    "nationality": "Georgia",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-09-29",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/giorgi-mamardashvili/profil/spieler/502676",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "28,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3yoja81757088527.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giorgi_Mamardashvili_84506.png"
+  },
+  {
+    "id": 192563,
+    "name": "Giovanni Leoni",
+    "position": "Defence",
+    "nationality": "Italy",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2006-12-21",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/giovanni-leoni/profil/spieler/1086619",
+    "age": 19,
+    "jerseyNumber": null,
+    "marketValue": "25,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 165154,
+    "name": "Harvey Davies",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-09-03",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/harvey-davies/profil/spieler/706815",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "500 Tsd. €",
+    "foot": "left",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 152454,
+    "name": "Hugo Ekitike",
+    "position": "Offence",
+    "nationality": "France",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-06-20",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 128954,
+    "name": "Jeremie Frimpong",
+    "position": "Defence",
+    "nationality": "Netherlands",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2000-12-10",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/jeremie-frimpong/profil/spieler/484547",
+    "age": 25,
+    "jerseyNumber": null,
+    "marketValue": "35,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 206127,
+    "name": "Jeremy Jacquet",
+    "position": "Defence",
+    "nationality": "France",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2005-07-13",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 7862,
+    "name": "Joe Gomez",
+    "position": "Defence",
+    "nationality": "England",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1997-05-23",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/joe-gomez/profil/spieler/256178",
+    "age": 29,
+    "jerseyNumber": null,
+    "marketValue": "13,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 7383,
+    "name": "Kostas Tsimikas",
+    "position": "Defence",
+    "nationality": "Greece",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1996-05-12",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 171141,
+    "name": "Milos Kerkez",
+    "position": "Defence",
+    "nationality": "Hungary",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-11-07",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/milos-kerkez/profil/spieler/730861",
+    "age": 22,
+    "jerseyNumber": null,
+    "marketValue": "35,00 Mio. €",
+    "foot": "left",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 273453,
+    "name": "Rio Ngumoha",
+    "position": "Offence",
+    "nationality": "England",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2008-08-29",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/rio-ngumoha/profil/spieler/1108466",
+    "age": 18,
+    "jerseyNumber": null,
+    "marketValue": "30,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 28292,
+    "name": "Ronald Araújo",
+    "position": "Defence",
+    "nationality": "Uruguay",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1999-03-07",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 81793,
+    "name": "Ryan Gravenberch",
+    "position": "Midfield",
+    "nationality": "Netherlands",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2002-05-16",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/ryan-gravenberch/profil/spieler/478573",
+    "age": 24,
+    "jerseyNumber": null,
+    "marketValue": "80,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kc4x061788591818.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ryan_Gravenberch_81793.png"
+  },
+  {
+    "id": 230517,
+    "name": "Trey Nyoni",
+    "position": "Midfield",
+    "nationality": "England",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2007-06-30",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/trey-nyoni/profil/spieler/1045123",
+    "age": 19,
+    "jerseyNumber": null,
+    "marketValue": "8,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 7869,
+    "name": "Virgil van Dijk",
+    "position": "Defence",
+    "nationality": "Netherlands",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1991-07-08",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/virgil-van-dijk/profil/spieler/139208",
+    "age": 35,
+    "jerseyNumber": null,
+    "marketValue": "15,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 273423,
+    "name": "Víctor Muñoz",
+    "position": "Offence",
+    "nationality": "Spain",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2003-07-13",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": "https://www.transfermarkt.co.uk/victor-munoz/profil/spieler/935231",
+    "age": 23,
+    "jerseyNumber": null,
+    "marketValue": "30,00 Mio. €",
+    "foot": "right",
+    "hasPhoto": false,
+    "photoUrl": null,
+    "photoSource": "transfermarkt-dataset"
+  },
+  {
+    "id": 152579,
+    "name": "Vítězslav Jaroš",
+    "position": "Goalkeeper",
+    "nationality": "Czech Republic",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "2001-07-23",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": false,
+    "photoUrl": null
+  },
+  {
+    "id": 3269,
+    "name": "Wataru Endō",
+    "position": "Midfield",
+    "nationality": "Japan",
+    "team_name": "Liverpool FC",
+    "league_name": "Premier League",
+    "dateOfBirth": "1993-02-09",
+    "team_logo_url": "https://crests.football-data.org/64.png",
+    "tmUrl": null,
+    "age": null,
+    "jerseyNumber": null,
+    "marketValue": null,
+    "foot": null,
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/11d2ua1788591892.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Wataru_Endō_3269.png"
   },
   {
     "id": 212868,
@@ -27689,9 +29091,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1ev66t1762357089.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alejandro_Rego_278297.png"
   },
   {
     "id": 7884,
@@ -27726,8 +29129,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/d9sf4b1712481765.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Benat_Prados_168663.png"
   },
   {
     "id": 279951,
@@ -27779,9 +29184,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9jfb1f1678567636.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gorka_Guruzeta_81565.png"
   },
   {
     "id": 229042,
@@ -27816,9 +29222,10 @@
     "jerseyNumber": null,
     "marketValue": "8,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xvxhdg1603578184.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iñaki_Williams_32629.png"
   },
   {
     "id": 136000,
@@ -27853,9 +29260,10 @@
     "jerseyNumber": null,
     "marketValue": "30,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rth02p1765728095.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mikel_Jauregizar_244599.png"
   },
   {
     "id": 172027,
@@ -27871,9 +29279,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4s222k1762284559.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nico_Serrano_172027.png"
   },
   {
     "id": 157135,
@@ -27889,9 +29298,10 @@
     "jerseyNumber": null,
     "marketValue": "40,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8lg7941629190551.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Nico_Williams_157135.png"
   },
   {
     "id": 126878,
@@ -27907,9 +29317,10 @@
     "jerseyNumber": null,
     "marketValue": "25,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/btz7y21723745224.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Oihan_Sancet_126878.png"
   },
   {
     "id": 270747,
@@ -27925,9 +29336,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/kmo3ut1784895961.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Peio_Canales_270747.png"
   },
   {
     "id": 101870,
@@ -27960,8 +29372,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j3b0zj1701165840.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ruiz_de_Galarreta_32481.png"
   },
   {
     "id": 261580,
@@ -27977,8 +29391,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1qjb0i1762284472.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sannadi_261580.png"
   },
   {
     "id": 261644,
@@ -28069,9 +29485,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2zraeh1603578286.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álex_Berenguer_2294.png"
   },
   {
     "id": 203459,
@@ -28106,9 +29523,10 @@
     "jerseyNumber": null,
     "marketValue": "4,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cj4xx31735982702.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álvaro_Djaló_185137.png"
   },
   {
     "id": 186674,
@@ -28160,9 +29578,10 @@
     "jerseyNumber": null,
     "marketValue": "500 Tsd. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9y4gxv1762531978.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Aitor_Fernández_32391.png"
   },
   {
     "id": 2237,
@@ -28231,9 +29650,10 @@
     "jerseyNumber": null,
     "marketValue": "1,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0xyt2d1762430322.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Diego_Rico_277.png"
   },
   {
     "id": 151019,
@@ -28266,8 +29686,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6nl8h71762532092.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iker_Munoz_191925.png"
   },
   {
     "id": 248752,
@@ -28372,9 +29794,10 @@
     "jerseyNumber": null,
     "marketValue": "2,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4c4e581762532167.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lucas_Torró_32002.png"
   },
   {
     "id": 32217,
@@ -28390,9 +29813,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dwld5v1762532025.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Moi_Gómez_32217.png"
   },
   {
     "id": 130324,
@@ -28425,9 +29849,10 @@
     "jerseyNumber": null,
     "marketValue": "3,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9o2nyu1759697482.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Raúl_Moro_146128.png"
   },
   {
     "id": 246027,
@@ -28515,9 +29940,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vox5x41762532152.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Valentin_Rosier_8559.png"
   },
   {
     "id": 9554,
@@ -28533,9 +29959,10 @@
     "jerseyNumber": null,
     "marketValue": "40,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wg0pod1772033492.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ademola_Lookman_9554.png"
   },
   {
     "id": 144576,
@@ -28551,8 +29978,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/04ntmp1762890059.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alejandro_Baena_144576.png"
   },
   {
     "id": 16739,
@@ -28568,9 +29997,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ddeb6b1756316030.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alejandro_Grimaldo_16739.png"
   },
   {
     "id": 8167,
@@ -28586,9 +30016,10 @@
     "jerseyNumber": null,
     "marketValue": "18,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Alexander_Sørloth_8167.png"
   },
   {
     "id": 172828,
@@ -28604,9 +30035,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": "both",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/y496z51785656990.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Arnau_Ortiz_172828.png"
   },
   {
     "id": 175937,
@@ -28673,9 +30105,10 @@
     "jerseyNumber": null,
     "marketValue": "35,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4pa7qb1762288414.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dávid_Hancko_15542.png"
   },
   {
     "id": 171964,
@@ -28691,9 +30124,10 @@
     "jerseyNumber": null,
     "marketValue": "40,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j97npy1762288635.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giuliano_Simeone_171964.png"
   },
   {
     "id": 120,
@@ -28709,9 +30143,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/akfmb31762287556.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jan_Oblak_120.png"
   },
   {
     "id": 123265,
@@ -28762,8 +30197,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o7mr1t1786279310.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_Domínguez_295747.png"
   },
   {
     "id": 46554,
@@ -28779,9 +30216,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/401mle1762287491.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Juan_Musso_46554.png"
   },
   {
     "id": 98571,
@@ -28797,8 +30235,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Julián_Álvarez_98571.png"
   },
   {
     "id": 213217,
@@ -28814,9 +30254,10 @@
     "jerseyNumber": null,
     "marketValue": "28,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3jhw2d1766335293.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kang-in_Lee_213217.png"
   },
   {
     "id": 112,
@@ -28832,9 +30273,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/dy8l941762288151.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Koke_112.png"
   },
   {
     "id": 176745,
@@ -28850,9 +30292,10 @@
     "jerseyNumber": null,
     "marketValue": "35,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jf6st71762288533.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marc_Pubill_176745.png"
   },
   {
     "id": 70,
@@ -28868,9 +30311,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/god7pd1762288454.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcos_Llorente_70.png"
   },
   {
     "id": 73998,
@@ -28886,9 +30330,10 @@
     "jerseyNumber": null,
     "marketValue": "45,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5tz51l1762290678.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Morten_Hjulmand_73998.png"
   },
   {
     "id": 170442,
@@ -28904,9 +30349,10 @@
     "jerseyNumber": null,
     "marketValue": "10,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q2lr0l1778763555.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Obed_Vargas_170442.png"
   },
   {
     "id": 191151,
@@ -28940,9 +30386,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ubsd6x1762288701.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Robin_Le_Normand_99791.png"
   },
   {
     "id": 189617,
@@ -28958,9 +30405,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/qxbxie1762371952.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rodrigo_Mendoza_189617.png"
   },
   {
     "id": 279062,
@@ -29487,9 +30935,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wj4gik1787515823.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ali_Houary_229141.png"
   },
   {
     "id": 33516,
@@ -29559,9 +31008,10 @@
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tuuba61787515987.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Facundo_Buonanotte_184273.png"
   },
   {
     "id": 170459,
@@ -29612,9 +31062,10 @@
     "jerseyNumber": null,
     "marketValue": "6,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cjgs781762372211.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Germán_Valera_137485.png"
   },
   {
     "id": 33150,
@@ -29684,8 +31135,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4k1hs11762371637.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Josán_Fernández_32281.png"
   },
   {
     "id": 154556,
@@ -29719,9 +31172,10 @@
     "jerseyNumber": null,
     "marketValue": "2,50 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8h82p91775220816.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lucas_Cepeda_171148.png"
   },
   {
     "id": 159647,
@@ -29969,8 +31423,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/muk5791788374132.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Brian_Fariñas_298638.png"
   },
   {
     "id": 23132,
@@ -29986,9 +31442,10 @@
     "jerseyNumber": null,
     "marketValue": "60,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s9hzoh1725611346.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dani_Olmo_23132.png"
   },
   {
     "id": 3548,
@@ -30039,9 +31496,10 @@
     "jerseyNumber": null,
     "marketValue": "100,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4skahz1761512602.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Fermín_López_214533.png"
   },
   {
     "id": 7559,
@@ -30146,8 +31604,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/yt83if1788527726.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jesse_Bisiwu_298634.png"
   },
   {
     "id": 152506,
@@ -30181,9 +31641,10 @@
     "jerseyNumber": null,
     "marketValue": "8,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zqjhte1771260324.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/João_Cancelo_2000.png"
   },
   {
     "id": 8499,
@@ -30235,9 +31696,10 @@
     "jerseyNumber": null,
     "marketValue": "200,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9n4ja1761512633.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Lamine_Yamal_202283.png"
   },
   {
     "id": 264321,
@@ -30288,9 +31750,10 @@
     "jerseyNumber": null,
     "marketValue": "80,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/tynei31768321729.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pau_Cubarsí_217540.png"
   },
   {
     "id": 133860,
@@ -30378,8 +31841,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/f6c4oc1762289852.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Wojciech_Szczęsny_2022.png"
   },
   {
     "id": 287848,
@@ -30862,8 +32327,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mgbfe31762463927.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Adrián_de_la_Fuente_98741.png"
   },
   {
     "id": 272949,
@@ -30879,9 +32346,10 @@
     "jerseyNumber": null,
     "marketValue": "8,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4b8tev1756316529.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Axel_Tape_272949.png"
   },
   {
     "id": 19,
@@ -30897,9 +32365,10 @@
     "jerseyNumber": null,
     "marketValue": "1,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u0lyro1766078291.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Aïssa_Mandi_19.png"
   },
   {
     "id": 156525,
@@ -30915,9 +32384,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bt2no81762463748.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Carlos_Álvarez_156525.png"
   },
   {
     "id": 206721,
@@ -30986,9 +32456,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "both",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iagott1769030864.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ifeanyi_Ndukwe_279739.png"
   },
   {
     "id": 156746,
@@ -31004,9 +32475,10 @@
     "jerseyNumber": null,
     "marketValue": "8,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/jiyb2t1762464149.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iván_Romero_156746.png"
   },
   {
     "id": 162,
@@ -31022,9 +32494,10 @@
     "jerseyNumber": null,
     "marketValue": "2,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rd4afv1762464201.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jeremy_Toljan_162.png"
   },
   {
     "id": 161293,
@@ -31057,9 +32530,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wk0erw1762463801.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_Cabello_249065.png"
   },
   {
     "id": 203439,
@@ -31163,9 +32637,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rpjeqa1762464130.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Oriol_Rey_4159.png"
   },
   {
     "id": 165167,
@@ -31181,8 +32656,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rs8h3k1762463835.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pablo_Cuñat_165167.png"
   },
   {
     "id": 253109,
@@ -31216,9 +32693,10 @@
     "jerseyNumber": null,
     "marketValue": "9,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3fducx1769718236.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Petar_Ratkov_212769.png"
   },
   {
     "id": 33819,
@@ -31234,9 +32712,10 @@
     "jerseyNumber": null,
     "marketValue": "2,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oljrli1762463787.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Roger_Brugué_33819.png"
   },
   {
     "id": 193621,
@@ -31252,8 +32731,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zej6lz1716985021.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Thiago_Fernandez_193621.png"
   },
   {
     "id": 83333,
@@ -31595,8 +33076,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/y5tag81784903479.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Haitam_Abaida_157213.png"
   },
   {
     "id": 243857,
@@ -31724,9 +33207,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/c48ueu1784904657.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Julen_Lobete_138177.png"
   },
   {
     "id": 203607,
@@ -31868,9 +33352,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cy9onr1762371915.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Aleix_Febas_32052.png"
   },
   {
     "id": 29518,
@@ -31886,9 +33371,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/1celih1766826628.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Altay_Bayındır_29518.png"
   },
   {
     "id": 32056,
@@ -31904,9 +33390,10 @@
     "jerseyNumber": null,
     "marketValue": "2,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/mrr5cf1724495214.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Borja_Iglesias_32056.png"
   },
   {
     "id": 31019,
@@ -31940,9 +33427,10 @@
     "jerseyNumber": null,
     "marketValue": "7,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cjlexr1764594758.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Couhaib_Driouech_150536.png"
   },
   {
     "id": 83406,
@@ -31958,9 +33446,10 @@
     "jerseyNumber": null,
     "marketValue": "10,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6qjotl1762292254.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ferran_Jutglà_83406.png"
   },
   {
     "id": 175869,
@@ -31976,8 +33465,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vjcjaz1724492291.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Hugo_Alvarez_175869.png"
   },
   {
     "id": 175892,
@@ -32010,9 +33501,10 @@
     "jerseyNumber": null,
     "marketValue": "1,60 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/t934v21724492357.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iago_Aspas_3201.png"
   },
   {
     "id": 157368,
@@ -32028,9 +33520,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ag1ocr1724495141.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ilaix_Moriba_157368.png"
   },
   {
     "id": 2788,
@@ -32082,9 +33575,10 @@
     "jerseyNumber": null,
     "marketValue": "18,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nke2ne1724492957.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Javi_Rodríguez_229003.png"
   },
   {
     "id": 253001,
@@ -32100,9 +33594,10 @@
     "jerseyNumber": null,
     "marketValue": "6,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vptiua1762292520.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Javi_Rueda_253001.png"
   },
   {
     "id": 32336,
@@ -32171,9 +33666,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9vayps1762292433.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Miguel_Román_272435.png"
   },
   {
     "id": 188859,
@@ -32189,8 +33685,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2xq5001724494061.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pablo_Duran_188859.png"
   },
   {
     "id": 28326,
@@ -32241,9 +33739,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/92c9sy1724492478.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Williot_Swedberg_170438.png"
   },
   {
     "id": 252993,
@@ -32277,9 +33776,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rly9ti1762372000.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álvaro_Núñez_211835.png"
   },
   {
     "id": 4221,
@@ -33043,9 +34543,10 @@
     "jerseyNumber": null,
     "marketValue": "1,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/v4jpac1762378805.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pere_Milla_32398.png"
   },
   {
     "id": 125210,
@@ -33079,9 +34580,10 @@
     "jerseyNumber": null,
     "marketValue": "16,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/q4nz0l1757174516.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Quilindschy_Hartman_187219.png"
   },
   {
     "id": 261640,
@@ -33187,8 +34689,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8lz5f01762378979.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Urko_González_151031.png"
   },
   {
     "id": 79899,
@@ -33290,9 +34794,10 @@
     "jerseyNumber": null,
     "marketValue": "18,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cs043n1762549932.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andrei_Rațiu_114955.png"
   },
   {
     "id": 46245,
@@ -33308,9 +34813,10 @@
     "jerseyNumber": null,
     "marketValue": "6,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/m9ac5o1762549584.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Augusto_Batalla_46245.png"
   },
   {
     "id": 133288,
@@ -33326,9 +34832,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w7wjo31762549613.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Dani_Cárdenas_133288.png"
   },
   {
     "id": 3087,
@@ -33344,9 +34851,10 @@
     "jerseyNumber": null,
     "marketValue": "2,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4at7s91758885959.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Emil_Audero_3087.png"
   },
   {
     "id": 7925,
@@ -33362,9 +34870,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/j9u4u01762549794.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Florian_Lejeune_7925.png"
   },
   {
     "id": 187117,
@@ -33431,9 +34940,10 @@
     "jerseyNumber": null,
     "marketValue": "2,80 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/iq3dzl1762549895.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Isi_Palazón_33496.png"
   },
   {
     "id": 8716,
@@ -33449,9 +34959,10 @@
     "jerseyNumber": null,
     "marketValue": "1,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2vvzwx1762549558.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iván_Balliu_8716.png"
   },
   {
     "id": 133276,
@@ -33467,9 +34978,10 @@
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/64723l1762549730.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_de_Frutos_133276.png"
   },
   {
     "id": 168725,
@@ -33485,9 +34997,10 @@
     "jerseyNumber": null,
     "marketValue": "2,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sjx6gt1762550000.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jozhua_Vertrouwd_168725.png"
   },
   {
     "id": 2071,
@@ -33503,9 +35016,10 @@
     "jerseyNumber": null,
     "marketValue": "2,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9puzif1762549716.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Luiz_Felipe_2071.png"
   },
   {
     "id": 2151,
@@ -33521,9 +35035,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/p1cz211762524158.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marash_Kumbulla_2151.png"
   },
   {
     "id": 81425,
@@ -33556,9 +35071,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/bi73zj1767642032.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Mujaid_Sadick_33650.png"
   },
   {
     "id": 37649,
@@ -33574,9 +35090,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/64dzq41762549645.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pathé_Ciss_37649.png"
   },
   {
     "id": 32228,
@@ -33592,9 +35109,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5894461762549662.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pedro_Díaz_32228.png"
   },
   {
     "id": 92048,
@@ -33662,9 +35180,10 @@
     "jerseyNumber": null,
     "marketValue": "500 Tsd. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/41m4zr1679059328.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Raúl_de_Tomás_32127.png"
   },
   {
     "id": 115175,
@@ -33680,9 +35199,10 @@
     "jerseyNumber": null,
     "marketValue": "3,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5qk8rd1762549598.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Sergio_Camello_115175.png"
   },
   {
     "id": 32124,
@@ -33698,9 +35218,10 @@
     "jerseyNumber": null,
     "marketValue": "2,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/i3qyea1762549812.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Unai_López_32124.png"
   },
   {
     "id": 32312,
@@ -33716,9 +35237,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "both",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/5x8zh31762549754.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álvaro_García_32312.png"
   },
   {
     "id": 32109,
@@ -33734,9 +35256,10 @@
     "jerseyNumber": null,
     "marketValue": "2,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/oipi571762549970.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Óscar_Valentín_32109.png"
   },
   {
     "id": 175941,
@@ -33805,8 +35328,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/hfpkr51762602891.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bartra_33038.png"
   },
   {
     "id": 32415,
@@ -33947,9 +35472,10 @@
     "jerseyNumber": null,
     "marketValue": "2,40 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/s9bg2m1762602906.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Héctor_Bellerín_7783.png"
   },
   {
     "id": 126913,
@@ -34036,9 +35562,10 @@
     "jerseyNumber": null,
     "marketValue": "25,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/gi059x1762602815.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Natan_138031.png"
   },
   {
     "id": 179141,
@@ -34126,9 +35653,10 @@
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/sb4du71762603007.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Valentín_Gómez_179155.png"
   },
   {
     "id": 99992,
@@ -34162,8 +35690,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/y059sw1762603136.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álvaro_Vallés_Rosa_100130.png"
   },
   {
     "id": 272694,
@@ -34197,9 +35727,10 @@
     "jerseyNumber": null,
     "marketValue": "12,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/eg2iom1788111915.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andriy_Lunin_28995.png"
   },
   {
     "id": 3177,
@@ -34250,8 +35781,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8ov2ro1788113887.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Aurélien_Tchouameni_8514.png"
   },
   {
     "id": 3254,
@@ -34267,9 +35800,10 @@
     "jerseyNumber": null,
     "marketValue": "22,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zfv07e1788114024.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Bernardo_Silva_3254.png"
   },
   {
     "id": 7887,
@@ -34285,8 +35819,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/izl76o1788114611.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Brahim_Diaz_7887.png"
   },
   {
     "id": 247061,
@@ -34355,9 +35891,10 @@
     "jerseyNumber": null,
     "marketValue": "25,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cjai9h1788113606.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Denzel_Dumfries_7417.png"
   },
   {
     "id": 102343,
@@ -34391,9 +35928,10 @@
     "jerseyNumber": null,
     "marketValue": "40,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lhg9vv1788114231.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Endrick_188487.png"
   },
   {
     "id": 96,
@@ -34409,9 +35947,10 @@
     "jerseyNumber": null,
     "marketValue": "90,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6rcajb1788113814.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Federico_Valverde_96.png"
   },
   {
     "id": 8458,
@@ -34463,9 +36002,10 @@
     "jerseyNumber": null,
     "marketValue": "7,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/u4u6bp1788531715.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jorge_Cestero_289908.png"
   },
   {
     "id": 125010,
@@ -34481,9 +36021,10 @@
     "jerseyNumber": null,
     "marketValue": "130,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7idg7x1788113677.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jude_Bellingham_125010.png"
   },
   {
     "id": 3374,
@@ -34499,9 +36040,10 @@
     "jerseyNumber": null,
     "marketValue": "180,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cxrmkm1788114306.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kylian_Mbappé_3374.png"
   },
   {
     "id": 272712,
@@ -34534,9 +36076,10 @@
     "jerseyNumber": null,
     "marketValue": "45,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0l7szu1788114374.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Rodrygo_1324.png"
   },
   {
     "id": 283110,
@@ -34552,9 +36095,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rsya0t1788114088.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Thiago_Pitarch_283110.png"
   },
   {
     "id": 3641,
@@ -34570,9 +36114,10 @@
     "jerseyNumber": null,
     "marketValue": "15,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/w5p8eo1788111831.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Thibaut_Courtois_3641.png"
   },
   {
     "id": 7867,
@@ -34606,9 +36151,10 @@
     "jerseyNumber": null,
     "marketValue": "140,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/z5o9zt1788114155.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Vinicius_Junior_1556.png"
   },
   {
     "id": 277484,
@@ -34624,8 +36170,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/p2z4n01788114681.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Yan_Diomandé_277484.png"
   },
   {
     "id": 182020,
@@ -34641,9 +36189,10 @@
     "jerseyNumber": null,
     "marketValue": "50,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cn44j11788113370.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Álvaro_Carreras_182020.png"
   },
   {
     "id": 1337,
@@ -34659,9 +36208,10 @@
     "jerseyNumber": null,
     "marketValue": "20,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xo4fdb1788112164.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Éder_Militão_1337.png"
   },
   {
     "id": 32701,
@@ -34712,9 +36262,10 @@
     "jerseyNumber": null,
     "marketValue": "1,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/6hr1kp1784900495.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Andrés_Martín_32679.png"
   },
   {
     "id": 180099,
@@ -34765,8 +36316,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/cz6zee1784900259.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Canales_25.png"
   },
   {
     "id": 214537,
@@ -34836,9 +36389,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/2j1ov11762457230.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iván_Martín_102497.png"
   },
   {
     "id": 102151,
@@ -34854,9 +36408,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/p8na9v1784897499.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Iñigo_Vicente_102151.png"
   },
   {
     "id": 177037,
@@ -34872,8 +36427,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/chdop81756315757.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jeanuel_Belocian_177037.png"
   },
   {
     "id": 3874,
@@ -34943,9 +36500,10 @@
     "jerseyNumber": null,
     "marketValue": "5,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xuxc1k1764336469.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Matteo_Prati_166329.png"
   },
   {
     "id": 150539,
@@ -34995,9 +36553,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/svkzl11777026809.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Pedro_Felipe_246656.png"
   },
   {
     "id": 264402,
@@ -35048,9 +36607,10 @@
     "jerseyNumber": null,
     "marketValue": "9,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://www.thesportsdb.com/images/media/player/cutout/tel04z1789724905.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Yassir_Zabiri_265516.png"
   },
   {
     "id": 159518,
@@ -35545,9 +37105,10 @@
     "jerseyNumber": null,
     "marketValue": "8,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/0msj721765990707.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Arouna_Sangante_157842.png"
   },
   {
     "id": 180165,
@@ -35580,9 +37141,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xdrc5t1762860070.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Chidera_Ejuke_38625.png"
   },
   {
     "id": 206826,
@@ -35615,9 +37177,10 @@
     "jerseyNumber": null,
     "marketValue": "1,50 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3kbmdg1762860001.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Fábio_Cardoso_34909.png"
   },
   {
     "id": 127657,
@@ -35633,9 +37196,10 @@
     "jerseyNumber": null,
     "marketValue": "10,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lpkgpm1766077457.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Félix_Correia_127657.png"
   },
   {
     "id": 21385,
@@ -35651,9 +37215,10 @@
     "jerseyNumber": null,
     "marketValue": "6,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8o2ezj1762860532.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Gabriel_Suazo_21385.png"
   },
   {
     "id": 144628,
@@ -35669,9 +37234,10 @@
     "jerseyNumber": null,
     "marketValue": "4,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/ahwgg11718735692.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Giorgi_Kochorashvili_144628.png"
   },
   {
     "id": 213043,
@@ -35704,9 +37270,10 @@
     "jerseyNumber": null,
     "marketValue": "1,80 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/8kw2m71762353127.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jon_Guridi_33092.png"
   },
   {
     "id": 171984,
@@ -35722,8 +37289,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/lg4r031762860041.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Jose_Angel_Carmona_171984.png"
   },
   {
     "id": 83351,
@@ -35739,9 +37308,10 @@
     "jerseyNumber": null,
     "marketValue": "5,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/l2zu1b1762430136.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Juan_Iglesias_83351.png"
   },
   {
     "id": 291147,
@@ -35775,9 +37345,10 @@
     "jerseyNumber": null,
     "marketValue": "14,00 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/77ozl11762860316.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Kike_Salas_178107.png"
   },
   {
     "id": 188897,
@@ -35846,9 +37417,10 @@
     "jerseyNumber": null,
     "marketValue": "2,50 Mio. €",
     "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fxsymk1762859841.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Marcão_45449.png"
   },
   {
     "id": 226950,
@@ -35898,8 +37470,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/zg8oe31762860576.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Odisseas_Vlachodimos_42871.png"
   },
   {
     "id": 185105,
@@ -35932,9 +37506,10 @@
     "jerseyNumber": null,
     "marketValue": "2,20 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/thumb/4rpf3p1786476107.jpg",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Robbie_Ure_187311.png"
   },
   {
     "id": 31913,
@@ -35950,8 +37525,10 @@
     "jerseyNumber": null,
     "marketValue": null,
     "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/9jkl9w1762860549.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Ruben_Vargas_31913.png"
   },
   {
     "id": 81299,
@@ -35967,9 +37544,10 @@
     "jerseyNumber": null,
     "marketValue": "23,00 Mio. €",
     "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
+    "hasPhoto": true,
+    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/3npg7a1758892447.png",
+    "photoSource": "thesportsdb",
+    "photo_path": "player_images/Youssouf_Fofana_81299.png"
   },
   {
     "id": 245521,
@@ -41517,501 +43095,6 @@
     "photo_path": "player_images/Wisdom_Amey_167734.png"
   },
   {
-    "id": 188644,
-    "name": "Alessandro Marcandalli",
-    "position": "Defence",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2002-10-25",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/alessandro-marcandalli/profil/spieler/818448",
-    "age": 23,
-    "jerseyNumber": null,
-    "marketValue": "14,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/wx8p5c1758989259.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Alessandro_Marcandalli_188644.png"
-  },
-  {
-    "id": 203350,
-    "name": "Alexsandro Amorim",
-    "position": "Midfield",
-    "nationality": "Brazil",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2005-05-18",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 147780,
-    "name": "Cody Drameh",
-    "position": "Defence",
-    "nationality": "England",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2001-12-08",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/cody-drameh/profil/spieler/531957",
-    "age": 24,
-    "jerseyNumber": null,
-    "marketValue": "3,50 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/rmaian1787492188.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Cody_Drameh_147780.png"
-  },
-  {
-    "id": 75224,
-    "name": "Daniele Sommariva",
-    "position": "Goalkeeper",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1997-07-18",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/daniele-sommariva/profil/spieler/312773",
-    "age": 29,
-    "jerseyNumber": null,
-    "marketValue": "100 Tsd. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/xq8w0i1758997694.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Daniele_Sommariva_75224.png"
-  },
-  {
-    "id": 217262,
-    "name": "David Puczka",
-    "position": "Defence",
-    "nationality": "Austria",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2005-01-26",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 16275,
-    "name": "Djibril Sow",
-    "position": "Midfield",
-    "nationality": "Switzerland",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1997-02-06",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/djibril-sow/profil/spieler/212723",
-    "age": 29,
-    "jerseyNumber": null,
-    "marketValue": "7,50 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/b5k7ty1762860513.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Djibril_Sow_16275.png"
-  },
-  {
-    "id": 160899,
-    "name": "Elias Havel",
-    "position": "Offence",
-    "nationality": "Austria",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2003-04-16",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/elias-havel/profil/spieler/566626",
-    "age": 23,
-    "jerseyNumber": null,
-    "marketValue": "2,20 Mio. €",
-    "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 279548,
-    "name": "Ethan Meichtry",
-    "position": "Midfield",
-    "nationality": "Switzerland",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2005-07-08",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/or26hk1777914881.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Ethan_Meichtry_279548.png"
-  },
-  {
-    "id": 76696,
-    "name": "Franz Stolz",
-    "position": "Goalkeeper",
-    "nationality": "Austria",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2001-02-14",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/franz-stolz/profil/spieler/462699",
-    "age": 25,
-    "jerseyNumber": null,
-    "marketValue": "600 Tsd. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/fffemn1769373543.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Franz_Stolz_76696.png"
-  },
-  {
-    "id": 2499,
-    "name": "Hamed Traoré",
-    "position": "Offence",
-    "nationality": "Ivory Coast",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2000-02-16",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/hamed-traore/profil/spieler/391065",
-    "age": 26,
-    "jerseyNumber": null,
-    "marketValue": "15,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 39330,
-    "name": "Johan Vásquez",
-    "position": "Defence",
-    "nationality": "Mexico",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1998-10-22",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/johan-vasquez/profil/spieler/532937",
-    "age": 27,
-    "jerseyNumber": null,
-    "marketValue": "12,00 Mio. €",
-    "foot": "left",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/7q4sks1758997735.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Johan_Vásquez_39330.png"
-  },
-  {
-    "id": 97869,
-    "name": "Junior Messias",
-    "position": "Offence",
-    "nationality": "Brazil",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1991-05-13",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/junior-messias/profil/spieler/449151",
-    "age": 35,
-    "jerseyNumber": null,
-    "marketValue": "1,10 Mio. €",
-    "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 7460,
-    "name": "Justin Bijlow",
-    "position": "Goalkeeper",
-    "nationality": "Netherlands",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1998-01-22",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/justin-bijlow/profil/spieler/315121",
-    "age": 28,
-    "jerseyNumber": null,
-    "marketValue": "4,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vku13u1758187123.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Justin_Bijlow_7460.png"
-  },
-  {
-    "id": 44032,
-    "name": "Leo Østigård",
-    "position": "Defence",
-    "nationality": "Norway",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1999-11-28",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/leo-ostigard/profil/spieler/367284",
-    "age": 26,
-    "jerseyNumber": null,
-    "marketValue": "13,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/riue4t1758997507.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Leo_Østigård_44032.png"
-  },
-  {
-    "id": 144566,
-    "name": "Lorenzo Colombo",
-    "position": "Offence",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2002-03-08",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/lorenzo-colombo/profil/spieler/487843",
-    "age": 24,
-    "jerseyNumber": null,
-    "marketValue": "10,00 Mio. €",
-    "foot": "left",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 274222,
-    "name": "Lorenzo Venturino",
-    "position": "Offence",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2006-06-22",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/lorenzo-venturino/profil/spieler/1061820",
-    "age": 20,
-    "jerseyNumber": null,
-    "marketValue": "5,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 292956,
-    "name": "Mamedi Doucouré",
-    "position": "Defence",
-    "nationality": "France",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2007-01-19",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/mamedi-doucoure/profil/spieler/1105948",
-    "age": 19,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": "right",
-    "hasPhoto": false,
-    "photoUrl": null,
-    "photoSource": "transfermarkt-dataset"
-  },
-  {
-    "id": 298167,
-    "name": "Marcelo Vaz",
-    "position": "Defence",
-    "nationality": "Guinea-Bissau",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2007-07-31",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 152697,
-    "name": "Mario Mitaj",
-    "position": "Defence",
-    "nationality": "Albania",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2003-08-06",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/mario-mitaj/profil/spieler/726114",
-    "age": 23,
-    "jerseyNumber": null,
-    "marketValue": "6,00 Mio. €",
-    "foot": "left",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/4s6lck1716833460.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Mario_Mitaj_152697.png"
-  },
-  {
-    "id": 172413,
-    "name": "Mikael Egill Ellertsson",
-    "position": "Midfield",
-    "nationality": "Iceland",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2002-03-11",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/mikael-egill-ellertsson/profil/spieler/566615",
-    "age": 24,
-    "jerseyNumber": null,
-    "marketValue": "6,00 Mio. €",
-    "foot": "left",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/o42gxk1758989060.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Mikael_Egill_Ellertsson_172413.png"
-  },
-  {
-    "id": 67743,
-    "name": "Milutin Osmajić",
-    "position": "Offence",
-    "nationality": "Montenegro",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1999-07-25",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 24119,
-    "name": "Morten Frendrup",
-    "position": "Midfield",
-    "nationality": "Denmark",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2001-04-07",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/morten-frendrup/profil/spieler/503871",
-    "age": 25,
-    "jerseyNumber": null,
-    "marketValue": "15,00 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/nmzwe81758989202.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Morten_Frendrup_24119.png"
-  },
-  {
-    "id": 292420,
-    "name": "Samuel Wiafe",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2008-06-22",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
-    "id": 188357,
-    "name": "Sebastian Otoa",
-    "position": "Defence",
-    "nationality": "Denmark",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2004-05-13",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/sebastian-otoa/profil/spieler/890385",
-    "age": 22,
-    "jerseyNumber": null,
-    "marketValue": "2,50 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/p5whxi1758997523.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Sebastian_Otoa_188357.png"
-  },
-  {
-    "id": 2443,
-    "name": "Stefano Sabelli",
-    "position": "Defence",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "1993-01-13",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/stefano-sabelli/profil/spieler/167491",
-    "age": 33,
-    "jerseyNumber": null,
-    "marketValue": "1,30 Mio. €",
-    "foot": "right",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/h55zq61758997662.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Stefano_Sabelli_2443.png"
-  },
-  {
-    "id": 154031,
-    "name": "Tommaso Baldanzi",
-    "position": "Midfield",
-    "nationality": "Italy",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2003-03-23",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": "https://www.transfermarkt.co.uk/tommaso-baldanzi/profil/spieler/641537",
-    "age": 23,
-    "jerseyNumber": null,
-    "marketValue": "8,50 Mio. €",
-    "foot": "left",
-    "hasPhoto": true,
-    "photoUrl": "https://r2.thesportsdb.com/images/media/player/cutout/vg7j8q1758815262.png",
-    "photoSource": "thesportsdb",
-    "photo_path": "player_images/Tommaso_Baldanzi_154031.png"
-  },
-  {
-    "id": 156819,
-    "name": "Vitor Oliveira",
-    "position": "Offence",
-    "nationality": "Portugal",
-    "team_name": "Genoa CFC",
-    "league_name": "Serie A",
-    "dateOfBirth": "2000-03-15",
-    "team_logo_url": "https://crests.football-data.org/107.png",
-    "tmUrl": null,
-    "age": null,
-    "jerseyNumber": null,
-    "marketValue": null,
-    "foot": null,
-    "hasPhoto": false,
-    "photoUrl": null
-  },
-  {
     "id": 124865,
     "name": "Andrea Cambiaso",
     "position": "Defence",
@@ -45771,7 +46854,7 @@
     "dateOfBirth": "2002-09-21",
     "team_logo_url": "https://crests.football-data.org/471.png",
     "tmUrl": "https://www.transfermarkt.de/kieron-bowie/profil/spieler/647280",
-    "age": 23,
+    "age": 24,
     "jerseyNumber": null,
     "marketValue": "7,00 Mio. €",
     "foot": "left",
